@@ -1,0 +1,9074 @@
+[
+  {
+    "nome": "2001P - LJ000 - Ensolarado Limão",
+    "rgb": {
+      "r": 228,
+      "g": 217,
+      "b": 185
+    },
+    "hex": "#E4D9B9"
+  },
+  {
+    "nome": "2002P - LJ000 - Baunilha Creme",
+    "rgb": {
+      "r": 244,
+      "g": 225,
+      "b": 169
+    },
+    "hex": "#F4E1A9"
+  },
+  {
+    "nome": "2003T - LA000 - Jasmim Doce",
+    "rgb": {
+      "r": 212,
+      "g": 195,
+      "b": 117
+    },
+    "hex": "#D4C375"
+  },
+  {
+    "nome": "2004T - LA000 - Explosão de Sol",
+    "rgb": {
+      "r": 216,
+      "g": 196,
+      "b": 101
+    },
+    "hex": "#D8C465"
+  },
+  {
+    "nome": "2005T - LA000 - Prímula Caminho",
+    "rgb": {
+      "r": 216,
+      "g": 196,
+      "b": 109
+    },
+    "hex": "#D8C46D"
+  },
+  {
+    "nome": "2006D - LA000 - Lanterna Brilho",
+    "rgb": {
+      "r": 206,
+      "g": 181,
+      "b": 37
+    },
+    "hex": "#CEB525"
+  },
+  {
+    "nome": "2007C - LA000 - Aspargo",
+    "rgb": {
+      "r": 169,
+      "g": 156,
+      "b": 44
+    },
+    "hex": "#A99C2C"
+  },
+  {
+    "nome": "2008P - LA000 - Tulipa Claro",
+    "rgb": {
+      "r": 238,
+      "g": 233,
+      "b": 204
+    },
+    "hex": "#EEE9CC"
+  },
+  {
+    "nome": "2009P - LA000 - Luz das Estrelas",
+    "rgb": {
+      "r": 241,
+      "g": 233,
+      "b": 197
+    },
+    "hex": "#F1E9C5"
+  },
+  {
+    "nome": "2010P - LA000 - Banana Creme",
+    "rgb": {
+      "r": 244,
+      "g": 224,
+      "b": 151
+    },
+    "hex": "#F4E097"
+  },
+  {
+    "nome": "2011T - LA000 - Merengue",
+    "rgb": {
+      "r": 246,
+      "g": 227,
+      "b": 132
+    },
+    "hex": "#F6E384"
+  },
+  {
+    "nome": "2012T - LA000 - Alegria",
+    "rgb": {
+      "r": 252,
+      "g": 220,
+      "b": 109
+    },
+    "hex": "#FCDC6D"
+  },
+  {
+    "nome": "2013D - LA000 - Texas Amarelo",
+    "rgb": {
+      "r": 245,
+      "g": 210,
+      "b": 20
+    },
+    "hex": "#F5D214"
+  },
+  {
+    "nome": "2014C - LA000 - Bumble Abelha",
+    "rgb": {
+      "r": 237,
+      "g": 198,
+      "b": 0
+    },
+    "hex": "#EDC600"
+  },
+  {
+    "nome": "2015P - LJ000 - Cera Amarelo",
+    "rgb": {
+      "r": 247,
+      "g": 240,
+      "b": 224
+    },
+    "hex": "#F7F0E0"
+  },
+  {
+    "nome": "2016P - LA000 - Limão Bálsamo",
+    "rgb": {
+      "r": 244,
+      "g": 235,
+      "b": 206
+    },
+    "hex": "#F4EBCE"
+  },
+  {
+    "nome": "2017P - LJ000 - Suflê",
+    "rgb": {
+      "r": 244,
+      "g": 225,
+      "b": 169
+    },
+    "hex": "#F4E1A9"
+  },
+  {
+    "nome": "2018T - LA000 - Margarida Corrente",
+    "rgb": {
+      "r": 244,
+      "g": 227,
+      "b": 149
+    },
+    "hex": "#F4E395"
+  },
+  {
+    "nome": "2019T - LA000 - Sunscape",
+    "rgb": {
+      "r": 249,
+      "g": 218,
+      "b": 112
+    },
+    "hex": "#F9DA70"
+  },
+  {
+    "nome": "2020D - LA000 - Tulipa Amarelo",
+    "rgb": {
+      "r": 250,
+      "g": 205,
+      "b": 2
+    },
+    "hex": "#FACD02"
+  },
+  {
+    "nome": "2021C - LJ000 - Equador",
+    "rgb": {
+      "r": 250,
+      "g": 186,
+      "b": 1
+    },
+    "hex": "#FABA01"
+  },
+  {
+    "nome": "2022P - LA000 - Chardonnay",
+    "rgb": {
+      "r": 238,
+      "g": 232,
+      "b": 210
+    },
+    "hex": "#EEE8D2"
+  },
+  {
+    "nome": "2023P - LJ000 - Abacaxi Sorbet",
+    "rgb": {
+      "r": 249,
+      "g": 227,
+      "b": 190
+    },
+    "hex": "#F9E3BE"
+  },
+  {
+    "nome": "2024P - LA000 - Botão-de-Ouro Névoa",
+    "rgb": {
+      "r": 245,
+      "g": 221,
+      "b": 149
+    },
+    "hex": "#F5DD95"
+  },
+  {
+    "nome": "2026T - LJ000 - Raio de Sol",
+    "rgb": {
+      "r": 249,
+      "g": 215,
+      "b": 118
+    },
+    "hex": "#F9D776"
+  },
+  {
+    "nome": "2025T - LJ000 - Cassel Amarelo",
+    "rgb": {
+      "r": 253,
+      "g": 204,
+      "b": 86
+    },
+    "hex": "#FDCC56"
+  },
+  {
+    "nome": "2027D - LA000 - Flamejante Sol",
+    "rgb": {
+      "r": 248,
+      "g": 187,
+      "b": 1
+    },
+    "hex": "#F8BB01"
+  },
+  {
+    "nome": "2028C - LJ000 - do Rei Ransom",
+    "rgb": {
+      "r": 249,
+      "g": 174,
+      "b": 3
+    },
+    "hex": "#F9AE03"
+  },
+  {
+    "nome": "2029P - LJ000 - Papel Lua",
+    "rgb": {
+      "r": 240,
+      "g": 228,
+      "b": 202
+    },
+    "hex": "#F0E4CA"
+  },
+  {
+    "nome": "2030P - LJ000 - Milho",
+    "rgb": {
+      "r": 248,
+      "g": 226,
+      "b": 185
+    },
+    "hex": "#F8E2B9"
+  },
+  {
+    "nome": "2031P - LJ000 - Narciso",
+    "rgb": {
+      "r": 246,
+      "g": 222,
+      "b": 160
+    },
+    "hex": "#F6DEA0"
+  },
+  {
+    "nome": "2032T - LJ000 - Ovo Creme",
+    "rgb": {
+      "r": 246,
+      "g": 214,
+      "b": 129
+    },
+    "hex": "#F6D681"
+  },
+  {
+    "nome": "2033T - LJ000 - Forsítia",
+    "rgb": {
+      "r": 248,
+      "g": 200,
+      "b": 90
+    },
+    "hex": "#F8C85A"
+  },
+  {
+    "nome": "2034D - LJ000 - Abril Sol",
+    "rgb": {
+      "r": 240,
+      "g": 177,
+      "b": 10
+    },
+    "hex": "#F0B10A"
+  },
+  {
+    "nome": "2035C - LJ000 - Cheddar",
+    "rgb": {
+      "r": 229,
+      "g": 167,
+      "b": 24
+    },
+    "hex": "#E5A718"
+  },
+  {
+    "nome": "2036P - LJ000 - Mel Creme",
+    "rgb": {
+      "r": 248,
+      "g": 237,
+      "b": 215
+    },
+    "hex": "#F8EDD7"
+  },
+  {
+    "nome": "2037P - LJ000 - Branco Vinho",
+    "rgb": {
+      "r": 248,
+      "g": 224,
+      "b": 178
+    },
+    "hex": "#F8E0B2"
+  },
+  {
+    "nome": "2038P - LJ000 - Marshmallow Chicote",
+    "rgb": {
+      "r": 251,
+      "g": 216,
+      "b": 148
+    },
+    "hex": "#FBD894"
+  },
+  {
+    "nome": "2039T - LJ000 - Nanette",
+    "rgb": {
+      "r": 240,
+      "g": 202,
+      "b": 117
+    },
+    "hex": "#F0CA75"
+  },
+  {
+    "nome": "2040T - LJ000 - Açafrão",
+    "rgb": {
+      "r": 242,
+      "g": 192,
+      "b": 95
+    },
+    "hex": "#F2C05F"
+  },
+  {
+    "nome": "2041D - LJ000 - Simplesmente Elegante",
+    "rgb": {
+      "r": 230,
+      "g": 170,
+      "b": 40
+    },
+    "hex": "#E6AA28"
+  },
+  {
+    "nome": "2042C - LJ000 - Ra Dourado",
+    "rgb": {
+      "r": 227,
+      "g": 159,
+      "b": 26
+    },
+    "hex": "#E39F1A"
+  },
+  {
+    "nome": "2043P - LJ000 - Glacê Dourado",
+    "rgb": {
+      "r": 247,
+      "g": 229,
+      "b": 205
+    },
+    "hex": "#F7E5CD"
+  },
+  {
+    "nome": "2044P - LJ000 - Trigo Dourado",
+    "rgb": {
+      "r": 246,
+      "g": 224,
+      "b": 187
+    },
+    "hex": "#F6E0BB"
+  },
+  {
+    "nome": "2045P - LJ000 - Arcadia",
+    "rgb": {
+      "r": 245,
+      "g": 213,
+      "b": 162
+    },
+    "hex": "#F5D5A2"
+  },
+  {
+    "nome": "2046T - LJ000 - Espana",
+    "rgb": {
+      "r": 246,
+      "g": 202,
+      "b": 127
+    },
+    "hex": "#F6CA7F"
+  },
+  {
+    "nome": "2047T - LJ000 - Madressilva",
+    "rgb": {
+      "r": 226,
+      "g": 179,
+      "b": 97
+    },
+    "hex": "#E2B361"
+  },
+  {
+    "nome": "2048D - LJ000 - Mecca Dourado",
+    "rgb": {
+      "r": 220,
+      "g": 167,
+      "b": 71
+    },
+    "hex": "#DCA747"
+  },
+  {
+    "nome": "2049C - LJ000 - Amarelo-Dourado Leão",
+    "rgb": {
+      "r": 204,
+      "g": 143,
+      "b": 52
+    },
+    "hex": "#CC8F34"
+  },
+  {
+    "nome": "2050P - LJ000 - Navajo Branco",
+    "rgb": {
+      "r": 251,
+      "g": 228,
+      "b": 196
+    },
+    "hex": "#FBE4C4"
+  },
+  {
+    "nome": "2051P - LJ000 - Pão de Milho",
+    "rgb": {
+      "r": 250,
+      "g": 227,
+      "b": 173
+    },
+    "hex": "#FAE3AD"
+  },
+  {
+    "nome": "2052P - LJ000 - Nostalgia",
+    "rgb": {
+      "r": 248,
+      "g": 215,
+      "b": 138
+    },
+    "hex": "#F8D78A"
+  },
+  {
+    "nome": "2053T - LJ000 - de Aaron Rod",
+    "rgb": {
+      "r": 254,
+      "g": 200,
+      "b": 110
+    },
+    "hex": "#FEC86E"
+  },
+  {
+    "nome": "2054T - LJ000 - Celestial",
+    "rgb": {
+      "r": 250,
+      "g": 197,
+      "b": 91
+    },
+    "hex": "#FAC55B"
+  },
+  {
+    "nome": "2055D - LJ000 - Alvorada",
+    "rgb": {
+      "r": 247,
+      "g": 166,
+      "b": 12
+    },
+    "hex": "#F7A60C"
+  },
+  {
+    "nome": "2056C - LJ000 - Dourado Lírio",
+    "rgb": {
+      "r": 237,
+      "g": 156,
+      "b": 23
+    },
+    "hex": "#ED9C17"
+  },
+  {
+    "nome": "2057P - LJ000 - Elisa",
+    "rgb": {
+      "r": 245,
+      "g": 227,
+      "b": 207
+    },
+    "hex": "#F5E3CF"
+  },
+  {
+    "nome": "2058P - LJ000 - Inspiração",
+    "rgb": {
+      "r": 248,
+      "g": 224,
+      "b": 190
+    },
+    "hex": "#F8E0BE"
+  },
+  {
+    "nome": "2059P - LJ000 - Carrossel",
+    "rgb": {
+      "r": 252,
+      "g": 213,
+      "b": 170
+    },
+    "hex": "#FCD5AA"
+  },
+  {
+    "nome": "2060T - LJ000 - Kabuki",
+    "rgb": {
+      "r": 236,
+      "g": 194,
+      "b": 134
+    },
+    "hex": "#ECC286"
+  },
+  {
+    "nome": "2061T - LJ000 - Calypso Tempo",
+    "rgb": {
+      "r": 239,
+      "g": 182,
+      "b": 115
+    },
+    "hex": "#EFB673"
+  },
+  {
+    "nome": "2062D - LJ000 - Marengo",
+    "rgb": {
+      "r": 228,
+      "g": 149,
+      "b": 70
+    },
+    "hex": "#E49546"
+  },
+  {
+    "nome": "2063C - VL000 - El Greco Bronze",
+    "rgb": {
+      "r": 186,
+      "g": 115,
+      "b": 51
+    },
+    "hex": "#BA7333"
+  },
+  {
+    "nome": "2064P - LJ000 - Caxemira Suave",
+    "rgb": {
+      "r": 247,
+      "g": 227,
+      "b": 202
+    },
+    "hex": "#F7E3CA"
+  },
+  {
+    "nome": "2065P - LJ000 - Chiffon",
+    "rgb": {
+      "r": 248,
+      "g": 222,
+      "b": 187
+    },
+    "hex": "#F8DEBB"
+  },
+  {
+    "nome": "2066P - LJ000 - Caroteno",
+    "rgb": {
+      "r": 252,
+      "g": 211,
+      "b": 159
+    },
+    "hex": "#FCD39F"
+  },
+  {
+    "nome": "2067T - LJ000 - Abóbora",
+    "rgb": {
+      "r": 247,
+      "g": 194,
+      "b": 126
+    },
+    "hex": "#F7C27E"
+  },
+  {
+    "nome": "2068T - LJ000 - Laranja Bosque",
+    "rgb": {
+      "r": 250,
+      "g": 185,
+      "b": 103
+    },
+    "hex": "#FAB967"
+  },
+  {
+    "nome": "2069D - LJ000 - Tangerina",
+    "rgb": {
+      "r": 244,
+      "g": 151,
+      "b": 58
+    },
+    "hex": "#F4973A"
+  },
+  {
+    "nome": "2070C - VL000 - Chagas",
+    "rgb": {
+      "r": 239,
+      "g": 124,
+      "b": 43
+    },
+    "hex": "#EF7C2B"
+  },
+  {
+    "nome": "2071P - VL000 - Marshmallow Neve",
+    "rgb": {
+      "r": 250,
+      "g": 229,
+      "b": 210
+    },
+    "hex": "#FAE5D2"
+  },
+  {
+    "nome": "2072P - VL000 - Tremulação",
+    "rgb": {
+      "r": 249,
+      "g": 219,
+      "b": 191
+    },
+    "hex": "#F9DBBF"
+  },
+  {
+    "nome": "2073P - VL000 - Rubor do Entardecer",
+    "rgb": {
+      "r": 250,
+      "g": 207,
+      "b": 165
+    },
+    "hex": "#FACFA5"
+  },
+  {
+    "nome": "2074T - VL000 - Festivo",
+    "rgb": {
+      "r": 240,
+      "g": 182,
+      "b": 142
+    },
+    "hex": "#F0B68E"
+  },
+  {
+    "nome": "2075T - VL000 - Brasa Brilho",
+    "rgb": {
+      "r": 231,
+      "g": 169,
+      "b": 110
+    },
+    "hex": "#E7A96E"
+  },
+  {
+    "nome": "2076D - VL000 - Great Canyon",
+    "rgb": {
+      "r": 213,
+      "g": 123,
+      "b": 63
+    },
+    "hex": "#D57B3F"
+  },
+  {
+    "nome": "2077C - VL000 - Cobre Bangle",
+    "rgb": {
+      "r": 189,
+      "g": 93,
+      "b": 51
+    },
+    "hex": "#BD5D33"
+  },
+  {
+    "nome": "2078P - LJ000 - Missão Bege",
+    "rgb": {
+      "r": 246,
+      "g": 222,
+      "b": 198
+    },
+    "hex": "#F6DEC6"
+  },
+  {
+    "nome": "2079P - LJ000 - Fantan",
+    "rgb": {
+      "r": 240,
+      "g": 214,
+      "b": 187
+    },
+    "hex": "#F0D6BB"
+  },
+  {
+    "nome": "2080P - VL000 - Pedra do Sol",
+    "rgb": {
+      "r": 227,
+      "g": 187,
+      "b": 152
+    },
+    "hex": "#E3BB98"
+  },
+  {
+    "nome": "2081T - VL000 - Adobe",
+    "rgb": {
+      "r": 220,
+      "g": 164,
+      "b": 117
+    },
+    "hex": "#DCA475"
+  },
+  {
+    "nome": "2082D - VL000 - Cherokee",
+    "rgb": {
+      "r": 202,
+      "g": 142,
+      "b": 92
+    },
+    "hex": "#CA8E5C"
+  },
+  {
+    "nome": "2083D - VL000 - Cor de Cobre Castanho Claro",
+    "rgb": {
+      "r": 184,
+      "g": 118,
+      "b": 70
+    },
+    "hex": "#B87646"
+  },
+  {
+    "nome": "2084C - VL000 - Canela Chá",
+    "rgb": {
+      "r": 168,
+      "g": 100,
+      "b": 55
+    },
+    "hex": "#A86437"
+  },
+  {
+    "nome": "2085P - LJ000 - Dama Fingers",
+    "rgb": {
+      "r": 245,
+      "g": 227,
+      "b": 207
+    },
+    "hex": "#F5E3CF"
+  },
+  {
+    "nome": "2086P - VL000 - Pêssego Flor",
+    "rgb": {
+      "r": 251,
+      "g": 221,
+      "b": 193
+    },
+    "hex": "#FBDDC1"
+  },
+  {
+    "nome": "2087P - VL000 - Laranja Gelo",
+    "rgb": {
+      "r": 250,
+      "g": 206,
+      "b": 169
+    },
+    "hex": "#FACEA9"
+  },
+  {
+    "nome": "2088T - VL000 - Melão Fresco",
+    "rgb": {
+      "r": 252,
+      "g": 196,
+      "b": 147
+    },
+    "hex": "#FCC493"
+  },
+  {
+    "nome": "2089T - VL000 - Muskmelon",
+    "rgb": {
+      "r": 246,
+      "g": 168,
+      "b": 106
+    },
+    "hex": "#F6A86A"
+  },
+  {
+    "nome": "2090D - VL000 - Abóbora Remendo",
+    "rgb": {
+      "r": 238,
+      "g": 127,
+      "b": 58
+    },
+    "hex": "#EE7F3A"
+  },
+  {
+    "nome": "2091C - VM000 - Sedoso",
+    "rgb": {
+      "r": 233,
+      "g": 82,
+      "b": 35
+    },
+    "hex": "#E95223"
+  },
+  {
+    "nome": "2092P - LJ000 - Mármore Pêssego",
+    "rgb": {
+      "r": 242,
+      "g": 225,
+      "b": 207
+    },
+    "hex": "#F2E1CF"
+  },
+  {
+    "nome": "2093P - LJ000 - Pêssego Cascata",
+    "rgb": {
+      "r": 243,
+      "g": 216,
+      "b": 189
+    },
+    "hex": "#F3D8BD"
+  },
+  {
+    "nome": "2094P - VL000 - Amarelo-Dourado Pêssego",
+    "rgb": {
+      "r": 248,
+      "g": 200,
+      "b": 154
+    },
+    "hex": "#F8C89A"
+  },
+  {
+    "nome": "2095T - VL000 - Indiano Verão",
+    "rgb": {
+      "r": 242,
+      "g": 178,
+      "b": 134
+    },
+    "hex": "#F2B286"
+  },
+  {
+    "nome": "2096D - VL000 - Mexicano Luar",
+    "rgb": {
+      "r": 226,
+      "g": 133,
+      "b": 76
+    },
+    "hex": "#E2854C"
+  },
+  {
+    "nome": "2097D - VL000 - Chama Outono",
+    "rgb": {
+      "r": 231,
+      "g": 138,
+      "b": 77
+    },
+    "hex": "#E78A4D"
+  },
+  {
+    "nome": "2098C - VL000 - Rapunzel",
+    "rgb": {
+      "r": 193,
+      "g": 82,
+      "b": 39
+    },
+    "hex": "#C15227"
+  },
+  {
+    "nome": "2099P - VL000 - Puritano Bege",
+    "rgb": {
+      "r": 243,
+      "g": 226,
+      "b": 210
+    },
+    "hex": "#F3E2D2"
+  },
+  {
+    "nome": "2100P - VL000 - Coral Baía",
+    "rgb": {
+      "r": 252,
+      "g": 225,
+      "b": 208
+    },
+    "hex": "#FCE1D0"
+  },
+  {
+    "nome": "2101P - VL000 - Sesta",
+    "rgb": {
+      "r": 243,
+      "g": 196,
+      "b": 170
+    },
+    "hex": "#F3C4AA"
+  },
+  {
+    "nome": "2102T - VL000 - ole",
+    "rgb": {
+      "r": 235,
+      "g": 181,
+      "b": 145
+    },
+    "hex": "#EBB591"
+  },
+  {
+    "nome": "2103D - VL000 - Ferrugem Pálido",
+    "rgb": {
+      "r": 213,
+      "g": 131,
+      "b": 93
+    },
+    "hex": "#D5835D"
+  },
+  {
+    "nome": "2104D - VL000 - Ferrugem",
+    "rgb": {
+      "r": 200,
+      "g": 107,
+      "b": 66
+    },
+    "hex": "#C86B42"
+  },
+  {
+    "nome": "2105C - VM000 - Âmbar Marrom",
+    "rgb": {
+      "r": 182,
+      "g": 82,
+      "b": 58
+    },
+    "hex": "#B6523A"
+  },
+  {
+    "nome": "2106P - LJ000 - Terno Toque",
+    "rgb": {
+      "r": 242,
+      "g": 232,
+      "b": 220
+    },
+    "hex": "#F2E8DC"
+  },
+  {
+    "nome": "2107P - VL000 - Camafeu Pêssego",
+    "rgb": {
+      "r": 247,
+      "g": 221,
+      "b": 206
+    },
+    "hex": "#F7DDCE"
+  },
+  {
+    "nome": "2108P - VL000 - Tangelo Creme",
+    "rgb": {
+      "r": 248,
+      "g": 204,
+      "b": 175
+    },
+    "hex": "#F8CCAF"
+  },
+  {
+    "nome": "2109T - VL000 - Laranja Sonho",
+    "rgb": {
+      "r": 245,
+      "g": 182,
+      "b": 141
+    },
+    "hex": "#F5B68D"
+  },
+  {
+    "nome": "2110T - VL000 - Melão",
+    "rgb": {
+      "r": 245,
+      "g": 160,
+      "b": 121
+    },
+    "hex": "#F5A079"
+  },
+  {
+    "nome": "2111D - VL000 - Wow",
+    "rgb": {
+      "r": 238,
+      "g": 119,
+      "b": 79
+    },
+    "hex": "#EE774F"
+  },
+  {
+    "nome": "2112C - VM000 - de Tyler Caminhão",
+    "rgb": {
+      "r": 225,
+      "g": 78,
+      "b": 35
+    },
+    "hex": "#E14E23"
+  },
+  {
+    "nome": "2113P - VL000 - Amarelo Claro",
+    "rgb": {
+      "r": 242,
+      "g": 223,
+      "b": 209
+    },
+    "hex": "#F2DFD1"
+  },
+  {
+    "nome": "2114P - VL000 - Pêssego Rubor",
+    "rgb": {
+      "r": 247,
+      "g": 221,
+      "b": 206
+    },
+    "hex": "#F7DDCE"
+  },
+  {
+    "nome": "2115P - VL000 - Açucarado Pêssego",
+    "rgb": {
+      "r": 252,
+      "g": 209,
+      "b": 192
+    },
+    "hex": "#FCD1C0"
+  },
+  {
+    "nome": "2116T - VL000 - Coral Nebuloso",
+    "rgb": {
+      "r": 248,
+      "g": 183,
+      "b": 161
+    },
+    "hex": "#F8B7A1"
+  },
+  {
+    "nome": "2117T - VL000 - Marte",
+    "rgb": {
+      "r": 241,
+      "g": 144,
+      "b": 111
+    },
+    "hex": "#F1906F"
+  },
+  {
+    "nome": "2118D - VM000 - do Pisco Peito",
+    "rgb": {
+      "r": 237,
+      "g": 109,
+      "b": 84
+    },
+    "hex": "#ED6D54"
+  },
+  {
+    "nome": "2119C - VM000 - Papoula Laranja",
+    "rgb": {
+      "r": 220,
+      "g": 75,
+      "b": 48
+    },
+    "hex": "#DC4B30"
+  },
+  {
+    "nome": "2120P - LJ000 - Rosa Bebê",
+    "rgb": {
+      "r": 241,
+      "g": 228,
+      "b": 212
+    },
+    "hex": "#F1E4D4"
+  },
+  {
+    "nome": "2121P - VL000 - Eterno",
+    "rgb": {
+      "r": 253,
+      "g": 227,
+      "b": 214
+    },
+    "hex": "#FDE3D6"
+  },
+  {
+    "nome": "2122P - VL000 - Rosa-Chá Rosa",
+    "rgb": {
+      "r": 246,
+      "g": 199,
+      "b": 183
+    },
+    "hex": "#F6C7B7"
+  },
+  {
+    "nome": "2123T - VM000 - Festival Noite",
+    "rgb": {
+      "r": 244,
+      "g": 169,
+      "b": 150
+    },
+    "hex": "#F4A996"
+  },
+  {
+    "nome": "2124D - VM000 - Coral Serenata",
+    "rgb": {
+      "r": 237,
+      "g": 126,
+      "b": 109
+    },
+    "hex": "#ED7E6D"
+  },
+  {
+    "nome": "2125D - VM000 - Sardônica",
+    "rgb": {
+      "r": 235,
+      "g": 102,
+      "b": 85
+    },
+    "hex": "#EB6655"
+  },
+  {
+    "nome": "2126C - VM000 - Tamale Vermelho",
+    "rgb": {
+      "r": 220,
+      "g": 64,
+      "b": 42
+    },
+    "hex": "#DC402A"
+  },
+  {
+    "nome": "2127P - VL000 - Atrevido Rosa",
+    "rgb": {
+      "r": 247,
+      "g": 218,
+      "b": 202
+    },
+    "hex": "#F7DACA"
+  },
+  {
+    "nome": "2128P - VL000 - Ardiloso Dama",
+    "rgb": {
+      "r": 242,
+      "g": 196,
+      "b": 180
+    },
+    "hex": "#F2C4B4"
+  },
+  {
+    "nome": "2129P - VL000 - Boutonniere",
+    "rgb": {
+      "r": 232,
+      "g": 177,
+      "b": 157
+    },
+    "hex": "#E8B19D"
+  },
+  {
+    "nome": "2130T - VM000 - Panamá Rosa",
+    "rgb": {
+      "r": 211,
+      "g": 133,
+      "b": 110
+    },
+    "hex": "#D3856E"
+  },
+  {
+    "nome": "2131D - VM000 - Comanche Pó",
+    "rgb": {
+      "r": 203,
+      "g": 107,
+      "b": 85
+    },
+    "hex": "#CB6B55"
+  },
+  {
+    "nome": "2132D - VM000 - Tijolo",
+    "rgb": {
+      "r": 179,
+      "g": 100,
+      "b": 87
+    },
+    "hex": "#B36457"
+  },
+  {
+    "nome": "2133C - VM000 - Folha Outono",
+    "rgb": {
+      "r": 162,
+      "g": 82,
+      "b": 71
+    },
+    "hex": "#A25247"
+  },
+  {
+    "nome": "2134P - VL000 - Corniso Pálido",
+    "rgb": {
+      "r": 241,
+      "g": 221,
+      "b": 210
+    },
+    "hex": "#F1DDD2"
+  },
+  {
+    "nome": "2135P - VM000 - Querubim Rosa",
+    "rgb": {
+      "r": 239,
+      "g": 199,
+      "b": 189
+    },
+    "hex": "#EFC7BD"
+  },
+  {
+    "nome": "2136P - VM000 - Prima Donna",
+    "rgb": {
+      "r": 246,
+      "g": 185,
+      "b": 167
+    },
+    "hex": "#F6B9A7"
+  },
+  {
+    "nome": "2137T - VM000 - Pêssego Corando",
+    "rgb": {
+      "r": 241,
+      "g": 159,
+      "b": 145
+    },
+    "hex": "#F19F91"
+  },
+  {
+    "nome": "2138D - VM000 - Tapeçaria",
+    "rgb": {
+      "r": 216,
+      "g": 130,
+      "b": 115
+    },
+    "hex": "#D88273"
+  },
+  {
+    "nome": "2139D - VM000 - Horizonte Brilho",
+    "rgb": {
+      "r": 218,
+      "g": 115,
+      "b": 106
+    },
+    "hex": "#DA736A"
+  },
+  {
+    "nome": "2140C - VM000 - Scoria",
+    "rgb": {
+      "r": 167,
+      "g": 77,
+      "b": 68
+    },
+    "hex": "#A74D44"
+  },
+  {
+    "nome": "2141P - VL000 - Rosa Pérola",
+    "rgb": {
+      "r": 242,
+      "g": 214,
+      "b": 202
+    },
+    "hex": "#F2D6CA"
+  },
+  {
+    "nome": "2142P - VM000 - Aleaha Rosa",
+    "rgb": {
+      "r": 234,
+      "g": 178,
+      "b": 163
+    },
+    "hex": "#EAB2A3"
+  },
+  {
+    "nome": "2143P - VM000 - Athena",
+    "rgb": {
+      "r": 226,
+      "g": 161,
+      "b": 157
+    },
+    "hex": "#E2A19D"
+  },
+  {
+    "nome": "2144T - VM000 - Madrid",
+    "rgb": {
+      "r": 199,
+      "g": 125,
+      "b": 114
+    },
+    "hex": "#C77D72"
+  },
+  {
+    "nome": "2145D - VM000 - Especiaria Velho",
+    "rgb": {
+      "r": 179,
+      "g": 100,
+      "b": 87
+    },
+    "hex": "#B36457"
+  },
+  {
+    "nome": "2146D - VM000 - Vermelho Terra",
+    "rgb": {
+      "r": 172,
+      "g": 92,
+      "b": 85
+    },
+    "hex": "#AC5C55"
+  },
+  {
+    "nome": "2147C - VM000 - Tijolo Queimado",
+    "rgb": {
+      "r": 153,
+      "g": 69,
+      "b": 59
+    },
+    "hex": "#99453B"
+  },
+  {
+    "nome": "2148P - VL000 - Damasco Sussurro",
+    "rgb": {
+      "r": 235,
+      "g": 215,
+      "b": 208
+    },
+    "hex": "#EBD7D0"
+  },
+  {
+    "nome": "2149P - VM000 - Organdi",
+    "rgb": {
+      "r": 248,
+      "g": 207,
+      "b": 201
+    },
+    "hex": "#F8CFC9"
+  },
+  {
+    "nome": "2150P - VO000 - Nupcial Festa",
+    "rgb": {
+      "r": 247,
+      "g": 182,
+      "b": 186
+    },
+    "hex": "#F7B6BA"
+  },
+  {
+    "nome": "2151T - VM000 - Buquê",
+    "rgb": {
+      "r": 245,
+      "g": 169,
+      "b": 169
+    },
+    "hex": "#F5A9A9"
+  },
+  {
+    "nome": "2152T - VM000 - Camarão",
+    "rgb": {
+      "r": 241,
+      "g": 148,
+      "b": 141
+    },
+    "hex": "#F1948D"
+  },
+  {
+    "nome": "2153D - VM000 - Guarda-Sol",
+    "rgb": {
+      "r": 238,
+      "g": 119,
+      "b": 111
+    },
+    "hex": "#EE776F"
+  },
+  {
+    "nome": "2154C - VM000 - Coraline",
+    "rgb": {
+      "r": 219,
+      "g": 71,
+      "b": 59
+    },
+    "hex": "#DB473B"
+  },
+  {
+    "nome": "2155P - VM000 - Apelo",
+    "rgb": {
+      "r": 243,
+      "g": 216,
+      "b": 209
+    },
+    "hex": "#F3D8D1"
+  },
+  {
+    "nome": "2156P - VM000 - Lafleur",
+    "rgb": {
+      "r": 250,
+      "g": 202,
+      "b": 198
+    },
+    "hex": "#FACAC6"
+  },
+  {
+    "nome": "2157P - VM000 - Dezesseis Doce",
+    "rgb": {
+      "r": 247,
+      "g": 182,
+      "b": 180
+    },
+    "hex": "#F7B6B4"
+  },
+  {
+    "nome": "2158T - VO000 - Emily",
+    "rgb": {
+      "r": 229,
+      "g": 163,
+      "b": 165
+    },
+    "hex": "#E5A3A5"
+  },
+  {
+    "nome": "2159T - VO000 - Sangria",
+    "rgb": {
+      "r": 220,
+      "g": 134,
+      "b": 137
+    },
+    "hex": "#DC8689"
+  },
+  {
+    "nome": "2160D - VO000 - Carmim Rosa",
+    "rgb": {
+      "r": 200,
+      "g": 99,
+      "b": 103
+    },
+    "hex": "#C86367"
+  },
+  {
+    "nome": "2161C - VO000 - Gengibre Especiaria",
+    "rgb": {
+      "r": 151,
+      "g": 55,
+      "b": 57
+    },
+    "hex": "#973739"
+  },
+  {
+    "nome": "2162P - VL000 - Anjo Beijo",
+    "rgb": {
+      "r": 239,
+      "g": 221,
+      "b": 209
+    },
+    "hex": "#EFDDD1"
+  },
+  {
+    "nome": "2163P - VM000 - Streamwood",
+    "rgb": {
+      "r": 228,
+      "g": 197,
+      "b": 192
+    },
+    "hex": "#E4C5C0"
+  },
+  {
+    "nome": "2164P - VM000 - Tranquilo",
+    "rgb": {
+      "r": 220,
+      "g": 180,
+      "b": 178
+    },
+    "hex": "#DCB4B2"
+  },
+  {
+    "nome": "2165T - VM000 - Canela Açúcar",
+    "rgb": {
+      "r": 192,
+      "g": 142,
+      "b": 135
+    },
+    "hex": "#C08E87"
+  },
+  {
+    "nome": "2166D - VM000 - Irlandês Café",
+    "rgb": {
+      "r": 184,
+      "g": 120,
+      "b": 118
+    },
+    "hex": "#B87876"
+  },
+  {
+    "nome": "2167D - VM000 - Creole",
+    "rgb": {
+      "r": 154,
+      "g": 96,
+      "b": 85
+    },
+    "hex": "#9A6055"
+  },
+  {
+    "nome": "2168C - VM000 - Chocolate Deleite",
+    "rgb": {
+      "r": 126,
+      "g": 70,
+      "b": 69
+    },
+    "hex": "#7E4645"
+  },
+  {
+    "nome": "2169P - VL000 - Berço",
+    "rgb": {
+      "r": 242,
+      "g": 215,
+      "b": 206
+    },
+    "hex": "#F2D7CE"
+  },
+  {
+    "nome": "2170P - VO000 - Rabo de Cavalo",
+    "rgb": {
+      "r": 234,
+      "g": 195,
+      "b": 200
+    },
+    "hex": "#EAC3C8"
+  },
+  {
+    "nome": "2171P - VO000 - Calamina Loção",
+    "rgb": {
+      "r": 225,
+      "g": 168,
+      "b": 174
+    },
+    "hex": "#E1A8AE"
+  },
+  {
+    "nome": "2172T - VO000 - Xerez",
+    "rgb": {
+      "r": 211,
+      "g": 141,
+      "b": 149
+    },
+    "hex": "#D38D95"
+  },
+  {
+    "nome": "2173D - VO000 - Rosa Mancha",
+    "rgb": {
+      "r": 188,
+      "g": 120,
+      "b": 121
+    },
+    "hex": "#BC7879"
+  },
+  {
+    "nome": "2174D - VM000 - Thornberry",
+    "rgb": {
+      "r": 164,
+      "g": 96,
+      "b": 95
+    },
+    "hex": "#A4605F"
+  },
+  {
+    "nome": "2175C - VM000 - Deserto Adobe",
+    "rgb": {
+      "r": 140,
+      "g": 69,
+      "b": 67
+    },
+    "hex": "#8C4543"
+  },
+  {
+    "nome": "2176P - VM000 - Ária",
+    "rgb": {
+      "r": 239,
+      "g": 219,
+      "b": 218
+    },
+    "hex": "#EFDBDA"
+  },
+  {
+    "nome": "2177P - VO000 - Junket Rosa",
+    "rgb": {
+      "r": 238,
+      "g": 198,
+      "b": 199
+    },
+    "hex": "#EEC6C7"
+  },
+  {
+    "nome": "2178P - VO000 - Chintz Rosa",
+    "rgb": {
+      "r": 238,
+      "g": 179,
+      "b": 185
+    },
+    "hex": "#EEB3B9"
+  },
+  {
+    "nome": "2179T - VO000 - Peônia",
+    "rgb": {
+      "r": 212,
+      "g": 146,
+      "b": 150
+    },
+    "hex": "#D49296"
+  },
+  {
+    "nome": "2180T - VO000 - Damasco Rosa",
+    "rgb": {
+      "r": 203,
+      "g": 133,
+      "b": 143
+    },
+    "hex": "#CB858F"
+  },
+  {
+    "nome": "2181D - VO000 - Rosa Selvagem",
+    "rgb": {
+      "r": 181,
+      "g": 112,
+      "b": 115
+    },
+    "hex": "#B57073"
+  },
+  {
+    "nome": "2182C - VO000 - Seco Cravo",
+    "rgb": {
+      "r": 156,
+      "g": 81,
+      "b": 88
+    },
+    "hex": "#9C5158"
+  },
+  {
+    "nome": "2183P - VL000 - Rosa Frio",
+    "rgb": {
+      "r": 246,
+      "g": 224,
+      "b": 213
+    },
+    "hex": "#F6E0D5"
+  },
+  {
+    "nome": "2184P - VM000 - Rosto Pó",
+    "rgb": {
+      "r": 249,
+      "g": 214,
+      "b": 212
+    },
+    "hex": "#F9D6D4"
+  },
+  {
+    "nome": "2185P - VO000 - Mademoiselle",
+    "rgb": {
+      "r": 248,
+      "g": 197,
+      "b": 202
+    },
+    "hex": "#F8C5CA"
+  },
+  {
+    "nome": "2186T - VO000 - Animado",
+    "rgb": {
+      "r": 244,
+      "g": 165,
+      "b": 184
+    },
+    "hex": "#F4A5B8"
+  },
+  {
+    "nome": "2187T - VO000 - Camafeu Rosa",
+    "rgb": {
+      "r": 238,
+      "g": 141,
+      "b": 158
+    },
+    "hex": "#EE8D9E"
+  },
+  {
+    "nome": "2188D - VO000 - Granadina",
+    "rgb": {
+      "r": 231,
+      "g": 120,
+      "b": 137
+    },
+    "hex": "#E77889"
+  },
+  {
+    "nome": "2189C - VM000 - Aventura",
+    "rgb": {
+      "r": 207,
+      "g": 69,
+      "b": 40
+    },
+    "hex": "#CF4528"
+  },
+  {
+    "nome": "2190P - VL000 - Noiva Corando",
+    "rgb": {
+      "r": 239,
+      "g": 221,
+      "b": 209
+    },
+    "hex": "#EFDDD1"
+  },
+  {
+    "nome": "2191P - VL000 - Angélica Renda",
+    "rgb": {
+      "r": 235,
+      "g": 212,
+      "b": 204
+    },
+    "hex": "#EBD4CC"
+  },
+  {
+    "nome": "2192P - VO000 - Bege Empoeirado",
+    "rgb": {
+      "r": 210,
+      "g": 178,
+      "b": 181
+    },
+    "hex": "#D2B2B5"
+  },
+  {
+    "nome": "2193T - VO000 - Kendall Rosa",
+    "rgb": {
+      "r": 188,
+      "g": 149,
+      "b": 150
+    },
+    "hex": "#BC9596"
+  },
+  {
+    "nome": "2194D - VO000 - Cicuta Rosa",
+    "rgb": {
+      "r": 159,
+      "g": 117,
+      "b": 118
+    },
+    "hex": "#9F7576"
+  },
+  {
+    "nome": "2195D - VO000 - Praia Rosa",
+    "rgb": {
+      "r": 137,
+      "g": 95,
+      "b": 96
+    },
+    "hex": "#895F60"
+  },
+  {
+    "nome": "2196C - VO000 - Bordô",
+    "rgb": {
+      "r": 104,
+      "g": 69,
+      "b": 73
+    },
+    "hex": "#684549"
+  },
+  {
+    "nome": "2197P - VM000 - Maio Flor",
+    "rgb": {
+      "r": 243,
+      "g": 212,
+      "b": 207
+    },
+    "hex": "#F3D4CF"
+  },
+  {
+    "nome": "2198P - VO000 - Vitória Rosa",
+    "rgb": {
+      "r": 224,
+      "g": 202,
+      "b": 204
+    },
+    "hex": "#E0CACC"
+  },
+  {
+    "nome": "2199P - VO000 - Rosa Guarda-Sol",
+    "rgb": {
+      "r": 218,
+      "g": 179,
+      "b": 184
+    },
+    "hex": "#DAB3B8"
+  },
+  {
+    "nome": "2200T - VO000 - Rosa Renda",
+    "rgb": {
+      "r": 196,
+      "g": 157,
+      "b": 162
+    },
+    "hex": "#C49DA2"
+  },
+  {
+    "nome": "2201T - VO000 - Louro Flor",
+    "rgb": {
+      "r": 178,
+      "g": 132,
+      "b": 135
+    },
+    "hex": "#B28487"
+  },
+  {
+    "nome": "2202D - VO000 - Nostalgia Rosa",
+    "rgb": {
+      "r": 154,
+      "g": 105,
+      "b": 109
+    },
+    "hex": "#9A696D"
+  },
+  {
+    "nome": "2203C - VO000 - Baga Esmagar",
+    "rgb": {
+      "r": 112,
+      "g": 65,
+      "b": 73
+    },
+    "hex": "#704149"
+  },
+  {
+    "nome": "2204P - VM000 - Rosa Cinza",
+    "rgb": {
+      "r": 246,
+      "g": 223,
+      "b": 217
+    },
+    "hex": "#F6DFD9"
+  },
+  {
+    "nome": "2205P - VO000 - Transparente",
+    "rgb": {
+      "r": 241,
+      "g": 212,
+      "b": 214
+    },
+    "hex": "#F1D4D6"
+  },
+  {
+    "nome": "2206P - VO000 - Shante",
+    "rgb": {
+      "r": 229,
+      "g": 194,
+      "b": 201
+    },
+    "hex": "#E5C2C9"
+  },
+  {
+    "nome": "2207T - VO000 - Lótus Flor",
+    "rgb": {
+      "r": 210,
+      "g": 163,
+      "b": 173
+    },
+    "hex": "#D2A3AD"
+  },
+  {
+    "nome": "2208T - VE000 - Suíço Rosa",
+    "rgb": {
+      "r": 200,
+      "g": 146,
+      "b": 162
+    },
+    "hex": "#C892A2"
+  },
+  {
+    "nome": "2209D - VE000 - Gelado Vinho",
+    "rgb": {
+      "r": 173,
+      "g": 106,
+      "b": 124
+    },
+    "hex": "#AD6A7C"
+  },
+  {
+    "nome": "2210C - VE000 - Siena Queimado",
+    "rgb": {
+      "r": 119,
+      "g": 52,
+      "b": 69
+    },
+    "hex": "#773445"
+  },
+  {
+    "nome": "2211P - VM000 - Primeiro Rubor",
+    "rgb": {
+      "r": 247,
+      "g": 219,
+      "b": 215
+    },
+    "hex": "#F7DBD7"
+  },
+  {
+    "nome": "2212P - VO000 - Apreço",
+    "rgb": {
+      "r": 243,
+      "g": 207,
+      "b": 211
+    },
+    "hex": "#F3CFD3"
+  },
+  {
+    "nome": "2213P - VO000 - Dedo do Pé Sapatos",
+    "rgb": {
+      "r": 247,
+      "g": 197,
+      "b": 208
+    },
+    "hex": "#F7C5D0"
+  },
+  {
+    "nome": "2214T - VE000 - Phoebe",
+    "rgb": {
+      "r": 243,
+      "g": 169,
+      "b": 194
+    },
+    "hex": "#F3A9C2"
+  },
+  {
+    "nome": "2215T - VE000 - Frutas Silvestres",
+    "rgb": {
+      "r": 238,
+      "g": 144,
+      "b": 180
+    },
+    "hex": "#EE90B4"
+  },
+  {
+    "nome": "2216D - VE000 - Pelargonium",
+    "rgb": {
+      "r": 220,
+      "g": 108,
+      "b": 148
+    },
+    "hex": "#DC6C94"
+  },
+  {
+    "nome": "2217C - VO000 - Vermelho Brilho",
+    "rgb": {
+      "r": 189,
+      "g": 66,
+      "b": 87
+    },
+    "hex": "#BD4257"
+  },
+  {
+    "nome": "2218P - VL000 - Rosa Aura",
+    "rgb": {
+      "r": 236,
+      "g": 226,
+      "b": 217
+    },
+    "hex": "#ECE2D9"
+  },
+  {
+    "nome": "2219P - VO000 - Saquinho",
+    "rgb": {
+      "r": 249,
+      "g": 203,
+      "b": 206
+    },
+    "hex": "#F9CBCE"
+  },
+  {
+    "nome": "2220P - VO000 - Angélica Rosa",
+    "rgb": {
+      "r": 247,
+      "g": 194,
+      "b": 200
+    },
+    "hex": "#F7C2C8"
+  },
+  {
+    "nome": "2221T - VO000 - Cereja Bom Bom",
+    "rgb": {
+      "r": 244,
+      "g": 168,
+      "b": 181
+    },
+    "hex": "#F4A8B5"
+  },
+  {
+    "nome": "2222D - VO000 - Esmagado Morango",
+    "rgb": {
+      "r": 238,
+      "g": 126,
+      "b": 148
+    },
+    "hex": "#EE7E94"
+  },
+  {
+    "nome": "2223D - VE000 - Lívido Rosa",
+    "rgb": {
+      "r": 216,
+      "g": 109,
+      "b": 137
+    },
+    "hex": "#D86D89"
+  },
+  {
+    "nome": "2224C - VO000 - Morango Campos",
+    "rgb": {
+      "r": 185,
+      "g": 65,
+      "b": 74
+    },
+    "hex": "#B9414A"
+  },
+  {
+    "nome": "2225P - VM000 - Meaghan Rosa",
+    "rgb": {
+      "r": 239,
+      "g": 220,
+      "b": 214
+    },
+    "hex": "#EFDCD6"
+  },
+  {
+    "nome": "2226P - VO000 - Lavanda Êxtase",
+    "rgb": {
+      "r": 238,
+      "g": 209,
+      "b": 211
+    },
+    "hex": "#EED1D3"
+  },
+  {
+    "nome": "2227P - VE000 - Brilho Suave",
+    "rgb": {
+      "r": 220,
+      "g": 189,
+      "b": 197
+    },
+    "hex": "#DCBDC5"
+  },
+  {
+    "nome": "2228T - VE000 - Charme",
+    "rgb": {
+      "r": 203,
+      "g": 170,
+      "b": 181
+    },
+    "hex": "#CBAAB5"
+  },
+  {
+    "nome": "2229T - VE000 - Malva",
+    "rgb": {
+      "r": 195,
+      "g": 141,
+      "b": 157
+    },
+    "hex": "#C38D9D"
+  },
+  {
+    "nome": "2230D - VE000 - Ameixa Claro",
+    "rgb": {
+      "r": 144,
+      "g": 95,
+      "b": 114
+    },
+    "hex": "#905F72"
+  },
+  {
+    "nome": "2231C - VO000 - Clarete Profundo",
+    "rgb": {
+      "r": 96,
+      "g": 71,
+      "b": 77
+    },
+    "hex": "#60474D"
+  },
+  {
+    "nome": "2232P - VL000 - Rosa Fresco",
+    "rgb": {
+      "r": 238,
+      "g": 221,
+      "b": 214
+    },
+    "hex": "#EEDDD6"
+  },
+  {
+    "nome": "2233P - VO000 - Gossamer",
+    "rgb": {
+      "r": 234,
+      "g": 201,
+      "b": 208
+    },
+    "hex": "#EAC9D0"
+  },
+  {
+    "nome": "2234P - VE000 - Chiclete",
+    "rgb": {
+      "r": 230,
+      "g": 186,
+      "b": 201
+    },
+    "hex": "#E6BAC9"
+  },
+  {
+    "nome": "2235T - VE000 - Clássico",
+    "rgb": {
+      "r": 193,
+      "g": 139,
+      "b": 163
+    },
+    "hex": "#C18BA3"
+  },
+  {
+    "nome": "2236D - VE000 - Ametista Pedra",
+    "rgb": {
+      "r": 177,
+      "g": 122,
+      "b": 145
+    },
+    "hex": "#B17A91"
+  },
+  {
+    "nome": "2237D - VE000 - Baga Geleia",
+    "rgb": {
+      "r": 156,
+      "g": 101,
+      "b": 124
+    },
+    "hex": "#9C657C"
+  },
+  {
+    "nome": "2238C - VE000 - Suavizado Ameixa",
+    "rgb": {
+      "r": 111,
+      "g": 62,
+      "b": 84
+    },
+    "hex": "#6F3E54"
+  },
+  {
+    "nome": "2239P - VM000 - Celestial Rosa",
+    "rgb": {
+      "r": 240,
+      "g": 217,
+      "b": 211
+    },
+    "hex": "#F0D9D3"
+  },
+  {
+    "nome": "2240P - VE000 - Acácia Flor",
+    "rgb": {
+      "r": 217,
+      "g": 191,
+      "b": 200
+    },
+    "hex": "#D9BFC8"
+  },
+  {
+    "nome": "2241P - VE000 - Rosa Beleza",
+    "rgb": {
+      "r": 207,
+      "g": 176,
+      "b": 184
+    },
+    "hex": "#CFB0B8"
+  },
+  {
+    "nome": "2242T - VE000 - Violeta Buquê",
+    "rgb": {
+      "r": 186,
+      "g": 149,
+      "b": 167
+    },
+    "hex": "#BA95A7"
+  },
+  {
+    "nome": "2243T - VE000 - Peruano Violeta",
+    "rgb": {
+      "r": 172,
+      "g": 135,
+      "b": 153
+    },
+    "hex": "#AC8799"
+  },
+  {
+    "nome": "2244D - VE000 - Orquídea Empoeirado",
+    "rgb": {
+      "r": 132,
+      "g": 95,
+      "b": 113
+    },
+    "hex": "#845F71"
+  },
+  {
+    "nome": "2245C - VE000 - Semi Doce",
+    "rgb": {
+      "r": 83,
+      "g": 66,
+      "b": 72
+    },
+    "hex": "#534248"
+  },
+  {
+    "nome": "2246P - VL000 - Rosa Mágico",
+    "rgb": {
+      "r": 232,
+      "g": 219,
+      "b": 211
+    },
+    "hex": "#E8DBD3"
+  },
+  {
+    "nome": "2247P - VM000 - Enluarado",
+    "rgb": {
+      "r": 212,
+      "g": 194,
+      "b": 194
+    },
+    "hex": "#D4C2C2"
+  },
+  {
+    "nome": "2248P - VE000 - Sombrio Lilás",
+    "rgb": {
+      "r": 202,
+      "g": 179,
+      "b": 187
+    },
+    "hex": "#CAB3BB"
+  },
+  {
+    "nome": "2249T - RV000 - Tempo",
+    "rgb": {
+      "r": 177,
+      "g": 145,
+      "b": 168
+    },
+    "hex": "#B191A8"
+  },
+  {
+    "nome": "2250D - RV000 - Obra-Prima",
+    "rgb": {
+      "r": 154,
+      "g": 122,
+      "b": 143
+    },
+    "hex": "#9A7A8F"
+  },
+  {
+    "nome": "2251D - RV000 - Concordia",
+    "rgb": {
+      "r": 132,
+      "g": 105,
+      "b": 124
+    },
+    "hex": "#84697C"
+  },
+  {
+    "nome": "2252C - RS000 - Ameixa Profundo",
+    "rgb": {
+      "r": 80,
+      "g": 67,
+      "b": 77
+    },
+    "hex": "#50434D"
+  },
+  {
+    "nome": "2253P - VM000 - Melodia",
+    "rgb": {
+      "r": 235,
+      "g": 217,
+      "b": 215
+    },
+    "hex": "#EBD9D7"
+  },
+  {
+    "nome": "2254P - VE000 - Nicole",
+    "rgb": {
+      "r": 229,
+      "g": 193,
+      "b": 205
+    },
+    "hex": "#E5C1CD"
+  },
+  {
+    "nome": "2255P - VE000 - Veludo Cotonete",
+    "rgb": {
+      "r": 224,
+      "g": 175,
+      "b": 196
+    },
+    "hex": "#E0AFC4"
+  },
+  {
+    "nome": "2256T - RV000 - Amado",
+    "rgb": {
+      "r": 209,
+      "g": 152,
+      "b": 185
+    },
+    "hex": "#D198B9"
+  },
+  {
+    "nome": "2257D - RV000 - Rosea",
+    "rgb": {
+      "r": 190,
+      "g": 124,
+      "b": 160
+    },
+    "hex": "#BE7CA0"
+  },
+  {
+    "nome": "2258D - RV000 - Rosa Melodia",
+    "rgb": {
+      "r": 177,
+      "g": 105,
+      "b": 143
+    },
+    "hex": "#B1698F"
+  },
+  {
+    "nome": "2259C - RV000 - Uva Néctar",
+    "rgb": {
+      "r": 97,
+      "g": 73,
+      "b": 86
+    },
+    "hex": "#614956"
+  },
+  {
+    "nome": "2260P - BR000 - Sentimental",
+    "rgb": {
+      "r": 233,
+      "g": 218,
+      "b": 215
+    },
+    "hex": "#E9DAD7"
+  },
+  {
+    "nome": "2261P - VE000 - Urze Névoa",
+    "rgb": {
+      "r": 238,
+      "g": 200,
+      "b": 211
+    },
+    "hex": "#EEC8D3"
+  },
+  {
+    "nome": "2262P - RV000 - Veludo",
+    "rgb": {
+      "r": 221,
+      "g": 171,
+      "b": 198
+    },
+    "hex": "#DDABC6"
+  },
+  {
+    "nome": "2263T - RV000 - Amor-Perfeito",
+    "rgb": {
+      "r": 198,
+      "g": 146,
+      "b": 185
+    },
+    "hex": "#C692B9"
+  },
+  {
+    "nome": "2264T - RV000 - Lilás Selvagem",
+    "rgb": {
+      "r": 191,
+      "g": 134,
+      "b": 175
+    },
+    "hex": "#BF86AF"
+  },
+  {
+    "nome": "2265D - RS000 - Flo-Jo",
+    "rgb": {
+      "r": 172,
+      "g": 103,
+      "b": 158
+    },
+    "hex": "#AC679E"
+  },
+  {
+    "nome": "2266C - RV000 - Violette",
+    "rgb": {
+      "r": 114,
+      "g": 62,
+      "b": 100
+    },
+    "hex": "#723E64"
+  },
+  {
+    "nome": "2267P - VM000 - Flor Doce",
+    "rgb": {
+      "r": 236,
+      "g": 217,
+      "b": 211
+    },
+    "hex": "#ECD9D3"
+  },
+  {
+    "nome": "2268P - VO000 - Frappê",
+    "rgb": {
+      "r": 238,
+      "g": 209,
+      "b": 214
+    },
+    "hex": "#EED1D6"
+  },
+  {
+    "nome": "2269P - VE000 - Oxicoco Gelo",
+    "rgb": {
+      "r": 242,
+      "g": 191,
+      "b": 208
+    },
+    "hex": "#F2BFD0"
+  },
+  {
+    "nome": "2270T - RV000 - William Doce",
+    "rgb": {
+      "r": 225,
+      "g": 166,
+      "b": 196
+    },
+    "hex": "#E1A6C4"
+  },
+  {
+    "nome": "2271T - RV000 - Cupido",
+    "rgb": {
+      "r": 221,
+      "g": 138,
+      "b": 182
+    },
+    "hex": "#DD8AB6"
+  },
+  {
+    "nome": "2272D - RV000 - Bonito Peônia",
+    "rgb": {
+      "r": 199,
+      "g": 98,
+      "b": 154
+    },
+    "hex": "#C7629A"
+  },
+  {
+    "nome": "2273C - VE000 - Framboesa Sorvete",
+    "rgb": {
+      "r": 164,
+      "g": 64,
+      "b": 102
+    },
+    "hex": "#A44066"
+  },
+  {
+    "nome": "2274P - BR000 - Rosa Tonalidade",
+    "rgb": {
+      "r": 233,
+      "g": 219,
+      "b": 219
+    },
+    "hex": "#E9DBDB"
+  },
+  {
+    "nome": "2275P - CC000 - Cervo Lírio",
+    "rgb": {
+      "r": 216,
+      "g": 199,
+      "b": 209
+    },
+    "hex": "#D8C7D1"
+  },
+  {
+    "nome": "2276T - RS000 - Madeira Violeta",
+    "rgb": {
+      "r": 194,
+      "g": 168,
+      "b": 193
+    },
+    "hex": "#C2A8C1"
+  },
+  {
+    "nome": "2277T - RS000 - Encrespado Íris",
+    "rgb": {
+      "r": 182,
+      "g": 145,
+      "b": 176
+    },
+    "hex": "#B691B0"
+  },
+  {
+    "nome": "2278D - RV000 - Lillian",
+    "rgb": {
+      "r": 160,
+      "g": 119,
+      "b": 149
+    },
+    "hex": "#A07795"
+  },
+  {
+    "nome": "2279D - RV000 - Plumbago",
+    "rgb": {
+      "r": 139,
+      "g": 98,
+      "b": 128
+    },
+    "hex": "#8B6280"
+  },
+  {
+    "nome": "2280C - RS000 - Berinjela Deleite",
+    "rgb": {
+      "r": 90,
+      "g": 67,
+      "b": 85
+    },
+    "hex": "#5A4355"
+  },
+  {
+    "nome": "2281P - BR000 - Delicadeza",
+    "rgb": {
+      "r": 239,
+      "g": 220,
+      "b": 222
+    },
+    "hex": "#EFDCDE"
+  },
+  {
+    "nome": "2282P - RV000 - Encolhendo Violeta",
+    "rgb": {
+      "r": 228,
+      "g": 197,
+      "b": 213
+    },
+    "hex": "#E4C5D5"
+  },
+  {
+    "nome": "2283P - RV000 - Roxo Áster",
+    "rgb": {
+      "r": 222,
+      "g": 190,
+      "b": 213
+    },
+    "hex": "#DEBED5"
+  },
+  {
+    "nome": "2284T - RS000 - Mar Anêmona",
+    "rgb": {
+      "r": 198,
+      "g": 155,
+      "b": 198
+    },
+    "hex": "#C69BC6"
+  },
+  {
+    "nome": "2285T - RS000 - Ametista Cristal",
+    "rgb": {
+      "r": 181,
+      "g": 138,
+      "b": 181
+    },
+    "hex": "#B58AB5"
+  },
+  {
+    "nome": "2286D - RS000 - Africano Violeta",
+    "rgb": {
+      "r": 154,
+      "g": 104,
+      "b": 153
+    },
+    "hex": "#9A6899"
+  },
+  {
+    "nome": "2287C - RG000 - Damion",
+    "rgb": {
+      "r": 95,
+      "g": 71,
+      "b": 97
+    },
+    "hex": "#5F4761"
+  },
+  {
+    "nome": "2288P - BR000 - Rosa Trevo",
+    "rgb": {
+      "r": 232,
+      "g": 223,
+      "b": 218
+    },
+    "hex": "#E8DFDA"
+  },
+  {
+    "nome": "2289P - VE000 - Sonata",
+    "rgb": {
+      "r": 233,
+      "g": 207,
+      "b": 218
+    },
+    "hex": "#E9CFDA"
+  },
+  {
+    "nome": "2290P - RV000 - Uva Névoa",
+    "rgb": {
+      "r": 211,
+      "g": 179,
+      "b": 203
+    },
+    "hex": "#D3B3CB"
+  },
+  {
+    "nome": "2291T - RS000 - Heliotrópio",
+    "rgb": {
+      "r": 198,
+      "g": 155,
+      "b": 198
+    },
+    "hex": "#C69BC6"
+  },
+  {
+    "nome": "2292T - RS000 - Máscara",
+    "rgb": {
+      "r": 188,
+      "g": 145,
+      "b": 188
+    },
+    "hex": "#BC91BC"
+  },
+  {
+    "nome": "2293D - RG000 - Uva Picolé",
+    "rgb": {
+      "r": 150,
+      "g": 105,
+      "b": 162
+    },
+    "hex": "#9669A2"
+  },
+  {
+    "nome": "2294C - RS000 - Rododendro",
+    "rgb": {
+      "r": 99,
+      "g": 61,
+      "b": 98
+    },
+    "hex": "#633D62"
+  },
+  {
+    "nome": "2295P - BR000 - Lilás Neve",
+    "rgb": {
+      "r": 230,
+      "g": 215,
+      "b": 218
+    },
+    "hex": "#E6D7DA"
+  },
+  {
+    "nome": "2296P - BR000 - Platina Lilás",
+    "rgb": {
+      "r": 219,
+      "g": 206,
+      "b": 213
+    },
+    "hex": "#DBCED5"
+  },
+  {
+    "nome": "2297P - RG000 - Pérola Lilás",
+    "rgb": {
+      "r": 231,
+      "g": 209,
+      "b": 232
+    },
+    "hex": "#E7D1E8"
+  },
+  {
+    "nome": "2298T - MG000 - Serendippity",
+    "rgb": {
+      "r": 181,
+      "g": 155,
+      "b": 192
+    },
+    "hex": "#B59BC0"
+  },
+  {
+    "nome": "2299D - RG000 - Uva Gelo",
+    "rgb": {
+      "r": 158,
+      "g": 128,
+      "b": 166
+    },
+    "hex": "#9E80A6"
+  },
+  {
+    "nome": "2300D - MG000 - Roxo Sombra",
+    "rgb": {
+      "r": 139,
+      "g": 107,
+      "b": 154
+    },
+    "hex": "#8B6B9A"
+  },
+  {
+    "nome": "2301C - MG000 - Patrician Roxo",
+    "rgb": {
+      "r": 93,
+      "g": 67,
+      "b": 114
+    },
+    "hex": "#5D4372"
+  },
+  {
+    "nome": "2302P - BR000 - Garça",
+    "rgb": {
+      "r": 231,
+      "g": 221,
+      "b": 219
+    },
+    "hex": "#E7DDDB"
+  },
+  {
+    "nome": "2303P - RV000 - Dama Diana",
+    "rgb": {
+      "r": 220,
+      "g": 202,
+      "b": 214
+    },
+    "hex": "#DCCAD6"
+  },
+  {
+    "nome": "2304P - MG000 - Picante Lilás",
+    "rgb": {
+      "r": 202,
+      "g": 182,
+      "b": 209
+    },
+    "hex": "#CAB6D1"
+  },
+  {
+    "nome": "2305T - MG000 - Olympia",
+    "rgb": {
+      "r": 193,
+      "g": 167,
+      "b": 204
+    },
+    "hex": "#C1A7CC"
+  },
+  {
+    "nome": "2306T - MG000 - Lisa",
+    "rgb": {
+      "r": 170,
+      "g": 142,
+      "b": 193
+    },
+    "hex": "#AA8EC1"
+  },
+  {
+    "nome": "2307D - MG000 - Roxo Místico",
+    "rgb": {
+      "r": 144,
+      "g": 115,
+      "b": 171
+    },
+    "hex": "#9073AB"
+  },
+  {
+    "nome": "2308C - MG000 - Imperial Roxo",
+    "rgb": {
+      "r": 87,
+      "g": 66,
+      "b": 107
+    },
+    "hex": "#57426B"
+  },
+  {
+    "nome": "2309P - BR000 - Orquídea Orvalho",
+    "rgb": {
+      "r": 232,
+      "g": 222,
+      "b": 221
+    },
+    "hex": "#E8DEDD"
+  },
+  {
+    "nome": "2310P - BR000 - Viola",
+    "rgb": {
+      "r": 225,
+      "g": 210,
+      "b": 215
+    },
+    "hex": "#E1D2D7"
+  },
+  {
+    "nome": "2311P - RV000 - Lavanda Névoa",
+    "rgb": {
+      "r": 211,
+      "g": 193,
+      "b": 205
+    },
+    "hex": "#D3C1CD"
+  },
+  {
+    "nome": "2312T - RG000 - Mágico",
+    "rgb": {
+      "r": 185,
+      "g": 168,
+      "b": 186
+    },
+    "hex": "#B9A8BA"
+  },
+  {
+    "nome": "2313D - MG000 - Egípcio Violeta",
+    "rgb": {
+      "r": 140,
+      "g": 126,
+      "b": 151
+    },
+    "hex": "#8C7E97"
+  },
+  {
+    "nome": "2314D - RG000 - Amora-Preta",
+    "rgb": {
+      "r": 123,
+      "g": 105,
+      "b": 129
+    },
+    "hex": "#7B6981"
+  },
+  {
+    "nome": "2315C - MX000 - Preto Cavaleiro",
+    "rgb": {
+      "r": 64,
+      "g": 61,
+      "b": 68
+    },
+    "hex": "#403D44"
+  },
+  {
+    "nome": "2316P - BR000 - Toque de Orquídea",
+    "rgb": {
+      "r": 235,
+      "g": 225,
+      "b": 223
+    },
+    "hex": "#EBE1DF"
+  },
+  {
+    "nome": "2317P - BR000 - Canadá Violeta",
+    "rgb": {
+      "r": 224,
+      "g": 213,
+      "b": 217
+    },
+    "hex": "#E0D5D9"
+  },
+  {
+    "nome": "2318P - CC000 - Ravinia",
+    "rgb": {
+      "r": 199,
+      "g": 187,
+      "b": 201
+    },
+    "hex": "#C7BBC9"
+  },
+  {
+    "nome": "2319T - MX000 - Amherst Neblina",
+    "rgb": {
+      "r": 168,
+      "g": 161,
+      "b": 177
+    },
+    "hex": "#A8A1B1"
+  },
+  {
+    "nome": "2320D - RX000 - Uva Suco",
+    "rgb": {
+      "r": 130,
+      "g": 125,
+      "b": 147
+    },
+    "hex": "#827D93"
+  },
+  {
+    "nome": "2321D - MX000 - Ameixa Torta",
+    "rgb": {
+      "r": 113,
+      "g": 107,
+      "b": 121
+    },
+    "hex": "#716B79"
+  },
+  {
+    "nome": "2322C - MX000 - Uva Sombra",
+    "rgb": {
+      "r": 84,
+      "g": 81,
+      "b": 92
+    },
+    "hex": "#54515C"
+  },
+  {
+    "nome": "2323P - BR000 - Violeta Olhos",
+    "rgb": {
+      "r": 220,
+      "g": 215,
+      "b": 221
+    },
+    "hex": "#DCD7DD"
+  },
+  {
+    "nome": "2324P - BR000 - Violeta Doce",
+    "rgb": {
+      "r": 204,
+      "g": 201,
+      "b": 218
+    },
+    "hex": "#CCC9DA"
+  },
+  {
+    "nome": "2325P - RX000 - Fé",
+    "rgb": {
+      "r": 188,
+      "g": 185,
+      "b": 214
+    },
+    "hex": "#BCB9D6"
+  },
+  {
+    "nome": "2326T - RX000 - Prado Flox",
+    "rgb": {
+      "r": 165,
+      "g": 159,
+      "b": 207
+    },
+    "hex": "#A59FCF"
+  },
+  {
+    "nome": "2327D - RX000 - Bianca Doce",
+    "rgb": {
+      "r": 137,
+      "g": 130,
+      "b": 181
+    },
+    "hex": "#8982B5"
+  },
+  {
+    "nome": "2328D - RX000 - Geleia",
+    "rgb": {
+      "r": 117,
+      "g": 116,
+      "b": 173
+    },
+    "hex": "#7574AD"
+  },
+  {
+    "nome": "2329C - RX000 - Plumagem",
+    "rgb": {
+      "r": 66,
+      "g": 64,
+      "b": 104
+    },
+    "hex": "#424068"
+  },
+  {
+    "nome": "2330P - BR000 - Ervilha Doce",
+    "rgb": {
+      "r": 221,
+      "g": 220,
+      "b": 218
+    },
+    "hex": "#DDDCDA"
+  },
+  {
+    "nome": "2331P - BR000 - Petula",
+    "rgb": {
+      "r": 202,
+      "g": 204,
+      "b": 217
+    },
+    "hex": "#CACCD9"
+  },
+  {
+    "nome": "2332P - VT000 - do Cinza Lírio",
+    "rgb": {
+      "r": 182,
+      "g": 184,
+      "b": 205
+    },
+    "hex": "#B6B8CD"
+  },
+  {
+    "nome": "2333T - VT000 - Tiffany",
+    "rgb": {
+      "r": 161,
+      "g": 165,
+      "b": 192
+    },
+    "hex": "#A1A5C0"
+  },
+  {
+    "nome": "2334D - VT000 - Verbena Violeta",
+    "rgb": {
+      "r": 121,
+      "g": 127,
+      "b": 159
+    },
+    "hex": "#797F9F"
+  },
+  {
+    "nome": "2335D - VT000 - Íris Selvagem",
+    "rgb": {
+      "r": 109,
+      "g": 112,
+      "b": 147
+    },
+    "hex": "#6D7093"
+  },
+  {
+    "nome": "2336C - RX000 - Roxo Sálvia",
+    "rgb": {
+      "r": 80,
+      "g": 77,
+      "b": 108
+    },
+    "hex": "#504D6C"
+  },
+  {
+    "nome": "2337P - BR000 - Memória Vereda",
+    "rgb": {
+      "r": 225,
+      "g": 221,
+      "b": 220
+    },
+    "hex": "#E1DDDC"
+  },
+  {
+    "nome": "2338P - VT000 - Fragrância",
+    "rgb": {
+      "r": 205,
+      "g": 208,
+      "b": 225
+    },
+    "hex": "#CDD0E1"
+  },
+  {
+    "nome": "2339P - VT000 - Búzio",
+    "rgb": {
+      "r": 187,
+      "g": 194,
+      "b": 220
+    },
+    "hex": "#BBC2DC"
+  },
+  {
+    "nome": "2340P - VT000 - Lavanda Doce",
+    "rgb": {
+      "r": 165,
+      "g": 167,
+      "b": 206
+    },
+    "hex": "#A5A7CE"
+  },
+  {
+    "nome": "2341T - VT000 - Violeta Veludo",
+    "rgb": {
+      "r": 135,
+      "g": 141,
+      "b": 191
+    },
+    "hex": "#878DBF"
+  },
+  {
+    "nome": "2342D - VT000 - Pervinca Profundo",
+    "rgb": {
+      "r": 104,
+      "g": 108,
+      "b": 171
+    },
+    "hex": "#686CAB"
+  },
+  {
+    "nome": "2343C - RX000 - Imperatriz Azul",
+    "rgb": {
+      "r": 60,
+      "g": 60,
+      "b": 112
+    },
+    "hex": "#3C3C70"
+  },
+  {
+    "nome": "2344P - BR000 - Coisa Doce",
+    "rgb": {
+      "r": 239,
+      "g": 234,
+      "b": 228
+    },
+    "hex": "#EFEAE4"
+  },
+  {
+    "nome": "2345P - BR000 - Clareza",
+    "rgb": {
+      "r": 207,
+      "g": 210,
+      "b": 219
+    },
+    "hex": "#CFD2DB"
+  },
+  {
+    "nome": "2346P - VT000 - Centáurea Pálido",
+    "rgb": {
+      "r": 180,
+      "g": 184,
+      "b": 211
+    },
+    "hex": "#B4B8D3"
+  },
+  {
+    "nome": "2347T - VT000 - Burple",
+    "rgb": {
+      "r": 157,
+      "g": 166,
+      "b": 205
+    },
+    "hex": "#9DA6CD"
+  },
+  {
+    "nome": "2348D - VT000 - Virgínia Campânula",
+    "rgb": {
+      "r": 108,
+      "g": 125,
+      "b": 177
+    },
+    "hex": "#6C7DB1"
+  },
+  {
+    "nome": "2349D - VT000 - Clemantis",
+    "rgb": {
+      "r": 93,
+      "g": 109,
+      "b": 168
+    },
+    "hex": "#5D6DA8"
+  },
+  {
+    "nome": "2350C - VT000 - Hipnótico",
+    "rgb": {
+      "r": 62,
+      "g": 66,
+      "b": 111
+    },
+    "hex": "#3E426F"
+  },
+  {
+    "nome": "2351P - BR000 - Exótico Flor",
+    "rgb": {
+      "r": 218,
+      "g": 213,
+      "b": 217
+    },
+    "hex": "#DAD5D9"
+  },
+  {
+    "nome": "2352P - VT000 - Álamo Azul",
+    "rgb": {
+      "r": 195,
+      "g": 198,
+      "b": 213
+    },
+    "hex": "#C3C6D5"
+  },
+  {
+    "nome": "2353P - VT000 - Lustro Azul",
+    "rgb": {
+      "r": 172,
+      "g": 179,
+      "b": 205
+    },
+    "hex": "#ACB3CD"
+  },
+  {
+    "nome": "2354T - AX000 - Delta",
+    "rgb": {
+      "r": 141,
+      "g": 153,
+      "b": 177
+    },
+    "hex": "#8D99B1"
+  },
+  {
+    "nome": "2355D - AX000 - Ashberry",
+    "rgb": {
+      "r": 113,
+      "g": 126,
+      "b": 158
+    },
+    "hex": "#717E9E"
+  },
+  {
+    "nome": "2356D - AX000 - Commadore",
+    "rgb": {
+      "r": 101,
+      "g": 113,
+      "b": 139
+    },
+    "hex": "#65718B"
+  },
+  {
+    "nome": "2357C - VT000 - Íris Escuro",
+    "rgb": {
+      "r": 68,
+      "g": 69,
+      "b": 115
+    },
+    "hex": "#444573"
+  },
+  {
+    "nome": "2360P - BR000 - Azul Nota",
+    "rgb": {
+      "r": 226,
+      "g": 225,
+      "b": 221
+    },
+    "hex": "#E2E1DD"
+  },
+  {
+    "nome": "2358P - AX000 - Céu Claro",
+    "rgb": {
+      "r": 200,
+      "g": 206,
+      "b": 222
+    },
+    "hex": "#C8CEDE"
+  },
+  {
+    "nome": "2359P - AX000 - Cintilante Orvalho",
+    "rgb": {
+      "r": 180,
+      "g": 192,
+      "b": 218
+    },
+    "hex": "#B4C0DA"
+  },
+  {
+    "nome": "2361T - VT000 - Noite Pacífico",
+    "rgb": {
+      "r": 160,
+      "g": 173,
+      "b": 215
+    },
+    "hex": "#A0ADD7"
+  },
+  {
+    "nome": "2362T - AX000 - Violeta Matiz",
+    "rgb": {
+      "r": 127,
+      "g": 146,
+      "b": 189
+    },
+    "hex": "#7F92BD"
+  },
+  {
+    "nome": "2363D - VT000 - Aquilégia Azul",
+    "rgb": {
+      "r": 97,
+      "g": 117,
+      "b": 178
+    },
+    "hex": "#6175B2"
+  },
+  {
+    "nome": "2364C - VT000 - Roxo Montanha",
+    "rgb": {
+      "r": 64,
+      "g": 66,
+      "b": 105
+    },
+    "hex": "#404269"
+  },
+  {
+    "nome": "2365P - BR000 - Prelúdio",
+    "rgb": {
+      "r": 225,
+      "g": 226,
+      "b": 221
+    },
+    "hex": "#E1E2DD"
+  },
+  {
+    "nome": "2366P - AX000 - Pó Azul",
+    "rgb": {
+      "r": 200,
+      "g": 210,
+      "b": 220
+    },
+    "hex": "#C8D2DC"
+  },
+  {
+    "nome": "2367P - AX000 - Congelado Orvalho",
+    "rgb": {
+      "r": 172,
+      "g": 194,
+      "b": 217
+    },
+    "hex": "#ACC2D9"
+  },
+  {
+    "nome": "2368T - AX000 - Horizonte Azul",
+    "rgb": {
+      "r": 136,
+      "g": 168,
+      "b": 206
+    },
+    "hex": "#88A8CE"
+  },
+  {
+    "nome": "2369T - AX000 - Bewitched",
+    "rgb": {
+      "r": 120,
+      "g": 150,
+      "b": 200
+    },
+    "hex": "#7896C8"
+  },
+  {
+    "nome": "2370D - AX000 - Merlin",
+    "rgb": {
+      "r": 77,
+      "g": 122,
+      "b": 179
+    },
+    "hex": "#4D7AB3"
+  },
+  {
+    "nome": "2371C - AX000 - Elegante",
+    "rgb": {
+      "r": 56,
+      "g": 78,
+      "b": 125
+    },
+    "hex": "#384E7D"
+  },
+  {
+    "nome": "2372P - BR000 - Abril Céu",
+    "rgb": {
+      "r": 227,
+      "g": 229,
+      "b": 224
+    },
+    "hex": "#E3E5E0"
+  },
+  {
+    "nome": "2373P - AZ000 - Erie",
+    "rgb": {
+      "r": 190,
+      "g": 208,
+      "b": 220
+    },
+    "hex": "#BED0DC"
+  },
+  {
+    "nome": "2374T - AZ000 - Sempre Azul",
+    "rgb": {
+      "r": 152,
+      "g": 185,
+      "b": 216
+    },
+    "hex": "#98B9D8"
+  },
+  {
+    "nome": "2375T - VT000 - Catedral Azul",
+    "rgb": {
+      "r": 123,
+      "g": 139,
+      "b": 198
+    },
+    "hex": "#7B8BC6"
+  },
+  {
+    "nome": "2376T - AX000 - Lago Sombra",
+    "rgb": {
+      "r": 102,
+      "g": 145,
+      "b": 196
+    },
+    "hex": "#6691C4"
+  },
+  {
+    "nome": "2377D - AX000 - Ultra Azul",
+    "rgb": {
+      "r": 57,
+      "g": 113,
+      "b": 170
+    },
+    "hex": "#3971AA"
+  },
+  {
+    "nome": "2378C - VT000 - Capitão Azul",
+    "rgb": {
+      "r": 57,
+      "g": 66,
+      "b": 109
+    },
+    "hex": "#39426D"
+  },
+  {
+    "nome": "2379P - BR000 - Alvorada Inverno",
+    "rgb": {
+      "r": 224,
+      "g": 225,
+      "b": 219
+    },
+    "hex": "#E0E1DB"
+  },
+  {
+    "nome": "2380P - AZ000 - Aragon",
+    "rgb": {
+      "r": 189,
+      "g": 209,
+      "b": 216
+    },
+    "hex": "#BDD1D8"
+  },
+  {
+    "nome": "2381P - AZ000 - Sonolento Olho",
+    "rgb": {
+      "r": 164,
+      "g": 186,
+      "b": 207
+    },
+    "hex": "#A4BACF"
+  },
+  {
+    "nome": "2382T - AZ000 - Canção de Ninar Azul",
+    "rgb": {
+      "r": 129,
+      "g": 161,
+      "b": 186
+    },
+    "hex": "#81A1BA"
+  },
+  {
+    "nome": "2383D - AZ000 - Absicon",
+    "rgb": {
+      "r": 102,
+      "g": 137,
+      "b": 167
+    },
+    "hex": "#6689A7"
+  },
+  {
+    "nome": "2384D - AX000 - Corvo Céu",
+    "rgb": {
+      "r": 86,
+      "g": 119,
+      "b": 154
+    },
+    "hex": "#56779A"
+  },
+  {
+    "nome": "2385C - AX000 - Marinho Profundo",
+    "rgb": {
+      "r": 58,
+      "g": 69,
+      "b": 97
+    },
+    "hex": "#3A4561"
+  },
+  {
+    "nome": "2386P - BR000 - Vapor Trilha",
+    "rgb": {
+      "r": 224,
+      "g": 224,
+      "b": 222
+    },
+    "hex": "#E0E0DE"
+  },
+  {
+    "nome": "2387P - AZ000 - Geleira Azul",
+    "rgb": {
+      "r": 196,
+      "g": 213,
+      "b": 223
+    },
+    "hex": "#C4D5DF"
+  },
+  {
+    "nome": "2388P - AZ000 - Brittany",
+    "rgb": {
+      "r": 158,
+      "g": 194,
+      "b": 216
+    },
+    "hex": "#9EC2D8"
+  },
+  {
+    "nome": "2389T - AZ000 - Alto Dive",
+    "rgb": {
+      "r": 117,
+      "g": 162,
+      "b": 201
+    },
+    "hex": "#75A2C9"
+  },
+  {
+    "nome": "2390D - AZ000 - Waveland",
+    "rgb": {
+      "r": 87,
+      "g": 137,
+      "b": 186
+    },
+    "hex": "#5789BA"
+  },
+  {
+    "nome": "2391D - AZ000 - Cósmico",
+    "rgb": {
+      "r": 73,
+      "g": 123,
+      "b": 172
+    },
+    "hex": "#497BAC"
+  },
+  {
+    "nome": "2392C - AX000 - Olímpico Azul",
+    "rgb": {
+      "r": 51,
+      "g": 79,
+      "b": 116
+    },
+    "hex": "#334F74"
+  },
+  {
+    "nome": "2393P - BR000 - Menino Azul Pequeno",
+    "rgb": {
+      "r": 203,
+      "g": 218,
+      "b": 213
+    },
+    "hex": "#CBDAD5"
+  },
+  {
+    "nome": "2394P - AC000 - Belinda",
+    "rgb": {
+      "r": 189,
+      "g": 212,
+      "b": 218
+    },
+    "hex": "#BDD4DA"
+  },
+  {
+    "nome": "2395P - AZ000 - Ártico Gelo",
+    "rgb": {
+      "r": 149,
+      "g": 189,
+      "b": 215
+    },
+    "hex": "#95BDD7"
+  },
+  {
+    "nome": "2396T - AZ000 - Aegean Azul",
+    "rgb": {
+      "r": 119,
+      "g": 168,
+      "b": 208
+    },
+    "hex": "#77A8D0"
+  },
+  {
+    "nome": "2397D - AZ000 - Abstrato",
+    "rgb": {
+      "r": 77,
+      "g": 129,
+      "b": 177
+    },
+    "hex": "#4D81B1"
+  },
+  {
+    "nome": "2398D - AZ000 - Cleopatra",
+    "rgb": {
+      "r": 59,
+      "g": 119,
+      "b": 171
+    },
+    "hex": "#3B77AB"
+  },
+  {
+    "nome": "2399C - AX000 - Rapsódia",
+    "rgb": {
+      "r": 48,
+      "g": 84,
+      "b": 136
+    },
+    "hex": "#305488"
+  },
+  {
+    "nome": "2400P - BR000 - Poeira Estelar",
+    "rgb": {
+      "r": 232,
+      "g": 228,
+      "b": 217
+    },
+    "hex": "#E8E4D9"
+  },
+  {
+    "nome": "2401P - AC000 - Ashley",
+    "rgb": {
+      "r": 190,
+      "g": 215,
+      "b": 222
+    },
+    "hex": "#BED7DE"
+  },
+  {
+    "nome": "2402P - AZ000 - Arian",
+    "rgb": {
+      "r": 160,
+      "g": 197,
+      "b": 215
+    },
+    "hex": "#A0C5D7"
+  },
+  {
+    "nome": "2403T - AZ000 - Enseada Azul",
+    "rgb": {
+      "r": 131,
+      "g": 170,
+      "b": 203
+    },
+    "hex": "#83AACB"
+  },
+  {
+    "nome": "2404D - AZ000 - Lisonja",
+    "rgb": {
+      "r": 77,
+      "g": 139,
+      "b": 188
+    },
+    "hex": "#4D8BBC"
+  },
+  {
+    "nome": "2405D - AZ000 - Azul Trovão",
+    "rgb": {
+      "r": 58,
+      "g": 120,
+      "b": 167
+    },
+    "hex": "#3A78A7"
+  },
+  {
+    "nome": "2406C - AX000 - Azul Mosaico",
+    "rgb": {
+      "r": 52,
+      "g": 67,
+      "b": 98
+    },
+    "hex": "#344362"
+  },
+  {
+    "nome": "2407P - BR000 - Soneto Azul",
+    "rgb": {
+      "r": 223,
+      "g": 226,
+      "b": 217
+    },
+    "hex": "#DFE2D9"
+  },
+  {
+    "nome": "2408P - AZ000 - Flora",
+    "rgb": {
+      "r": 191,
+      "g": 214,
+      "b": 222
+    },
+    "hex": "#BFD6DE"
+  },
+  {
+    "nome": "2409P - AZ000 - Clare de Lune",
+    "rgb": {
+      "r": 163,
+      "g": 201,
+      "b": 220
+    },
+    "hex": "#A3C9DC"
+  },
+  {
+    "nome": "2410T - AZ000 - Armenian Azul",
+    "rgb": {
+      "r": 100,
+      "g": 165,
+      "b": 207
+    },
+    "hex": "#64A5CF"
+  },
+  {
+    "nome": "2411D - AZ000 - Azul Safira",
+    "rgb": {
+      "r": 42,
+      "g": 146,
+      "b": 199
+    },
+    "hex": "#2A92C7"
+  },
+  {
+    "nome": "2412D - AZ000 - Dinamarquês Azul",
+    "rgb": {
+      "r": 36,
+      "g": 130,
+      "b": 182
+    },
+    "hex": "#2482B6"
+  },
+  {
+    "nome": "2413C - AZ000 - Justo Real",
+    "rgb": {
+      "r": 44,
+      "g": 104,
+      "b": 154
+    },
+    "hex": "#2C689A"
+  },
+  {
+    "nome": "2414P - AC000 - Gelo Cascata",
+    "rgb": {
+      "r": 205,
+      "g": 220,
+      "b": 225
+    },
+    "hex": "#CDDCE1"
+  },
+  {
+    "nome": "2415P - AZ000 - Condare",
+    "rgb": {
+      "r": 177,
+      "g": 204,
+      "b": 223
+    },
+    "hex": "#B1CCDF"
+  },
+  {
+    "nome": "2416P - AZ000 - Cachoeiras Rio",
+    "rgb": {
+      "r": 142,
+      "g": 187,
+      "b": 208
+    },
+    "hex": "#8EBBD0"
+  },
+  {
+    "nome": "2417T - AZ000 - Chuvoso Dia",
+    "rgb": {
+      "r": 124,
+      "g": 178,
+      "b": 206
+    },
+    "hex": "#7CB2CE"
+  },
+  {
+    "nome": "2418T - AZ000 - Havasu Lago",
+    "rgb": {
+      "r": 103,
+      "g": 166,
+      "b": 199
+    },
+    "hex": "#67A6C7"
+  },
+  {
+    "nome": "2419D - AZ000 - Mosaico Telha",
+    "rgb": {
+      "r": 58,
+      "g": 132,
+      "b": 171
+    },
+    "hex": "#3A84AB"
+  },
+  {
+    "nome": "2420C - AX000 - Trovão Baía",
+    "rgb": {
+      "r": 51,
+      "g": 73,
+      "b": 96
+    },
+    "hex": "#334960"
+  },
+  {
+    "nome": "2421P - AX000 - Calmo Alvorada",
+    "rgb": {
+      "r": 191,
+      "g": 201,
+      "b": 211
+    },
+    "hex": "#BFC9D3"
+  },
+  {
+    "nome": "2422P - AZ000 - Adorável",
+    "rgb": {
+      "r": 172,
+      "g": 194,
+      "b": 207
+    },
+    "hex": "#ACC2CF"
+  },
+  {
+    "nome": "2423P - AZ000 - Noite Horizonte",
+    "rgb": {
+      "r": 159,
+      "g": 182,
+      "b": 196
+    },
+    "hex": "#9FB6C4"
+  },
+  {
+    "nome": "2424T - AZ000 - Gêmeo Flor",
+    "rgb": {
+      "r": 122,
+      "g": 153,
+      "b": 171
+    },
+    "hex": "#7A99AB"
+  },
+  {
+    "nome": "2425D - AZ000 - Sono",
+    "rgb": {
+      "r": 86,
+      "g": 127,
+      "b": 149
+    },
+    "hex": "#567F95"
+  },
+  {
+    "nome": "2426D - AZ000 - Silêncio",
+    "rgb": {
+      "r": 75,
+      "g": 112,
+      "b": 131
+    },
+    "hex": "#4B7083"
+  },
+  {
+    "nome": "2427C - AX000 - Meia-Noite Azul",
+    "rgb": {
+      "r": 61,
+      "g": 67,
+      "b": 81
+    },
+    "hex": "#3D4351"
+  },
+  {
+    "nome": "2428P - BR000 - Nevasca",
+    "rgb": {
+      "r": 217,
+      "g": 224,
+      "b": 216
+    },
+    "hex": "#D9E0D8"
+  },
+  {
+    "nome": "2429P - AZ000 - Cisne Mar",
+    "rgb": {
+      "r": 188,
+      "g": 212,
+      "b": 222
+    },
+    "hex": "#BCD4DE"
+  },
+  {
+    "nome": "2430P - AZ000 - Sol Orvalho",
+    "rgb": {
+      "r": 157,
+      "g": 188,
+      "b": 209
+    },
+    "hex": "#9DBCD1"
+  },
+  {
+    "nome": "2431T - AZ000 - Jardim Glória",
+    "rgb": {
+      "r": 111,
+      "g": 158,
+      "b": 184
+    },
+    "hex": "#6F9EB8"
+  },
+  {
+    "nome": "2432D - AZ000 - do Marinheiro Sonho",
+    "rgb": {
+      "r": 73,
+      "g": 135,
+      "b": 172
+    },
+    "hex": "#4987AC"
+  },
+  {
+    "nome": "2433D - AZ000 - Jazz Fresco",
+    "rgb": {
+      "r": 72,
+      "g": 125,
+      "b": 156
+    },
+    "hex": "#487D9C"
+  },
+  {
+    "nome": "2434C - AZ000 - Lealdade",
+    "rgb": {
+      "r": 36,
+      "g": 87,
+      "b": 118
+    },
+    "hex": "#245776"
+  },
+  {
+    "nome": "2435P - BR000 - Brookside",
+    "rgb": {
+      "r": 218,
+      "g": 226,
+      "b": 228
+    },
+    "hex": "#DAE2E4"
+  },
+  {
+    "nome": "2436P - AC000 - Arbella",
+    "rgb": {
+      "r": 188,
+      "g": 213,
+      "b": 218
+    },
+    "hex": "#BCD5DA"
+  },
+  {
+    "nome": "2437P - AC000 - Delphi",
+    "rgb": {
+      "r": 159,
+      "g": 208,
+      "b": 222
+    },
+    "hex": "#9FD0DE"
+  },
+  {
+    "nome": "2438T - AZ000 - Saxony",
+    "rgb": {
+      "r": 104,
+      "g": 178,
+      "b": 213
+    },
+    "hex": "#68B2D5"
+  },
+  {
+    "nome": "2439D - AZ000 - Corrente",
+    "rgb": {
+      "r": 56,
+      "g": 154,
+      "b": 189
+    },
+    "hex": "#389ABD"
+  },
+  {
+    "nome": "2440D - AC000 - Aerodinâmico",
+    "rgb": {
+      "r": 7,
+      "g": 143,
+      "b": 183
+    },
+    "hex": "#078FB7"
+  },
+  {
+    "nome": "2441C - AZ000 - Azul Crepitar",
+    "rgb": {
+      "r": 39,
+      "g": 78,
+      "b": 107
+    },
+    "hex": "#274E6B"
+  },
+  {
+    "nome": "2442P - BR000 - Branco Montanha",
+    "rgb": {
+      "r": 217,
+      "g": 223,
+      "b": 219
+    },
+    "hex": "#D9DFDB"
+  },
+  {
+    "nome": "2443P - AC000 - Gelo Castelo",
+    "rgb": {
+      "r": 189,
+      "g": 208,
+      "b": 212
+    },
+    "hex": "#BDD0D4"
+  },
+  {
+    "nome": "2444P - AZ000 - Boa",
+    "rgb": {
+      "r": 162,
+      "g": 190,
+      "b": 201
+    },
+    "hex": "#A2BEC9"
+  },
+  {
+    "nome": "2445T - AZ000 - Litoral",
+    "rgb": {
+      "r": 127,
+      "g": 169,
+      "b": 183
+    },
+    "hex": "#7FA9B7"
+  },
+  {
+    "nome": "2446D - AZ000 - Lágrima",
+    "rgb": {
+      "r": 100,
+      "g": 139,
+      "b": 154
+    },
+    "hex": "#648B9A"
+  },
+  {
+    "nome": "2447D - AZ000 - Gema",
+    "rgb": {
+      "r": 71,
+      "g": 113,
+      "b": 127
+    },
+    "hex": "#47717F"
+  },
+  {
+    "nome": "2448C - AC000 - Viking",
+    "rgb": {
+      "r": 58,
+      "g": 76,
+      "b": 80
+    },
+    "hex": "#3A4C50"
+  },
+  {
+    "nome": "2449P - BR000 - Manhã Névoa",
+    "rgb": {
+      "r": 223,
+      "g": 230,
+      "b": 222
+    },
+    "hex": "#DFE6DE"
+  },
+  {
+    "nome": "2450P - AC000 - Lago de Água",
+    "rgb": {
+      "r": 167,
+      "g": 204,
+      "b": 212
+    },
+    "hex": "#A7CCD4"
+  },
+  {
+    "nome": "2451P - AC000 - Riacho Primavera",
+    "rgb": {
+      "r": 135,
+      "g": 187,
+      "b": 198
+    },
+    "hex": "#87BBC6"
+  },
+  {
+    "nome": "2452T - AC000 - Sombreado Lagoa",
+    "rgb": {
+      "r": 113,
+      "g": 172,
+      "b": 186
+    },
+    "hex": "#71ACBA"
+  },
+  {
+    "nome": "2453D - AC000 - Salgueiro Nascentes",
+    "rgb": {
+      "r": 72,
+      "g": 141,
+      "b": 156
+    },
+    "hex": "#488D9C"
+  },
+  {
+    "nome": "2454D - AC000 - Lagoa Fresco",
+    "rgb": {
+      "r": 62,
+      "g": 125,
+      "b": 140
+    },
+    "hex": "#3E7D8C"
+  },
+  {
+    "nome": "2455C - AC000 - Nórdico Mar",
+    "rgb": {
+      "r": 40,
+      "g": 90,
+      "b": 101
+    },
+    "hex": "#285A65"
+  },
+  {
+    "nome": "2456P - AE000 - Lírico Azul",
+    "rgb": {
+      "r": 204,
+      "g": 224,
+      "b": 222
+    },
+    "hex": "#CCE0DE"
+  },
+  {
+    "nome": "2457P - AC000 - Azul Lavagem",
+    "rgb": {
+      "r": 184,
+      "g": 222,
+      "b": 223
+    },
+    "hex": "#B8DEDF"
+  },
+  {
+    "nome": "2458T - AC000 - Vale de Estrelas",
+    "rgb": {
+      "r": 139,
+      "g": 199,
+      "b": 210
+    },
+    "hex": "#8BC7D2"
+  },
+  {
+    "nome": "2459T - AC000 - Sitka",
+    "rgb": {
+      "r": 100,
+      "g": 186,
+      "b": 203
+    },
+    "hex": "#64BACB"
+  },
+  {
+    "nome": "2460D - AC000 - Azul Faísca",
+    "rgb": {
+      "r": 25,
+      "g": 165,
+      "b": 182
+    },
+    "hex": "#19A5B6"
+  },
+  {
+    "nome": "2461D - AC000 - Azul Madonna",
+    "rgb": {
+      "r": 4,
+      "g": 151,
+      "b": 167
+    },
+    "hex": "#0497A7"
+  },
+  {
+    "nome": "2462C - AC000 - Danube Céu",
+    "rgb": {
+      "r": 1,
+      "g": 114,
+      "b": 132
+    },
+    "hex": "#017284"
+  },
+  {
+    "nome": "2463P - BR000 - Azul Chuvisco",
+    "rgb": {
+      "r": 221,
+      "g": 230,
+      "b": 225
+    },
+    "hex": "#DDE6E1"
+  },
+  {
+    "nome": "2464P - AC000 - Gelado Chiffon",
+    "rgb": {
+      "r": 181,
+      "g": 215,
+      "b": 217
+    },
+    "hex": "#B5D7D9"
+  },
+  {
+    "nome": "2465P - AC000 - Sealock",
+    "rgb": {
+      "r": 142,
+      "g": 194,
+      "b": 205
+    },
+    "hex": "#8EC2CD"
+  },
+  {
+    "nome": "2466T - AC000 - Porcelana Seda",
+    "rgb": {
+      "r": 105,
+      "g": 173,
+      "b": 186
+    },
+    "hex": "#69ADBA"
+  },
+  {
+    "nome": "2467D - AC000 - Vívido",
+    "rgb": {
+      "r": 136,
+      "g": 202,
+      "b": 216
+    },
+    "hex": "#88CAD8"
+  },
+  {
+    "nome": "2468D - AC000 - Água Electra",
+    "rgb": {
+      "r": 52,
+      "g": 130,
+      "b": 143
+    },
+    "hex": "#34828F"
+  },
+  {
+    "nome": "2469C - AC000 - Azul Garrafa",
+    "rgb": {
+      "r": 25,
+      "g": 91,
+      "b": 103
+    },
+    "hex": "#195B67"
+  },
+  {
+    "nome": "2470P - BR000 - Serenidade",
+    "rgb": {
+      "r": 223,
+      "g": 230,
+      "b": 223
+    },
+    "hex": "#DFE6DF"
+  },
+  {
+    "nome": "2471P - AE000 - Água Cristal",
+    "rgb": {
+      "r": 189,
+      "g": 221,
+      "b": 220
+    },
+    "hex": "#BDDDDC"
+  },
+  {
+    "nome": "2472P - AC000 - Sedoso",
+    "rgb": {
+      "r": 145,
+      "g": 205,
+      "b": 213
+    },
+    "hex": "#91CDD5"
+  },
+  {
+    "nome": "2473T - AC000 - Minueto",
+    "rgb": {
+      "r": 120,
+      "g": 200,
+      "b": 201
+    },
+    "hex": "#78C8C9"
+  },
+  {
+    "nome": "2474T - AC000 - Oceano Cruzeiro",
+    "rgb": {
+      "r": 86,
+      "g": 181,
+      "b": 187
+    },
+    "hex": "#56B5BB"
+  },
+  {
+    "nome": "2475D - AC000 - Pennant",
+    "rgb": {
+      "r": 4,
+      "g": 148,
+      "b": 156
+    },
+    "hex": "#04949C"
+  },
+  {
+    "nome": "2476C - AE000 - Le Mer",
+    "rgb": {
+      "r": 9,
+      "g": 114,
+      "b": 110
+    },
+    "hex": "#09726E"
+  },
+  {
+    "nome": "2477P - CI000 - Brisa do Mar",
+    "rgb": {
+      "r": 202,
+      "g": 225,
+      "b": 217
+    },
+    "hex": "#CAE1D9"
+  },
+  {
+    "nome": "2478P - AE000 - Tazlina",
+    "rgb": {
+      "r": 179,
+      "g": 216,
+      "b": 209
+    },
+    "hex": "#B3D8D1"
+  },
+  {
+    "nome": "2479P - AE000 - Somerset",
+    "rgb": {
+      "r": 132,
+      "g": 202,
+      "b": 200
+    },
+    "hex": "#84CAC8"
+  },
+  {
+    "nome": "2480T - AC000 - Tanásia",
+    "rgb": {
+      "r": 90,
+      "g": 188,
+      "b": 189
+    },
+    "hex": "#5ABCBD"
+  },
+  {
+    "nome": "2481D - AC000 - Jamaicano Mar",
+    "rgb": {
+      "r": 35,
+      "g": 169,
+      "b": 170
+    },
+    "hex": "#23A9AA"
+  },
+  {
+    "nome": "2482D - AE000 - Carib Verde",
+    "rgb": {
+      "r": 0,
+      "g": 153,
+      "b": 148
+    },
+    "hex": "#009994"
+  },
+  {
+    "nome": "2483C - AE000 - Egípcio Verde",
+    "rgb": {
+      "r": 18,
+      "g": 97,
+      "b": 94
+    },
+    "hex": "#12615E"
+  },
+  {
+    "nome": "2484P - LJ000 - Branco Cristal",
+    "rgb": {
+      "r": 237,
+      "g": 229,
+      "b": 218
+    },
+    "hex": "#EDE5DA"
+  },
+  {
+    "nome": "2485P - AE000 - Hampton Corte",
+    "rgb": {
+      "r": 181,
+      "g": 201,
+      "b": 199
+    },
+    "hex": "#B5C9C7"
+  },
+  {
+    "nome": "2486P - AE000 - Pinetop",
+    "rgb": {
+      "r": 163,
+      "g": 195,
+      "b": 194
+    },
+    "hex": "#A3C3C2"
+  },
+  {
+    "nome": "2487T - AE000 - Breu Pinho",
+    "rgb": {
+      "r": 141,
+      "g": 180,
+      "b": 179
+    },
+    "hex": "#8DB4B3"
+  },
+  {
+    "nome": "2488D - AE000 - Bálsamo",
+    "rgb": {
+      "r": 97,
+      "g": 139,
+      "b": 137
+    },
+    "hex": "#618B89"
+  },
+  {
+    "nome": "2489D - AE000 - Serbia",
+    "rgb": {
+      "r": 77,
+      "g": 121,
+      "b": 120
+    },
+    "hex": "#4D7978"
+  },
+  {
+    "nome": "2490C - AC000 - Conífera",
+    "rgb": {
+      "r": 57,
+      "g": 82,
+      "b": 89
+    },
+    "hex": "#395259"
+  },
+  {
+    "nome": "2491P - BR000 - Água Belle",
+    "rgb": {
+      "r": 210,
+      "g": 223,
+      "b": 214
+    },
+    "hex": "#D2DFD6"
+  },
+  {
+    "nome": "2492P - AE000 - Essência",
+    "rgb": {
+      "r": 173,
+      "g": 214,
+      "b": 206
+    },
+    "hex": "#ADD6CE"
+  },
+  {
+    "nome": "2493P - AE000 - Pitty Pat",
+    "rgb": {
+      "r": 162,
+      "g": 207,
+      "b": 202
+    },
+    "hex": "#A2CFCA"
+  },
+  {
+    "nome": "2494T - AE000 - Sinuoso Riacho",
+    "rgb": {
+      "r": 129,
+      "g": 189,
+      "b": 187
+    },
+    "hex": "#81BDBB"
+  },
+  {
+    "nome": "2495T - AE000 - de Evan Deleite",
+    "rgb": {
+      "r": 101,
+      "g": 173,
+      "b": 169
+    },
+    "hex": "#65ADA9"
+  },
+  {
+    "nome": "2496D - AE000 - Zebulon",
+    "rgb": {
+      "r": 61,
+      "g": 146,
+      "b": 141
+    },
+    "hex": "#3D928D"
+  },
+  {
+    "nome": "2497C - AC000 - Odyssey",
+    "rgb": {
+      "r": 27,
+      "g": 88,
+      "b": 89
+    },
+    "hex": "#1B5859"
+  },
+  {
+    "nome": "2498P - VZ000 - Piscina Fresco",
+    "rgb": {
+      "r": 205,
+      "g": 227,
+      "b": 215
+    },
+    "hex": "#CDE3D7"
+  },
+  {
+    "nome": "2499P - CI000 - Kelsey",
+    "rgb": {
+      "r": 190,
+      "g": 223,
+      "b": 214
+    },
+    "hex": "#BEDFD6"
+  },
+  {
+    "nome": "2500P - AE000 - Cassidy",
+    "rgb": {
+      "r": 156,
+      "g": 211,
+      "b": 206
+    },
+    "hex": "#9CD3CE"
+  },
+  {
+    "nome": "2501T - AE000 - Aphrodite",
+    "rgb": {
+      "r": 103,
+      "g": 192,
+      "b": 186
+    },
+    "hex": "#67C0BA"
+  },
+  {
+    "nome": "2502D - AE000 - Verde Sonho",
+    "rgb": {
+      "r": 47,
+      "g": 174,
+      "b": 163
+    },
+    "hex": "#2FAEA3"
+  },
+  {
+    "nome": "2503D - AE000 - Duradouro",
+    "rgb": {
+      "r": 0,
+      "g": 163,
+      "b": 154
+    },
+    "hex": "#00A39A"
+  },
+  {
+    "nome": "2504C - AE000 - Verde Glória",
+    "rgb": {
+      "r": 1,
+      "g": 113,
+      "b": 97
+    },
+    "hex": "#017161"
+  },
+  {
+    "nome": "2505P - BR000 - Branco Penhascos",
+    "rgb": {
+      "r": 221,
+      "g": 227,
+      "b": 217
+    },
+    "hex": "#DDE3D9"
+  },
+  {
+    "nome": "2506P - CI000 - Chantili Renda",
+    "rgb": {
+      "r": 196,
+      "g": 223,
+      "b": 216
+    },
+    "hex": "#C4DFD8"
+  },
+  {
+    "nome": "2507P - AE000 - Cassioppe",
+    "rgb": {
+      "r": 169,
+      "g": 212,
+      "b": 203
+    },
+    "hex": "#A9D4CB"
+  },
+  {
+    "nome": "2508T - AE000 - Piscina Verde",
+    "rgb": {
+      "r": 148,
+      "g": 199,
+      "b": 192
+    },
+    "hex": "#94C7C0"
+  },
+  {
+    "nome": "2509D - AE000 - Deusa",
+    "rgb": {
+      "r": 80,
+      "g": 162,
+      "b": 150
+    },
+    "hex": "#50A296"
+  },
+  {
+    "nome": "2510D - AE000 - Eurasia",
+    "rgb": {
+      "r": 59,
+      "g": 141,
+      "b": 127
+    },
+    "hex": "#3B8D7F"
+  },
+  {
+    "nome": "2511C - AE000 - Turquesa Tom",
+    "rgb": {
+      "r": 29,
+      "g": 92,
+      "b": 83
+    },
+    "hex": "#1D5C53"
+  },
+  {
+    "nome": "2512P - VZ000 - Água Espuma",
+    "rgb": {
+      "r": 204,
+      "g": 227,
+      "b": 211
+    },
+    "hex": "#CCE3D3"
+  },
+  {
+    "nome": "2513P - VZ000 - Hortelã",
+    "rgb": {
+      "r": 184,
+      "g": 219,
+      "b": 199
+    },
+    "hex": "#B8DBC7"
+  },
+  {
+    "nome": "2514P - CI000 - Verde Gota",
+    "rgb": {
+      "r": 170,
+      "g": 215,
+      "b": 195
+    },
+    "hex": "#AAD7C3"
+  },
+  {
+    "nome": "2515T - CI000 - Onda Verde",
+    "rgb": {
+      "r": 132,
+      "g": 198,
+      "b": 171
+    },
+    "hex": "#84C6AB"
+  },
+  {
+    "nome": "2516D - CI000 - Buquê de Lapela",
+    "rgb": {
+      "r": 71,
+      "g": 180,
+      "b": 141
+    },
+    "hex": "#47B48D"
+  },
+  {
+    "nome": "2517D - CI000 - Fada",
+    "rgb": {
+      "r": 35,
+      "g": 164,
+      "b": 126
+    },
+    "hex": "#23A47E"
+  },
+  {
+    "nome": "2518C - CI000 - de Colleen Cote",
+    "rgb": {
+      "r": 12,
+      "g": 115,
+      "b": 86
+    },
+    "hex": "#0C7356"
+  },
+  {
+    "nome": "2519P - BR000 - Menta Frappê",
+    "rgb": {
+      "r": 221,
+      "g": 223,
+      "b": 210
+    },
+    "hex": "#DDDFD2"
+  },
+  {
+    "nome": "2520P - VZ000 - Manhã Gélido",
+    "rgb": {
+      "r": 186,
+      "g": 214,
+      "b": 199
+    },
+    "hex": "#BAD6C7"
+  },
+  {
+    "nome": "2521P - CI000 - Pastel Pinho",
+    "rgb": {
+      "r": 165,
+      "g": 203,
+      "b": 190
+    },
+    "hex": "#A5CBBE"
+  },
+  {
+    "nome": "2522T - CI000 - Hula",
+    "rgb": {
+      "r": 129,
+      "g": 180,
+      "b": 163
+    },
+    "hex": "#81B4A3"
+  },
+  {
+    "nome": "2523D - CI000 - Montanha Grama",
+    "rgb": {
+      "r": 102,
+      "g": 157,
+      "b": 134
+    },
+    "hex": "#669D86"
+  },
+  {
+    "nome": "2524D - CI000 - Esmeralda Floresta",
+    "rgb": {
+      "r": 74,
+      "g": 137,
+      "b": 116
+    },
+    "hex": "#4A8974"
+  },
+  {
+    "nome": "2525C - CI000 - Caçador Verde",
+    "rgb": {
+      "r": 53,
+      "g": 85,
+      "b": 72
+    },
+    "hex": "#355548"
+  },
+  {
+    "nome": "2526P - BR000 - Ambrosia Doce",
+    "rgb": {
+      "r": 220,
+      "g": 229,
+      "b": 212
+    },
+    "hex": "#DCE5D4"
+  },
+  {
+    "nome": "2527P - CI000 - Posey Verde",
+    "rgb": {
+      "r": 183,
+      "g": 202,
+      "b": 196
+    },
+    "hex": "#B7CAC4"
+  },
+  {
+    "nome": "2528P - CI000 - Herbal Jardim",
+    "rgb": {
+      "r": 177,
+      "g": 200,
+      "b": 190
+    },
+    "hex": "#B1C8BE"
+  },
+  {
+    "nome": "2529T - CI000 - Jericho Jade",
+    "rgb": {
+      "r": 153,
+      "g": 179,
+      "b": 166
+    },
+    "hex": "#99B3A6"
+  },
+  {
+    "nome": "2530D - CI000 - Floresta Sombra",
+    "rgb": {
+      "r": 101,
+      "g": 133,
+      "b": 120
+    },
+    "hex": "#658578"
+  },
+  {
+    "nome": "2531D - CI000 - Africano Rainha",
+    "rgb": {
+      "r": 92,
+      "g": 126,
+      "b": 110
+    },
+    "hex": "#5C7E6E"
+  },
+  {
+    "nome": "2532C - VZ000 - Choupo Bosque",
+    "rgb": {
+      "r": 70,
+      "g": 79,
+      "b": 74
+    },
+    "hex": "#464F4A"
+  },
+  {
+    "nome": "2533P - AV000 - Efervescência",
+    "rgb": {
+      "r": 216,
+      "g": 225,
+      "b": 206
+    },
+    "hex": "#D8E1CE"
+  },
+  {
+    "nome": "2534P - VZ000 - Mentol",
+    "rgb": {
+      "r": 185,
+      "g": 218,
+      "b": 201
+    },
+    "hex": "#B9DAC9"
+  },
+  {
+    "nome": "2535P - VZ000 - Enseada Místico",
+    "rgb": {
+      "r": 160,
+      "g": 209,
+      "b": 180
+    },
+    "hex": "#A0D1B4"
+  },
+  {
+    "nome": "2536T - VZ000 - Prado Verde",
+    "rgb": {
+      "r": 121,
+      "g": 187,
+      "b": 151
+    },
+    "hex": "#79BB97"
+  },
+  {
+    "nome": "2537D - VZ000 - Donnegal",
+    "rgb": {
+      "r": 90,
+      "g": 178,
+      "b": 130
+    },
+    "hex": "#5AB282"
+  },
+  {
+    "nome": "2538D - VZ000 - Serpentino",
+    "rgb": {
+      "r": 86,
+      "g": 155,
+      "b": 111
+    },
+    "hex": "#569B6F"
+  },
+  {
+    "nome": "2539C - CI000 - Huntley Campos",
+    "rgb": {
+      "r": 31,
+      "g": 113,
+      "b": 77
+    },
+    "hex": "#1F714D"
+  },
+  {
+    "nome": "2540P - BR000 - Vidro Gelo",
+    "rgb": {
+      "r": 217,
+      "g": 228,
+      "b": 212
+    },
+    "hex": "#D9E4D4"
+  },
+  {
+    "nome": "2541P - VD000 - Menta Sorbet",
+    "rgb": {
+      "r": 203,
+      "g": 226,
+      "b": 198
+    },
+    "hex": "#CBE2C6"
+  },
+  {
+    "nome": "2542P - VD000 - Folha Tonalidade",
+    "rgb": {
+      "r": 177,
+      "g": 213,
+      "b": 175
+    },
+    "hex": "#B1D5AF"
+  },
+  {
+    "nome": "2543T - VS000 - Alpino Azaleia",
+    "rgb": {
+      "r": 160,
+      "g": 205,
+      "b": 164
+    },
+    "hex": "#A0CDA4"
+  },
+  {
+    "nome": "2544T - VS000 - Irlandês Primavera",
+    "rgb": {
+      "r": 134,
+      "g": 195,
+      "b": 138
+    },
+    "hex": "#86C38A"
+  },
+  {
+    "nome": "2545D - VS000 - Verde Inveja",
+    "rgb": {
+      "r": 93,
+      "g": 179,
+      "b": 106
+    },
+    "hex": "#5DB36A"
+  },
+  {
+    "nome": "2546C - VS000 - Verde Genie",
+    "rgb": {
+      "r": 52,
+      "g": 132,
+      "b": 61
+    },
+    "hex": "#34843D"
+  },
+  {
+    "nome": "2547P - LJ000 - Mar Sal",
+    "rgb": {
+      "r": 231,
+      "g": 223,
+      "b": 210
+    },
+    "hex": "#E7DFD2"
+  },
+  {
+    "nome": "2548P - VD000 - Daiquiri Gelo",
+    "rgb": {
+      "r": 192,
+      "g": 217,
+      "b": 187
+    },
+    "hex": "#C0D9BB"
+  },
+  {
+    "nome": "2549P - VS000 - Koy",
+    "rgb": {
+      "r": 177,
+      "g": 208,
+      "b": 177
+    },
+    "hex": "#B1D0B1"
+  },
+  {
+    "nome": "2550T - VS000 - Amphibia",
+    "rgb": {
+      "r": 147,
+      "g": 189,
+      "b": 149
+    },
+    "hex": "#93BD95"
+  },
+  {
+    "nome": "2551D - VS000 - Cacto Pete",
+    "rgb": {
+      "r": 111,
+      "g": 168,
+      "b": 123
+    },
+    "hex": "#6FA87B"
+  },
+  {
+    "nome": "2552D - VS000 - Sherwood Floresta",
+    "rgb": {
+      "r": 96,
+      "g": 153,
+      "b": 110
+    },
+    "hex": "#60996E"
+  },
+  {
+    "nome": "2553C - VZ000 - Mayfair",
+    "rgb": {
+      "r": 55,
+      "g": 101,
+      "b": 72
+    },
+    "hex": "#376548"
+  },
+  {
+    "nome": "2554P - VI000 - Inglês Pepino",
+    "rgb": {
+      "r": 208,
+      "g": 220,
+      "b": 196
+    },
+    "hex": "#D0DCC4"
+  },
+  {
+    "nome": "2555P - VD000 - Hortelã-Pimenta",
+    "rgb": {
+      "r": 188,
+      "g": 211,
+      "b": 183
+    },
+    "hex": "#BCD3B7"
+  },
+  {
+    "nome": "2556P - VS000 - Croquete",
+    "rgb": {
+      "r": 175,
+      "g": 206,
+      "b": 175
+    },
+    "hex": "#AFCEAF"
+  },
+  {
+    "nome": "2557T - VS000 - Pistache Noz",
+    "rgb": {
+      "r": 150,
+      "g": 181,
+      "b": 150
+    },
+    "hex": "#96B596"
+  },
+  {
+    "nome": "2558D - VS000 - Verde Olhos",
+    "rgb": {
+      "r": 114,
+      "g": 158,
+      "b": 123
+    },
+    "hex": "#729E7B"
+  },
+  {
+    "nome": "2559D - VS000 - Natal Azevinho",
+    "rgb": {
+      "r": 101,
+      "g": 143,
+      "b": 105
+    },
+    "hex": "#658F69"
+  },
+  {
+    "nome": "2560C - VS000 - Cipreste Verde",
+    "rgb": {
+      "r": 76,
+      "g": 106,
+      "b": 80
+    },
+    "hex": "#4C6A50"
+  },
+  {
+    "nome": "2561P - BR000 - Holofote",
+    "rgb": {
+      "r": 231,
+      "g": 227,
+      "b": 215
+    },
+    "hex": "#E7E3D7"
+  },
+  {
+    "nome": "2562P - VS000 - Verde Verão",
+    "rgb": {
+      "r": 203,
+      "g": 227,
+      "b": 203
+    },
+    "hex": "#CBE3CB"
+  },
+  {
+    "nome": "2563P - VI000 - Perrier",
+    "rgb": {
+      "r": 205,
+      "g": 227,
+      "b": 188
+    },
+    "hex": "#CDE3BC"
+  },
+  {
+    "nome": "2564T - VI000 - Alface",
+    "rgb": {
+      "r": 177,
+      "g": 211,
+      "b": 160
+    },
+    "hex": "#B1D3A0"
+  },
+  {
+    "nome": "2565T - VD000 - Periquito",
+    "rgb": {
+      "r": 151,
+      "g": 201,
+      "b": 140
+    },
+    "hex": "#97C98C"
+  },
+  {
+    "nome": "2566D - VD000 - Animado Lima",
+    "rgb": {
+      "r": 107,
+      "g": 182,
+      "b": 99
+    },
+    "hex": "#6BB663"
+  },
+  {
+    "nome": "2567C - VS000 - Radiante Verde",
+    "rgb": {
+      "r": 50,
+      "g": 151,
+      "b": 73
+    },
+    "hex": "#329749"
+  },
+  {
+    "nome": "2568P - VZ000 - Pistache Creme",
+    "rgb": {
+      "r": 209,
+      "g": 232,
+      "b": 216
+    },
+    "hex": "#D1E8D8"
+  },
+  {
+    "nome": "2569P - VI000 - Capulet",
+    "rgb": {
+      "r": 200,
+      "g": 211,
+      "b": 194
+    },
+    "hex": "#C8D3C2"
+  },
+  {
+    "nome": "2570P - VI000 - Verde Lírio",
+    "rgb": {
+      "r": 186,
+      "g": 198,
+      "b": 178
+    },
+    "hex": "#BAC6B2"
+  },
+  {
+    "nome": "2571T - VI000 - Sueco Hera",
+    "rgb": {
+      "r": 162,
+      "g": 178,
+      "b": 151
+    },
+    "hex": "#A2B297"
+  },
+  {
+    "nome": "2572D - VD000 - Limerique",
+    "rgb": {
+      "r": 130,
+      "g": 148,
+      "b": 124
+    },
+    "hex": "#82947C"
+  },
+  {
+    "nome": "2573D - VD000 - Verte",
+    "rgb": {
+      "r": 110,
+      "g": 134,
+      "b": 108
+    },
+    "hex": "#6E866C"
+  },
+  {
+    "nome": "2574C - VS000 - Verde Pimenta",
+    "rgb": {
+      "r": 81,
+      "g": 111,
+      "b": 83
+    },
+    "hex": "#516F53"
+  },
+  {
+    "nome": "2575P - LJ000 - Gelado Daiquiri",
+    "rgb": {
+      "r": 237,
+      "g": 229,
+      "b": 216
+    },
+    "hex": "#EDE5D8"
+  },
+  {
+    "nome": "2576P - AV000 - Verde Névoa",
+    "rgb": {
+      "r": 210,
+      "g": 221,
+      "b": 181
+    },
+    "hex": "#D2DDB5"
+  },
+  {
+    "nome": "2577T - AV000 - Mineral Água",
+    "rgb": {
+      "r": 183,
+      "g": 207,
+      "b": 155
+    },
+    "hex": "#B7CF9B"
+  },
+  {
+    "nome": "2578T - VI000 - Agrião",
+    "rgb": {
+      "r": 164,
+      "g": 195,
+      "b": 135
+    },
+    "hex": "#A4C387"
+  },
+  {
+    "nome": "2579D - VI000 - Grama Fresco",
+    "rgb": {
+      "r": 138,
+      "g": 181,
+      "b": 110
+    },
+    "hex": "#8AB56E"
+  },
+  {
+    "nome": "2580D - VI000 - Jade Lima",
+    "rgb": {
+      "r": 123,
+      "g": 167,
+      "b": 92
+    },
+    "hex": "#7BA75C"
+  },
+  {
+    "nome": "2581C - VD000 - Irlandês Verde",
+    "rgb": {
+      "r": 71,
+      "g": 137,
+      "b": 63
+    },
+    "hex": "#47893F"
+  },
+  {
+    "nome": "2582P - BR000 - Chuvisco",
+    "rgb": {
+      "r": 228,
+      "g": 225,
+      "b": 210
+    },
+    "hex": "#E4E1D2"
+  },
+  {
+    "nome": "2583P - AM000 - Verde Uva",
+    "rgb": {
+      "r": 224,
+      "g": 231,
+      "b": 198
+    },
+    "hex": "#E0E7C6"
+  },
+  {
+    "nome": "2584P - AV000 - Muda Pequeno",
+    "rgb": {
+      "r": 206,
+      "g": 222,
+      "b": 173
+    },
+    "hex": "#CEDEAD"
+  },
+  {
+    "nome": "2585T - AV000 - Aipo",
+    "rgb": {
+      "r": 190,
+      "g": 216,
+      "b": 155
+    },
+    "hex": "#BED89B"
+  },
+  {
+    "nome": "2586T - VI000 - Pepino Salada",
+    "rgb": {
+      "r": 172,
+      "g": 208,
+      "b": 136
+    },
+    "hex": "#ACD088"
+  },
+  {
+    "nome": "2587D - VI000 - Lima",
+    "rgb": {
+      "r": 132,
+      "g": 188,
+      "b": 91
+    },
+    "hex": "#84BC5B"
+  },
+  {
+    "nome": "2588C - VI000 - Botânica",
+    "rgb": {
+      "r": 103,
+      "g": 167,
+      "b": 73
+    },
+    "hex": "#67A749"
+  },
+  {
+    "nome": "2589P - LJ000 - Aipo Claro",
+    "rgb": {
+      "r": 234,
+      "g": 227,
+      "b": 208
+    },
+    "hex": "#EAE3D0"
+  },
+  {
+    "nome": "2590P - AM000 - Verde Cebola",
+    "rgb": {
+      "r": 221,
+      "g": 225,
+      "b": 188
+    },
+    "hex": "#DDE1BC"
+  },
+  {
+    "nome": "2591P - AM000 - Tônico e Lima",
+    "rgb": {
+      "r": 213,
+      "g": 221,
+      "b": 161
+    },
+    "hex": "#D5DDA1"
+  },
+  {
+    "nome": "2592T - AM000 - Plácido Vista",
+    "rgb": {
+      "r": 205,
+      "g": 216,
+      "b": 150
+    },
+    "hex": "#CDD896"
+  },
+  {
+    "nome": "2593T - AV000 - Duende Primavera",
+    "rgb": {
+      "r": 186,
+      "g": 208,
+      "b": 123
+    },
+    "hex": "#BAD07B"
+  },
+  {
+    "nome": "2594D - AV000 - Lima Selvagem",
+    "rgb": {
+      "r": 159,
+      "g": 195,
+      "b": 87
+    },
+    "hex": "#9FC357"
+  },
+  {
+    "nome": "2595C - AV000 - Botão Primavera",
+    "rgb": {
+      "r": 124,
+      "g": 168,
+      "b": 55
+    },
+    "hex": "#7CA837"
+  },
+  {
+    "nome": "2596P - LJ000 - Aipo Bisque",
+    "rgb": {
+      "r": 228,
+      "g": 220,
+      "b": 207
+    },
+    "hex": "#E4DCCF"
+  },
+  {
+    "nome": "2597P - CC000 - Maré Espuma",
+    "rgb": {
+      "r": 204,
+      "g": 206,
+      "b": 193
+    },
+    "hex": "#CCCEC1"
+  },
+  {
+    "nome": "2598P - CC000 - Verde Tiara",
+    "rgb": {
+      "r": 186,
+      "g": 190,
+      "b": 176
+    },
+    "hex": "#BABEB0"
+  },
+  {
+    "nome": "2599T - AV000 - Camaleão",
+    "rgb": {
+      "r": 154,
+      "g": 158,
+      "b": 144
+    },
+    "hex": "#9A9E90"
+  },
+  {
+    "nome": "2600D - AV000 - Beowulf",
+    "rgb": {
+      "r": 128,
+      "g": 135,
+      "b": 119
+    },
+    "hex": "#808777"
+  },
+  {
+    "nome": "2601D - AV000 - Mimosa Folha",
+    "rgb": {
+      "r": 112,
+      "g": 118,
+      "b": 104
+    },
+    "hex": "#707668"
+  },
+  {
+    "nome": "2602C - VD000 - Floresta Profundo",
+    "rgb": {
+      "r": 79,
+      "g": 93,
+      "b": 76
+    },
+    "hex": "#4F5D4C"
+  },
+  {
+    "nome": "2603P - BR000 - Silvestre Verde",
+    "rgb": {
+      "r": 228,
+      "g": 224,
+      "b": 212
+    },
+    "hex": "#E4E0D4"
+  },
+  {
+    "nome": "2604P - AV000 - Musgo Claro",
+    "rgb": {
+      "r": 200,
+      "g": 207,
+      "b": 189
+    },
+    "hex": "#C8CFBD"
+  },
+  {
+    "nome": "2605P - AM000 - Hera Pálido",
+    "rgb": {
+      "r": 186,
+      "g": 189,
+      "b": 168
+    },
+    "hex": "#BABDA8"
+  },
+  {
+    "nome": "2606T - AV000 - Alho-Poró Folha",
+    "rgb": {
+      "r": 165,
+      "g": 173,
+      "b": 149
+    },
+    "hex": "#A5AD95"
+  },
+  {
+    "nome": "2607D - AM000 - Polido Verde",
+    "rgb": {
+      "r": 142,
+      "g": 147,
+      "b": 124
+    },
+    "hex": "#8E937C"
+  },
+  {
+    "nome": "2608D - AV000 - Sereia Jovem",
+    "rgb": {
+      "r": 120,
+      "g": 130,
+      "b": 105
+    },
+    "hex": "#788269"
+  },
+  {
+    "nome": "2609C - AM000 - Jardim Muro",
+    "rgb": {
+      "r": 91,
+      "g": 96,
+      "b": 73
+    },
+    "hex": "#5B6049"
+  },
+  {
+    "nome": "2610P - BR000 - Verde Essência",
+    "rgb": {
+      "r": 225,
+      "g": 221,
+      "b": 209
+    },
+    "hex": "#E1DDD1"
+  },
+  {
+    "nome": "2611P - AV000 - Luminescência",
+    "rgb": {
+      "r": 205,
+      "g": 213,
+      "b": 190
+    },
+    "hex": "#CDD5BE"
+  },
+  {
+    "nome": "2612P - AV000 - Clorofila",
+    "rgb": {
+      "r": 181,
+      "g": 192,
+      "b": 162
+    },
+    "hex": "#B5C0A2"
+  },
+  {
+    "nome": "2613T - AV000 - Caule",
+    "rgb": {
+      "r": 168,
+      "g": 183,
+      "b": 144
+    },
+    "hex": "#A8B790"
+  },
+  {
+    "nome": "2614D - AV000 - Moeda",
+    "rgb": {
+      "r": 139,
+      "g": 154,
+      "b": 113
+    },
+    "hex": "#8B9A71"
+  },
+  {
+    "nome": "2615D - VI000 - Irlanda",
+    "rgb": {
+      "r": 124,
+      "g": 145,
+      "b": 106
+    },
+    "hex": "#7C916A"
+  },
+  {
+    "nome": "2616C - AV000 - Lagoa Musgo",
+    "rgb": {
+      "r": 96,
+      "g": 109,
+      "b": 79
+    },
+    "hex": "#606D4F"
+  },
+  {
+    "nome": "2617P - LJ000 - Pacífico",
+    "rgb": {
+      "r": 237,
+      "g": 229,
+      "b": 216
+    },
+    "hex": "#EDE5D8"
+  },
+  {
+    "nome": "2618P - AM000 - Nilo Pálido",
+    "rgb": {
+      "r": 223,
+      "g": 227,
+      "b": 202
+    },
+    "hex": "#DFE3CA"
+  },
+  {
+    "nome": "2619P - AV000 - Élfico Cabo",
+    "rgb": {
+      "r": 204,
+      "g": 215,
+      "b": 175
+    },
+    "hex": "#CCD7AF"
+  },
+  {
+    "nome": "2620T - AV000 - Praia Ervilha",
+    "rgb": {
+      "r": 183,
+      "g": 199,
+      "b": 150
+    },
+    "hex": "#B7C796"
+  },
+  {
+    "nome": "2621D - AV000 - Tênis Verde",
+    "rgb": {
+      "r": 150,
+      "g": 178,
+      "b": 119
+    },
+    "hex": "#96B277"
+  },
+  {
+    "nome": "2622D - AV000 - Guacamole",
+    "rgb": {
+      "r": 144,
+      "g": 171,
+      "b": 100
+    },
+    "hex": "#90AB64"
+  },
+  {
+    "nome": "2623C - AV000 - Beaumonde",
+    "rgb": {
+      "r": 106,
+      "g": 134,
+      "b": 75
+    },
+    "hex": "#6A864B"
+  },
+  {
+    "nome": "2624P - LA000 - Luminar Verde",
+    "rgb": {
+      "r": 236,
+      "g": 230,
+      "b": 206
+    },
+    "hex": "#ECE6CE"
+  },
+  {
+    "nome": "2625P - AM000 - Cidra",
+    "rgb": {
+      "r": 223,
+      "g": 223,
+      "b": 187
+    },
+    "hex": "#DFDFBB"
+  },
+  {
+    "nome": "2626P - AM000 - Vegetação",
+    "rgb": {
+      "r": 207,
+      "g": 216,
+      "b": 163
+    },
+    "hex": "#CFD8A3"
+  },
+  {
+    "nome": "2627T - AM000 - Prado Doce",
+    "rgb": {
+      "r": 194,
+      "g": 203,
+      "b": 138
+    },
+    "hex": "#C2CB8A"
+  },
+  {
+    "nome": "2628T - AM000 - Kiwi",
+    "rgb": {
+      "r": 183,
+      "g": 194,
+      "b": 128
+    },
+    "hex": "#B7C280"
+  },
+  {
+    "nome": "2629D - AV000 - Lima Casca",
+    "rgb": {
+      "r": 151,
+      "g": 173,
+      "b": 88
+    },
+    "hex": "#97AD58"
+  },
+  {
+    "nome": "2630C - AV000 - Entrelaçando Vinha",
+    "rgb": {
+      "r": 114,
+      "g": 145,
+      "b": 69
+    },
+    "hex": "#729145"
+  },
+  {
+    "nome": "2631P - LA000 - Rio Névoa",
+    "rgb": {
+      "r": 240,
+      "g": 234,
+      "b": 210
+    },
+    "hex": "#F0EAD2"
+  },
+  {
+    "nome": "2632P - LA000 - Meadowbrook",
+    "rgb": {
+      "r": 233,
+      "g": 229,
+      "b": 192
+    },
+    "hex": "#E9E5C0"
+  },
+  {
+    "nome": "2633P - LA000 - Élfico Mágico",
+    "rgb": {
+      "r": 220,
+      "g": 218,
+      "b": 167
+    },
+    "hex": "#DCDAA7"
+  },
+  {
+    "nome": "2634T - AM000 - Primo Lima",
+    "rgb": {
+      "r": 213,
+      "g": 220,
+      "b": 150
+    },
+    "hex": "#D5DC96"
+  },
+  {
+    "nome": "2635T - AM000 - Maçã",
+    "rgb": {
+      "r": 185,
+      "g": 203,
+      "b": 121
+    },
+    "hex": "#B9CB79"
+  },
+  {
+    "nome": "2636D - AM000 - Vibrante Lima",
+    "rgb": {
+      "r": 162,
+      "g": 185,
+      "b": 81
+    },
+    "hex": "#A2B951"
+  },
+  {
+    "nome": "2637C - AV000 - Verde Vale",
+    "rgb": {
+      "r": 120,
+      "g": 161,
+      "b": 69
+    },
+    "hex": "#78A145"
+  },
+  {
+    "nome": "2638P - LA000 - Verdinho",
+    "rgb": {
+      "r": 236,
+      "g": 232,
+      "b": 195
+    },
+    "hex": "#ECE8C3"
+  },
+  {
+    "nome": "2639P - LA000 - Amargo Lima",
+    "rgb": {
+      "r": 232,
+      "g": 230,
+      "b": 179
+    },
+    "hex": "#E8E6B3"
+  },
+  {
+    "nome": "2640P - AM000 - Fresca",
+    "rgb": {
+      "r": 228,
+      "g": 228,
+      "b": 166
+    },
+    "hex": "#E4E4A6"
+  },
+  {
+    "nome": "2641T - AM000 - Névoa Tropical",
+    "rgb": {
+      "r": 215,
+      "g": 219,
+      "b": 132
+    },
+    "hex": "#D7DB84"
+  },
+  {
+    "nome": "2642T - AM000 - Chartreuse",
+    "rgb": {
+      "r": 199,
+      "g": 212,
+      "b": 124
+    },
+    "hex": "#C7D47C"
+  },
+  {
+    "nome": "2643D - AM000 - Verde Fúria",
+    "rgb": {
+      "r": 165,
+      "g": 185,
+      "b": 74
+    },
+    "hex": "#A5B94A"
+  },
+  {
+    "nome": "2644C - AV000 - Verde Lampejo",
+    "rgb": {
+      "r": 125,
+      "g": 175,
+      "b": 54
+    },
+    "hex": "#7DAF36"
+  },
+  {
+    "nome": "2645P - LJ000 - Noite Estrela",
+    "rgb": {
+      "r": 235,
+      "g": 227,
+      "b": 204
+    },
+    "hex": "#EBE3CC"
+  },
+  {
+    "nome": "2646P - LA000 - Dividido Ervilha",
+    "rgb": {
+      "r": 225,
+      "g": 219,
+      "b": 195
+    },
+    "hex": "#E1DBC3"
+  },
+  {
+    "nome": "2647P - AM000 - Serpente",
+    "rgb": {
+      "r": 202,
+      "g": 206,
+      "b": 169
+    },
+    "hex": "#CACEA9"
+  },
+  {
+    "nome": "2648T - AM000 - Gramado Verde",
+    "rgb": {
+      "r": 181,
+      "g": 183,
+      "b": 143
+    },
+    "hex": "#B5B78F"
+  },
+  {
+    "nome": "2649D - AM000 - Suez",
+    "rgb": {
+      "r": 152,
+      "g": 157,
+      "b": 117
+    },
+    "hex": "#989D75"
+  },
+  {
+    "nome": "2650D - AM000 - Grego Oliva",
+    "rgb": {
+      "r": 129,
+      "g": 135,
+      "b": 97
+    },
+    "hex": "#818761"
+  },
+  {
+    "nome": "2651C - AM000 - Loden",
+    "rgb": {
+      "r": 116,
+      "g": 121,
+      "b": 89
+    },
+    "hex": "#747959"
+  },
+  {
+    "nome": "2652P - LJ000 - Etéreo",
+    "rgb": {
+      "r": 237,
+      "g": 230,
+      "b": 211
+    },
+    "hex": "#EDE6D3"
+  },
+  {
+    "nome": "2653P - AM000 - Delovely",
+    "rgb": {
+      "r": 221,
+      "g": 223,
+      "b": 186
+    },
+    "hex": "#DDDFBA"
+  },
+  {
+    "nome": "2654P - LA000 - Limon",
+    "rgb": {
+      "r": 221,
+      "g": 219,
+      "b": 171
+    },
+    "hex": "#DDDBAB"
+  },
+  {
+    "nome": "2655T - LA000 - Sombra Lima",
+    "rgb": {
+      "r": 201,
+      "g": 200,
+      "b": 146
+    },
+    "hex": "#C9C892"
+  },
+  {
+    "nome": "2656D - AM000 - Véspera",
+    "rgb": {
+      "r": 172,
+      "g": 172,
+      "b": 110
+    },
+    "hex": "#ACAC6E"
+  },
+  {
+    "nome": "2657D - AM000 - Figo Folha",
+    "rgb": {
+      "r": 163,
+      "g": 164,
+      "b": 96
+    },
+    "hex": "#A3A460"
+  },
+  {
+    "nome": "2658C - AM000 - Verde Maçã",
+    "rgb": {
+      "r": 131,
+      "g": 137,
+      "b": 75
+    },
+    "hex": "#83894B"
+  },
+  {
+    "nome": "2659P - LJ000 - Vínculo Branco",
+    "rgb": {
+      "r": 242,
+      "g": 233,
+      "b": 216
+    },
+    "hex": "#F2E9D8"
+  },
+  {
+    "nome": "2660P - LJ000 - Crocante",
+    "rgb": {
+      "r": 231,
+      "g": 223,
+      "b": 200
+    },
+    "hex": "#E7DFC8"
+  },
+  {
+    "nome": "2661P - LJ000 - Sálvia Jardim",
+    "rgb": {
+      "r": 219,
+      "g": 209,
+      "b": 182
+    },
+    "hex": "#DBD1B6"
+  },
+  {
+    "nome": "2662T - LA000 - Delicioso Dourado",
+    "rgb": {
+      "r": 182,
+      "g": 173,
+      "b": 140
+    },
+    "hex": "#B6AD8C"
+  },
+  {
+    "nome": "2663D - LJ000 - Verde Índigo",
+    "rgb": {
+      "r": 166,
+      "g": 153,
+      "b": 119
+    },
+    "hex": "#A69977"
+  },
+  {
+    "nome": "2664D - LA000 - Mar Musgo",
+    "rgb": {
+      "r": 149,
+      "g": 140,
+      "b": 99
+    },
+    "hex": "#958C63"
+  },
+  {
+    "nome": "2665C - LJ000 - Plantação",
+    "rgb": {
+      "r": 110,
+      "g": 99,
+      "b": 77
+    },
+    "hex": "#6E634D"
+  },
+  {
+    "nome": "2666P - LJ000 - Papyrus",
+    "rgb": {
+      "r": 237,
+      "g": 226,
+      "b": 208
+    },
+    "hex": "#EDE2D0"
+  },
+  {
+    "nome": "2667P - LA000 - Amarelo Suave",
+    "rgb": {
+      "r": 241,
+      "g": 227,
+      "b": 180
+    },
+    "hex": "#F1E3B4"
+  },
+  {
+    "nome": "2668T - LA000 - Amarelo Grama",
+    "rgb": {
+      "r": 228,
+      "g": 214,
+      "b": 153
+    },
+    "hex": "#E4D699"
+  },
+  {
+    "nome": "2669T - LA000 - Tinkerbell",
+    "rgb": {
+      "r": 226,
+      "g": 209,
+      "b": 137
+    },
+    "hex": "#E2D189"
+  },
+  {
+    "nome": "2670T - LA000 - Sublime",
+    "rgb": {
+      "r": 216,
+      "g": 200,
+      "b": 125
+    },
+    "hex": "#D8C87D"
+  },
+  {
+    "nome": "2671D - LA000 - Limebright",
+    "rgb": {
+      "r": 200,
+      "g": 187,
+      "b": 93
+    },
+    "hex": "#C8BB5D"
+  },
+  {
+    "nome": "2672C - LA000 - Oliva Dourado",
+    "rgb": {
+      "r": 142,
+      "g": 133,
+      "b": 74
+    },
+    "hex": "#8E854A"
+  },
+  {
+    "nome": "2673P - LJ000 - Toque de Oliva",
+    "rgb": {
+      "r": 234,
+      "g": 227,
+      "b": 209
+    },
+    "hex": "#EAE3D1"
+  },
+  {
+    "nome": "2674P - LJ000 - Névoa do Mar",
+    "rgb": {
+      "r": 224,
+      "g": 213,
+      "b": 195
+    },
+    "hex": "#E0D5C3"
+  },
+  {
+    "nome": "2675P - LA000 - Gucci",
+    "rgb": {
+      "r": 206,
+      "g": 197,
+      "b": 168
+    },
+    "hex": "#CEC5A8"
+  },
+  {
+    "nome": "2676T - LA000 - Grilo Campo",
+    "rgb": {
+      "r": 173,
+      "g": 167,
+      "b": 143
+    },
+    "hex": "#ADA78F"
+  },
+  {
+    "nome": "2677D - LA000 - Seiva Verde",
+    "rgb": {
+      "r": 146,
+      "g": 140,
+      "b": 116
+    },
+    "hex": "#928C74"
+  },
+  {
+    "nome": "2678D - LJ000 - Árvore de Céu",
+    "rgb": {
+      "r": 140,
+      "g": 129,
+      "b": 107
+    },
+    "hex": "#8C816B"
+  },
+  {
+    "nome": "2679C - AM000 - Musgo Bronze",
+    "rgb": {
+      "r": 89,
+      "g": 90,
+      "b": 76
+    },
+    "hex": "#595A4C"
+  },
+  {
+    "nome": "2680P - LA000 - Branco Inverno",
+    "rgb": {
+      "r": 231,
+      "g": 225,
+      "b": 203
+    },
+    "hex": "#E7E1CB"
+  },
+  {
+    "nome": "2681P - LJ000 - Sulista Brisa",
+    "rgb": {
+      "r": 215,
+      "g": 201,
+      "b": 172
+    },
+    "hex": "#D7C9AC"
+  },
+  {
+    "nome": "2682T - LJ000 - Agosto Grama",
+    "rgb": {
+      "r": 200,
+      "g": 184,
+      "b": 148
+    },
+    "hex": "#C8B894"
+  },
+  {
+    "nome": "2683T - LA000 - Milagro",
+    "rgb": {
+      "r": 181,
+      "g": 169,
+      "b": 131
+    },
+    "hex": "#B5A983"
+  },
+  {
+    "nome": "2684D - LJ000 - Espalier",
+    "rgb": {
+      "r": 156,
+      "g": 142,
+      "b": 105
+    },
+    "hex": "#9C8E69"
+  },
+  {
+    "nome": "2685D - LJ000 - Caído Folhas",
+    "rgb": {
+      "r": 153,
+      "g": 139,
+      "b": 102
+    },
+    "hex": "#998B66"
+  },
+  {
+    "nome": "2686C - LJ000 - Hera Oliva",
+    "rgb": {
+      "r": 118,
+      "g": 107,
+      "b": 79
+    },
+    "hex": "#766B4F"
+  },
+  {
+    "nome": "2687P - LJ000 - Francês Baunilha",
+    "rgb": {
+      "r": 241,
+      "g": 225,
+      "b": 199
+    },
+    "hex": "#F1E1C7"
+  },
+  {
+    "nome": "2688P - LJ000 - Bambu",
+    "rgb": {
+      "r": 238,
+      "g": 224,
+      "b": 189
+    },
+    "hex": "#EEE0BD"
+  },
+  {
+    "nome": "2689T - LJ000 - Linho Velho",
+    "rgb": {
+      "r": 210,
+      "g": 196,
+      "b": 161
+    },
+    "hex": "#D2C4A1"
+  },
+  {
+    "nome": "2690T - LJ000 - Amarelo Topázio",
+    "rgb": {
+      "r": 198,
+      "g": 182,
+      "b": 146
+    },
+    "hex": "#C6B692"
+  },
+  {
+    "nome": "2691D - LA000 - Cardo Flor",
+    "rgb": {
+      "r": 181,
+      "g": 165,
+      "b": 113
+    },
+    "hex": "#B5A571"
+  },
+  {
+    "nome": "2692D - LA000 - Verde Dourado",
+    "rgb": {
+      "r": 164,
+      "g": 151,
+      "b": 99
+    },
+    "hex": "#A49763"
+  },
+  {
+    "nome": "2693C - LA000 - Thrush",
+    "rgb": {
+      "r": 110,
+      "g": 106,
+      "b": 68
+    },
+    "hex": "#6E6A44"
+  },
+  {
+    "nome": "2694P - LJ000 - Riesling",
+    "rgb": {
+      "r": 235,
+      "g": 227,
+      "b": 204
+    },
+    "hex": "#EBE3CC"
+  },
+  {
+    "nome": "2695P - LJ000 - Nadas Doce",
+    "rgb": {
+      "r": 241,
+      "g": 226,
+      "b": 195
+    },
+    "hex": "#F1E2C3"
+  },
+  {
+    "nome": "2696P - LA000 - Buttercorn",
+    "rgb": {
+      "r": 231,
+      "g": 215,
+      "b": 164
+    },
+    "hex": "#E7D7A4"
+  },
+  {
+    "nome": "2697T - LA000 - Midas Toque",
+    "rgb": {
+      "r": 219,
+      "g": 198,
+      "b": 131
+    },
+    "hex": "#DBC683"
+  },
+  {
+    "nome": "2698D - LA000 - Mostarda",
+    "rgb": {
+      "r": 191,
+      "g": 171,
+      "b": 100
+    },
+    "hex": "#BFAB64"
+  },
+  {
+    "nome": "2699D - LA000 - Dourado Pó",
+    "rgb": {
+      "r": 192,
+      "g": 171,
+      "b": 88
+    },
+    "hex": "#C0AB58"
+  },
+  {
+    "nome": "2700C - LA000 - Cru Oliva",
+    "rgb": {
+      "r": 158,
+      "g": 138,
+      "b": 65
+    },
+    "hex": "#9E8A41"
+  },
+  {
+    "nome": "2701P - LJ000 - Amarelo Creme",
+    "rgb": {
+      "r": 231,
+      "g": 223,
+      "b": 202
+    },
+    "hex": "#E7DFCA"
+  },
+  {
+    "nome": "2702P - LJ000 - Divindade Creme",
+    "rgb": {
+      "r": 236,
+      "g": 219,
+      "b": 193
+    },
+    "hex": "#ECDBC1"
+  },
+  {
+    "nome": "2703P - LJ000 - Cremoso",
+    "rgb": {
+      "r": 238,
+      "g": 216,
+      "b": 179
+    },
+    "hex": "#EED8B3"
+  },
+  {
+    "nome": "2704T - LJ000 - Compota de Maçã Bolo",
+    "rgb": {
+      "r": 220,
+      "g": 198,
+      "b": 149
+    },
+    "hex": "#DCC695"
+  },
+  {
+    "nome": "2705T - LJ000 - Arizona Sol",
+    "rgb": {
+      "r": 208,
+      "g": 184,
+      "b": 124
+    },
+    "hex": "#D0B87C"
+  },
+  {
+    "nome": "2706D - LJ000 - Velo Dourado",
+    "rgb": {
+      "r": 184,
+      "g": 152,
+      "b": 91
+    },
+    "hex": "#B8985B"
+  },
+  {
+    "nome": "2707C - LJ000 - Polido Dourado",
+    "rgb": {
+      "r": 151,
+      "g": 126,
+      "b": 72
+    },
+    "hex": "#977E48"
+  },
+  {
+    "nome": "2708P - LJ000 - Lua Inverno",
+    "rgb": {
+      "r": 242,
+      "g": 231,
+      "b": 209
+    },
+    "hex": "#F2E7D1"
+  },
+  {
+    "nome": "2709P - LJ000 - Vermicelli",
+    "rgb": {
+      "r": 234,
+      "g": 216,
+      "b": 180
+    },
+    "hex": "#EAD8B4"
+  },
+  {
+    "nome": "2710T - LJ000 - Linho Palha",
+    "rgb": {
+      "r": 213,
+      "g": 191,
+      "b": 154
+    },
+    "hex": "#D5BF9A"
+  },
+  {
+    "nome": "2711T - LJ000 - Dourado",
+    "rgb": {
+      "r": 207,
+      "g": 186,
+      "b": 141
+    },
+    "hex": "#CFBA8D"
+  },
+  {
+    "nome": "2712D - LJ000 - Sombra Dourado",
+    "rgb": {
+      "r": 185,
+      "g": 158,
+      "b": 105
+    },
+    "hex": "#B99E69"
+  },
+  {
+    "nome": "2713D - LJ000 - Dourado Pressa",
+    "rgb": {
+      "r": 178,
+      "g": 148,
+      "b": 98
+    },
+    "hex": "#B29462"
+  },
+  {
+    "nome": "2714C - LJ000 - Tabaco Marrom",
+    "rgb": {
+      "r": 137,
+      "g": 119,
+      "b": 81
+    },
+    "hex": "#897751"
+  },
+  {
+    "nome": "2715P - LJ000 - Luz do Dia",
+    "rgb": {
+      "r": 237,
+      "g": 225,
+      "b": 209
+    },
+    "hex": "#EDE1D1"
+  },
+  {
+    "nome": "2716P - LJ000 - Indiano Areia",
+    "rgb": {
+      "r": 222,
+      "g": 209,
+      "b": 190
+    },
+    "hex": "#DED1BE"
+  },
+  {
+    "nome": "2717T - LJ000 - Açúcar Biscoito",
+    "rgb": {
+      "r": 204,
+      "g": 190,
+      "b": 164
+    },
+    "hex": "#CCBEA4"
+  },
+  {
+    "nome": "2718T - LJ000 - Marrocos Areia",
+    "rgb": {
+      "r": 184,
+      "g": 169,
+      "b": 138
+    },
+    "hex": "#B8A98A"
+  },
+  {
+    "nome": "2719D - LJ000 - Gaúcho",
+    "rgb": {
+      "r": 157,
+      "g": 142,
+      "b": 113
+    },
+    "hex": "#9D8E71"
+  },
+  {
+    "nome": "2720D - LJ000 - Bolota",
+    "rgb": {
+      "r": 144,
+      "g": 129,
+      "b": 100
+    },
+    "hex": "#908164"
+  },
+  {
+    "nome": "2721C - LJ000 - Marsupial",
+    "rgb": {
+      "r": 112,
+      "g": 97,
+      "b": 78
+    },
+    "hex": "#70614E"
+  },
+  {
+    "nome": "2722P - LJ000 - Branco Vermute",
+    "rgb": {
+      "r": 240,
+      "g": 232,
+      "b": 213
+    },
+    "hex": "#F0E8D5"
+  },
+  {
+    "nome": "2723P - LJ000 - Adagio",
+    "rgb": {
+      "r": 243,
+      "g": 223,
+      "b": 196
+    },
+    "hex": "#F3DFC4"
+  },
+  {
+    "nome": "2724P - LJ000 - Mar Aveia",
+    "rgb": {
+      "r": 222,
+      "g": 203,
+      "b": 170
+    },
+    "hex": "#DECBAA"
+  },
+  {
+    "nome": "2725T - LJ000 - Litoral",
+    "rgb": {
+      "r": 210,
+      "g": 188,
+      "b": 151
+    },
+    "hex": "#D2BC97"
+  },
+  {
+    "nome": "2726D - LJ000 - Epaulet",
+    "rgb": {
+      "r": 180,
+      "g": 152,
+      "b": 105
+    },
+    "hex": "#B49869"
+  },
+  {
+    "nome": "2727D - LJ000 - Idade Dourado",
+    "rgb": {
+      "r": 172,
+      "g": 141,
+      "b": 94
+    },
+    "hex": "#AC8D5E"
+  },
+  {
+    "nome": "2728C - LJ000 - Bronze Névoa",
+    "rgb": {
+      "r": 141,
+      "g": 118,
+      "b": 86
+    },
+    "hex": "#8D7656"
+  },
+  {
+    "nome": "2729P - LJ000 - Ondulante Vela",
+    "rgb": {
+      "r": 237,
+      "g": 226,
+      "b": 206
+    },
+    "hex": "#EDE2CE"
+  },
+  {
+    "nome": "2730P - LJ000 - Gergelim",
+    "rgb": {
+      "r": 234,
+      "g": 217,
+      "b": 187
+    },
+    "hex": "#EAD9BB"
+  },
+  {
+    "nome": "2731P - LJ000 - Camurça",
+    "rgb": {
+      "r": 216,
+      "g": 201,
+      "b": 168
+    },
+    "hex": "#D8C9A8"
+  },
+  {
+    "nome": "2732T - LJ000 - Lariat",
+    "rgb": {
+      "r": 206,
+      "g": 183,
+      "b": 149
+    },
+    "hex": "#CEB795"
+  },
+  {
+    "nome": "2733T - LJ000 - Fazenda",
+    "rgb": {
+      "r": 196,
+      "g": 174,
+      "b": 137
+    },
+    "hex": "#C4AE89"
+  },
+  {
+    "nome": "2734D - LJ000 - Êxtase Dourado",
+    "rgb": {
+      "r": 173,
+      "g": 147,
+      "b": 112
+    },
+    "hex": "#AD9370"
+  },
+  {
+    "nome": "2735C - LJ000 - Selva Ameixa",
+    "rgb": {
+      "r": 128,
+      "g": 109,
+      "b": 79
+    },
+    "hex": "#806D4F"
+  },
+  {
+    "nome": "2736P - LJ000 - da Pomba Canção",
+    "rgb": {
+      "r": 242,
+      "g": 231,
+      "b": 213
+    },
+    "hex": "#F2E7D5"
+  },
+  {
+    "nome": "2737P - LJ000 - Amêndoa Areia",
+    "rgb": {
+      "r": 223,
+      "g": 205,
+      "b": 181
+    },
+    "hex": "#DFCDB5"
+  },
+  {
+    "nome": "2738P - LJ000 - Sombrero Castanho Claro",
+    "rgb": {
+      "r": 206,
+      "g": 182,
+      "b": 154
+    },
+    "hex": "#CEB69A"
+  },
+  {
+    "nome": "2739T - LJ000 - Tentilhão",
+    "rgb": {
+      "r": 193,
+      "g": 169,
+      "b": 141
+    },
+    "hex": "#C1A98D"
+  },
+  {
+    "nome": "2740D - LJ000 - Torrada Queimado",
+    "rgb": {
+      "r": 172,
+      "g": 143,
+      "b": 113
+    },
+    "hex": "#AC8F71"
+  },
+  {
+    "nome": "2741D - LJ000 - Taboa Marrom",
+    "rgb": {
+      "r": 154,
+      "g": 131,
+      "b": 100
+    },
+    "hex": "#9A8364"
+  },
+  {
+    "nome": "2742C - LJ000 - Raposa",
+    "rgb": {
+      "r": 121,
+      "g": 101,
+      "b": 76
+    },
+    "hex": "#79654C"
+  },
+  {
+    "nome": "2743P - VL000 - Linho Creme",
+    "rgb": {
+      "r": 243,
+      "g": 229,
+      "b": 216
+    },
+    "hex": "#F3E5D8"
+  },
+  {
+    "nome": "2744P - LJ000 - Saara Sol",
+    "rgb": {
+      "r": 234,
+      "g": 216,
+      "b": 196
+    },
+    "hex": "#EAD8C4"
+  },
+  {
+    "nome": "2745P - LJ000 - Camelo Claro",
+    "rgb": {
+      "r": 220,
+      "g": 196,
+      "b": 168
+    },
+    "hex": "#DCC4A8"
+  },
+  {
+    "nome": "2746T - LJ000 - Damasco Castanho Claro",
+    "rgb": {
+      "r": 194,
+      "g": 169,
+      "b": 139
+    },
+    "hex": "#C2A98B"
+  },
+  {
+    "nome": "2747D - LJ000 - Condimento",
+    "rgb": {
+      "r": 177,
+      "g": 147,
+      "b": 113
+    },
+    "hex": "#B19371"
+  },
+  {
+    "nome": "2748D - LJ000 - Biscoito Jack",
+    "rgb": {
+      "r": 163,
+      "g": 132,
+      "b": 101
+    },
+    "hex": "#A38465"
+  },
+  {
+    "nome": "2749C - VL000 - Chicória",
+    "rgb": {
+      "r": 127,
+      "g": 101,
+      "b": 78
+    },
+    "hex": "#7F654E"
+  },
+  {
+    "nome": "2750P - LJ000 - Herança",
+    "rgb": {
+      "r": 238,
+      "g": 225,
+      "b": 206
+    },
+    "hex": "#EEE1CE"
+  },
+  {
+    "nome": "2751P - VL000 - Tampico",
+    "rgb": {
+      "r": 243,
+      "g": 213,
+      "b": 185
+    },
+    "hex": "#F3D5B9"
+  },
+  {
+    "nome": "2752P - LJ000 - Pueblo",
+    "rgb": {
+      "r": 226,
+      "g": 201,
+      "b": 171
+    },
+    "hex": "#E2C9AB"
+  },
+  {
+    "nome": "2753T - VL000 - Caramelo Beijo",
+    "rgb": {
+      "r": 204,
+      "g": 171,
+      "b": 138
+    },
+    "hex": "#CCAB8A"
+  },
+  {
+    "nome": "2754D - VL000 - Buckaroo",
+    "rgb": {
+      "r": 191,
+      "g": 151,
+      "b": 115
+    },
+    "hex": "#BF9773"
+  },
+  {
+    "nome": "2755D - VL000 - Puxa-Puxa Maçã",
+    "rgb": {
+      "r": 169,
+      "g": 126,
+      "b": 91
+    },
+    "hex": "#A97E5B"
+  },
+  {
+    "nome": "2756C - VL000 - Caravana",
+    "rgb": {
+      "r": 151,
+      "g": 111,
+      "b": 75
+    },
+    "hex": "#976F4B"
+  },
+  {
+    "nome": "2757P - VL000 - Deserto Areia",
+    "rgb": {
+      "r": 236,
+      "g": 224,
+      "b": 212
+    },
+    "hex": "#ECE0D4"
+  },
+  {
+    "nome": "2758P - LJ000 - Marta Pálido",
+    "rgb": {
+      "r": 231,
+      "g": 207,
+      "b": 183
+    },
+    "hex": "#E7CFB7"
+  },
+  {
+    "nome": "2759T - LJ000 - Camurça Castanho Claro",
+    "rgb": {
+      "r": 206,
+      "g": 179,
+      "b": 150
+    },
+    "hex": "#CEB396"
+  },
+  {
+    "nome": "2760T - VL000 - Audabon",
+    "rgb": {
+      "r": 195,
+      "g": 161,
+      "b": 133
+    },
+    "hex": "#C3A185"
+  },
+  {
+    "nome": "2761D - VL000 - Chickadee",
+    "rgb": {
+      "r": 178,
+      "g": 137,
+      "b": 107
+    },
+    "hex": "#B2896B"
+  },
+  {
+    "nome": "2762D - VL000 - Passa",
+    "rgb": {
+      "r": 161,
+      "g": 127,
+      "b": 99
+    },
+    "hex": "#A17F63"
+  },
+  {
+    "nome": "2763C - VL000 - Foto Vintage",
+    "rgb": {
+      "r": 136,
+      "g": 101,
+      "b": 73
+    },
+    "hex": "#886549"
+  },
+  {
+    "nome": "2764P - VL000 - Amarelo-Dourado Castanho Claro",
+    "rgb": {
+      "r": 241,
+      "g": 222,
+      "b": 208
+    },
+    "hex": "#F1DED0"
+  },
+  {
+    "nome": "2765P - LJ000 - Nude",
+    "rgb": {
+      "r": 221,
+      "g": 203,
+      "b": 179
+    },
+    "hex": "#DDCBB3"
+  },
+  {
+    "nome": "2766P - LJ000 - Espresso Creme",
+    "rgb": {
+      "r": 207,
+      "g": 189,
+      "b": 169
+    },
+    "hex": "#CFBDA9"
+  },
+  {
+    "nome": "2767T - VL000 - Apache",
+    "rgb": {
+      "r": 179,
+      "g": 153,
+      "b": 136
+    },
+    "hex": "#B39988"
+  },
+  {
+    "nome": "2768D - VL000 - Pimenta-da-Jamaica",
+    "rgb": {
+      "r": 164,
+      "g": 139,
+      "b": 117
+    },
+    "hex": "#A48B75"
+  },
+  {
+    "nome": "2769D - VL000 - Sequoia Marrom",
+    "rgb": {
+      "r": 150,
+      "g": 123,
+      "b": 102
+    },
+    "hex": "#967B66"
+  },
+  {
+    "nome": "2770C - VL000 - Montego",
+    "rgb": {
+      "r": 115,
+      "g": 88,
+      "b": 67
+    },
+    "hex": "#735843"
+  },
+  {
+    "nome": "2771P - LJ000 - Damasco Rubor",
+    "rgb": {
+      "r": 240,
+      "g": 223,
+      "b": 205
+    },
+    "hex": "#F0DFCD"
+  },
+  {
+    "nome": "2772P - VL000 - Ambrosia",
+    "rgb": {
+      "r": 234,
+      "g": 217,
+      "b": 201
+    },
+    "hex": "#EAD9C9"
+  },
+  {
+    "nome": "2773P - VL000 - Castanho Claro Corando",
+    "rgb": {
+      "r": 224,
+      "g": 198,
+      "b": 175
+    },
+    "hex": "#E0C6AF"
+  },
+  {
+    "nome": "2774T - VL000 - Cervo Bege",
+    "rgb": {
+      "r": 199,
+      "g": 173,
+      "b": 156
+    },
+    "hex": "#C7AD9C"
+  },
+  {
+    "nome": "2775D - VL000 - Cortez",
+    "rgb": {
+      "r": 175,
+      "g": 147,
+      "b": 123
+    },
+    "hex": "#AF937B"
+  },
+  {
+    "nome": "2776D - VL000 - Bordo Xarope",
+    "rgb": {
+      "r": 159,
+      "g": 127,
+      "b": 104
+    },
+    "hex": "#9F7F68"
+  },
+  {
+    "nome": "2777C - VL000 - do Diabo Comida",
+    "rgb": {
+      "r": 132,
+      "g": 105,
+      "b": 88
+    },
+    "hex": "#846958"
+  },
+  {
+    "nome": "2778P - LJ000 - Bege Glória",
+    "rgb": {
+      "r": 242,
+      "g": 233,
+      "b": 218
+    },
+    "hex": "#F2E9DA"
+  },
+  {
+    "nome": "2779P - LJ000 - Palheiro",
+    "rgb": {
+      "r": 234,
+      "g": 210,
+      "b": 186
+    },
+    "hex": "#EAD2BA"
+  },
+  {
+    "nome": "2780P - VL000 - Cana Açúcar",
+    "rgb": {
+      "r": 211,
+      "g": 182,
+      "b": 166
+    },
+    "hex": "#D3B6A6"
+  },
+  {
+    "nome": "2781T - VL000 - Mocassin Bege",
+    "rgb": {
+      "r": 195,
+      "g": 160,
+      "b": 140
+    },
+    "hex": "#C3A08C"
+  },
+  {
+    "nome": "2782D - VL000 - Camurça",
+    "rgb": {
+      "r": 176,
+      "g": 141,
+      "b": 121
+    },
+    "hex": "#B08D79"
+  },
+  {
+    "nome": "2783D - VL000 - Castanha",
+    "rgb": {
+      "r": 157,
+      "g": 121,
+      "b": 97
+    },
+    "hex": "#9D7961"
+  },
+  {
+    "nome": "2784C - VL000 - Mesa",
+    "rgb": {
+      "r": 123,
+      "g": 90,
+      "b": 75
+    },
+    "hex": "#7B5A4B"
+  },
+  {
+    "nome": "2785P - VL000 - Damasco Ilusão",
+    "rgb": {
+      "r": 233,
+      "g": 214,
+      "b": 197
+    },
+    "hex": "#E9D6C5"
+  },
+  {
+    "nome": "2786P - VL000 - Persa Bege",
+    "rgb": {
+      "r": 230,
+      "g": 202,
+      "b": 181
+    },
+    "hex": "#E6CAB5"
+  },
+  {
+    "nome": "2787P - VL000 - Seixo",
+    "rgb": {
+      "r": 225,
+      "g": 191,
+      "b": 166
+    },
+    "hex": "#E1BFA6"
+  },
+  {
+    "nome": "2788T - VL000 - Ultra Camurça",
+    "rgb": {
+      "r": 202,
+      "g": 161,
+      "b": 133
+    },
+    "hex": "#CAA185"
+  },
+  {
+    "nome": "2789D - VL000 - Sardas",
+    "rgb": {
+      "r": 184,
+      "g": 137,
+      "b": 109
+    },
+    "hex": "#B8896D"
+  },
+  {
+    "nome": "2790C - VL000 - Lobo",
+    "rgb": {
+      "r": 172,
+      "g": 125,
+      "b": 97
+    },
+    "hex": "#AC7D61"
+  },
+  {
+    "nome": "2791C - VL000 - Moses",
+    "rgb": {
+      "r": 145,
+      "g": 103,
+      "b": 81
+    },
+    "hex": "#916751"
+  },
+  {
+    "nome": "2794P - LJ000 - Angora",
+    "rgb": {
+      "r": 239,
+      "g": 223,
+      "b": 207
+    },
+    "hex": "#EFDFCF"
+  },
+  {
+    "nome": "2792P - VL000 - Sutil Tonalidade",
+    "rgb": {
+      "r": 222,
+      "g": 196,
+      "b": 179
+    },
+    "hex": "#DEC4B3"
+  },
+  {
+    "nome": "2793P - VL000 - Coco Bisque",
+    "rgb": {
+      "r": 217,
+      "g": 188,
+      "b": 172
+    },
+    "hex": "#D9BCAC"
+  },
+  {
+    "nome": "2795T - VL000 - Cozido Argila",
+    "rgb": {
+      "r": 195,
+      "g": 160,
+      "b": 141
+    },
+    "hex": "#C3A08D"
+  },
+  {
+    "nome": "2796D - VL000 - Mousse",
+    "rgb": {
+      "r": 161,
+      "g": 128,
+      "b": 109
+    },
+    "hex": "#A1806D"
+  },
+  {
+    "nome": "2797D - VL000 - Cacau Creme",
+    "rgb": {
+      "r": 154,
+      "g": 119,
+      "b": 99
+    },
+    "hex": "#9A7763"
+  },
+  {
+    "nome": "2798C - VL000 - Gatinho Kat",
+    "rgb": {
+      "r": 135,
+      "g": 92,
+      "b": 73
+    },
+    "hex": "#875C49"
+  },
+  {
+    "nome": "2799P - VL000 - Angelberry",
+    "rgb": {
+      "r": 251,
+      "g": 233,
+      "b": 219
+    },
+    "hex": "#FBE9DB"
+  },
+  {
+    "nome": "2800P - VL000 - Novo",
+    "rgb": {
+      "r": 244,
+      "g": 212,
+      "b": 197
+    },
+    "hex": "#F4D4C5"
+  },
+  {
+    "nome": "2801P - VL000 - Ridgeview",
+    "rgb": {
+      "r": 225,
+      "g": 190,
+      "b": 171
+    },
+    "hex": "#E1BEAB"
+  },
+  {
+    "nome": "2802T - VL000 - Bryce Canyon",
+    "rgb": {
+      "r": 199,
+      "g": 157,
+      "b": 135
+    },
+    "hex": "#C79D87"
+  },
+  {
+    "nome": "2803D - VL000 - Witchwood",
+    "rgb": {
+      "r": 183,
+      "g": 138,
+      "b": 117
+    },
+    "hex": "#B78A75"
+  },
+  {
+    "nome": "2804D - VL000 - Rocha Rio",
+    "rgb": {
+      "r": 163,
+      "g": 119,
+      "b": 94
+    },
+    "hex": "#A3775E"
+  },
+  {
+    "nome": "2805C - VL000 - Avelã",
+    "rgb": {
+      "r": 147,
+      "g": 95,
+      "b": 73
+    },
+    "hex": "#935F49"
+  },
+  {
+    "nome": "2810D - VL000 - Pagan",
+    "rgb": {
+      "r": 243,
+      "g": 224,
+      "b": 210
+    },
+    "hex": "#F3E0D2"
+  },
+  {
+    "nome": "2806P - VL000 - Rosa Castanho Claro",
+    "rgb": {
+      "r": 229,
+      "g": 195,
+      "b": 183
+    },
+    "hex": "#E5C3B7"
+  },
+  {
+    "nome": "2807P - VL000 - Corça Gentil",
+    "rgb": {
+      "r": 225,
+      "g": 182,
+      "b": 165
+    },
+    "hex": "#E1B6A5"
+  },
+  {
+    "nome": "2808P - VM000 - Cigano Castanho Claro",
+    "rgb": {
+      "r": 201,
+      "g": 152,
+      "b": 138
+    },
+    "hex": "#C9988A"
+  },
+  {
+    "nome": "2809T - VM000 - Mel Torrado",
+    "rgb": {
+      "r": 187,
+      "g": 125,
+      "b": 110
+    },
+    "hex": "#BB7D6E"
+  },
+  {
+    "nome": "2811D - VM000 - Canela Especiaria",
+    "rgb": {
+      "r": 170,
+      "g": 107,
+      "b": 90
+    },
+    "hex": "#AA6B5A"
+  },
+  {
+    "nome": "2812C - VM000 - Sequoia",
+    "rgb": {
+      "r": 143,
+      "g": 87,
+      "b": 72
+    },
+    "hex": "#8F5748"
+  },
+  {
+    "nome": "2813P - VL000 - Aconchegante Pêssego",
+    "rgb": {
+      "r": 237,
+      "g": 205,
+      "b": 192
+    },
+    "hex": "#EDCDC0"
+  },
+  {
+    "nome": "2814P - VM000 - Montego Baía",
+    "rgb": {
+      "r": 225,
+      "g": 181,
+      "b": 170
+    },
+    "hex": "#E1B5AA"
+  },
+  {
+    "nome": "2815P - VM000 - Terraço",
+    "rgb": {
+      "r": 212,
+      "g": 165,
+      "b": 155
+    },
+    "hex": "#D4A59B"
+  },
+  {
+    "nome": "2816T - VM000 - Cedro Ferrugem",
+    "rgb": {
+      "r": 198,
+      "g": 147,
+      "b": 130
+    },
+    "hex": "#C69382"
+  },
+  {
+    "nome": "2817D - VM000 - Java",
+    "rgb": {
+      "r": 176,
+      "g": 118,
+      "b": 104
+    },
+    "hex": "#B07668"
+  },
+  {
+    "nome": "2818D - VM000 - Melaço",
+    "rgb": {
+      "r": 163,
+      "g": 106,
+      "b": 95
+    },
+    "hex": "#A36A5F"
+  },
+  {
+    "nome": "2819C - VM000 - Moca Bisque",
+    "rgb": {
+      "r": 138,
+      "g": 89,
+      "b": 75
+    },
+    "hex": "#8A594B"
+  },
+  {
+    "nome": "2820P - VM000 - Veronese Pêssego",
+    "rgb": {
+      "r": 231,
+      "g": 201,
+      "b": 191
+    },
+    "hex": "#E7C9BF"
+  },
+  {
+    "nome": "2821P - VM000 - Rosa Manhã",
+    "rgb": {
+      "r": 223,
+      "g": 187,
+      "b": 175
+    },
+    "hex": "#DFBBAF"
+  },
+  {
+    "nome": "2822P - VM000 - Cor de Cordovão Pálido",
+    "rgb": {
+      "r": 213,
+      "g": 173,
+      "b": 163
+    },
+    "hex": "#D5ADA3"
+  },
+  {
+    "nome": "2823T - VM000 - Humas",
+    "rgb": {
+      "r": 192,
+      "g": 142,
+      "b": 133
+    },
+    "hex": "#C08E85"
+  },
+  {
+    "nome": "2824D - VM000 - Pão Preto",
+    "rgb": {
+      "r": 163,
+      "g": 110,
+      "b": 102
+    },
+    "hex": "#A36E66"
+  },
+  {
+    "nome": "2825D - VM000 - Brownies",
+    "rgb": {
+      "r": 148,
+      "g": 98,
+      "b": 89
+    },
+    "hex": "#946259"
+  },
+  {
+    "nome": "2826C - VM000 - Gengibre Menino",
+    "rgb": {
+      "r": 134,
+      "g": 86,
+      "b": 76
+    },
+    "hex": "#86564C"
+  },
+  {
+    "nome": "2827P - VL000 - Açúcar Rubor",
+    "rgb": {
+      "r": 234,
+      "g": 220,
+      "b": 209
+    },
+    "hex": "#EADCD1"
+  },
+  {
+    "nome": "2828P - VL000 - Barbante Bege",
+    "rgb": {
+      "r": 215,
+      "g": 188,
+      "b": 177
+    },
+    "hex": "#D7BCB1"
+  },
+  {
+    "nome": "2829P - VL000 - Saratoga Areia",
+    "rgb": {
+      "r": 198,
+      "g": 171,
+      "b": 160
+    },
+    "hex": "#C6ABA0"
+  },
+  {
+    "nome": "2830T - VL000 - Casca Queimado",
+    "rgb": {
+      "r": 174,
+      "g": 146,
+      "b": 135
+    },
+    "hex": "#AE9287"
+  },
+  {
+    "nome": "2831D - VM000 - Açúcar Riacho",
+    "rgb": {
+      "r": 150,
+      "g": 120,
+      "b": 110
+    },
+    "hex": "#96786E"
+  },
+  {
+    "nome": "2832D - VM000 - Sol Chá",
+    "rgb": {
+      "r": 135,
+      "g": 106,
+      "b": 100
+    },
+    "hex": "#876A64"
+  },
+  {
+    "nome": "2833C - VM000 - Quixote",
+    "rgb": {
+      "r": 108,
+      "g": 81,
+      "b": 72
+    },
+    "hex": "#6C5148"
+  },
+  {
+    "nome": "2834P - VL000 - Bege Rosa",
+    "rgb": {
+      "r": 236,
+      "g": 224,
+      "b": 212
+    },
+    "hex": "#ECE0D4"
+  },
+  {
+    "nome": "2835P - VM000 - Chowder",
+    "rgb": {
+      "r": 206,
+      "g": 187,
+      "b": 181
+    },
+    "hex": "#CEBBB5"
+  },
+  {
+    "nome": "2836P - VL000 - Mohawk",
+    "rgb": {
+      "r": 199,
+      "g": 179,
+      "b": 170
+    },
+    "hex": "#C7B3AA"
+  },
+  {
+    "nome": "2837T - VM000 - Arenoso Oco",
+    "rgb": {
+      "r": 164,
+      "g": 141,
+      "b": 135
+    },
+    "hex": "#A48D87"
+  },
+  {
+    "nome": "2838D - VM000 - Buccaneer",
+    "rgb": {
+      "r": 143,
+      "g": 116,
+      "b": 109
+    },
+    "hex": "#8F746D"
+  },
+  {
+    "nome": "2839D - VM000 - Vandyke Marrom",
+    "rgb": {
+      "r": 127,
+      "g": 100,
+      "b": 91
+    },
+    "hex": "#7F645B"
+  },
+  {
+    "nome": "2840C - VL000 - Musketeer",
+    "rgb": {
+      "r": 98,
+      "g": 81,
+      "b": 74
+    },
+    "hex": "#62514A"
+  },
+  {
+    "nome": "2841P - VL000 - Bege Tonalidade",
+    "rgb": {
+      "r": 246,
+      "g": 228,
+      "b": 214
+    },
+    "hex": "#F6E4D6"
+  },
+  {
+    "nome": "2842P - VL000 - Bristoe Creme",
+    "rgb": {
+      "r": 229,
+      "g": 207,
+      "b": 196
+    },
+    "hex": "#E5CFC4"
+  },
+  {
+    "nome": "2843P - VM000 - Amendoim",
+    "rgb": {
+      "r": 212,
+      "g": 184,
+      "b": 180
+    },
+    "hex": "#D4B8B4"
+  },
+  {
+    "nome": "2844T - VM000 - Trilhas Feliz",
+    "rgb": {
+      "r": 179,
+      "g": 150,
+      "b": 144
+    },
+    "hex": "#B39690"
+  },
+  {
+    "nome": "2845D - VM000 - Cloister",
+    "rgb": {
+      "r": 155,
+      "g": 121,
+      "b": 112
+    },
+    "hex": "#9B7970"
+  },
+  {
+    "nome": "2846D - VM000 - Noz Bosque",
+    "rgb": {
+      "r": 142,
+      "g": 108,
+      "b": 99
+    },
+    "hex": "#8E6C63"
+  },
+  {
+    "nome": "2847C - VM000 - Espresso",
+    "rgb": {
+      "r": 114,
+      "g": 84,
+      "b": 74
+    },
+    "hex": "#72544A"
+  },
+  {
+    "nome": "2848P - VL000 - Mogno Névoa",
+    "rgb": {
+      "r": 235,
+      "g": 213,
+      "b": 200
+    },
+    "hex": "#EBD5C8"
+  },
+  {
+    "nome": "2849P - VM000 - Bom Bom Creme",
+    "rgb": {
+      "r": 215,
+      "g": 187,
+      "b": 184
+    },
+    "hex": "#D7BBB8"
+  },
+  {
+    "nome": "2850P - VM000 - Camelot",
+    "rgb": {
+      "r": 203,
+      "g": 175,
+      "b": 171
+    },
+    "hex": "#CBAFAB"
+  },
+  {
+    "nome": "2851T - VM000 - Noz-Manteiga",
+    "rgb": {
+      "r": 188,
+      "g": 153,
+      "b": 147
+    },
+    "hex": "#BC9993"
+  },
+  {
+    "nome": "2852D - VM000 - Kodiak",
+    "rgb": {
+      "r": 145,
+      "g": 110,
+      "b": 106
+    },
+    "hex": "#916E6A"
+  },
+  {
+    "nome": "2853D - VM000 - Ogre",
+    "rgb": {
+      "r": 127,
+      "g": 94,
+      "b": 85
+    },
+    "hex": "#7F5E55"
+  },
+  {
+    "nome": "2854C - VM000 - Relógio Torre",
+    "rgb": {
+      "r": 98,
+      "g": 75,
+      "b": 69
+    },
+    "hex": "#624B45"
+  },
+  {
+    "nome": "2855P - VL000 - Dama de Honra",
+    "rgb": {
+      "r": 229,
+      "g": 216,
+      "b": 207
+    },
+    "hex": "#E5D8CF"
+  },
+  {
+    "nome": "2856P - VL000 - Maltado Leite",
+    "rgb": {
+      "r": 208,
+      "g": 191,
+      "b": 184
+    },
+    "hex": "#D0BFB8"
+  },
+  {
+    "nome": "2857P - VM000 - Necco",
+    "rgb": {
+      "r": 193,
+      "g": 174,
+      "b": 168
+    },
+    "hex": "#C1AEA8"
+  },
+  {
+    "nome": "2858T - VM000 - Runnymede",
+    "rgb": {
+      "r": 177,
+      "g": 158,
+      "b": 152
+    },
+    "hex": "#B19E98"
+  },
+  {
+    "nome": "2859D - VM000 - Cambridge",
+    "rgb": {
+      "r": 140,
+      "g": 116,
+      "b": 116
+    },
+    "hex": "#8C7474"
+  },
+  {
+    "nome": "2860D - VM000 - Chocolate Mousse",
+    "rgb": {
+      "r": 119,
+      "g": 98,
+      "b": 97
+    },
+    "hex": "#776261"
+  },
+  {
+    "nome": "2861C - VM000 - Othello",
+    "rgb": {
+      "r": 96,
+      "g": 78,
+      "b": 76
+    },
+    "hex": "#604E4C"
+  },
+  {
+    "nome": "2862P - VL000 - Anjo Asa",
+    "rgb": {
+      "r": 228,
+      "g": 215,
+      "b": 207
+    },
+    "hex": "#E4D7CF"
+  },
+  {
+    "nome": "2863P - VL000 - Nebuloso",
+    "rgb": {
+      "r": 230,
+      "g": 217,
+      "b": 209
+    },
+    "hex": "#E6D9D1"
+  },
+  {
+    "nome": "2864P - CC000 - Solitário Rocha",
+    "rgb": {
+      "r": 206,
+      "g": 195,
+      "b": 193
+    },
+    "hex": "#CEC3C1"
+  },
+  {
+    "nome": "2865T - VM000 - Desgastado",
+    "rgb": {
+      "r": 175,
+      "g": 161,
+      "b": 160
+    },
+    "hex": "#AFA1A0"
+  },
+  {
+    "nome": "2866T - VM000 - Pedregoso Riacho",
+    "rgb": {
+      "r": 154,
+      "g": 140,
+      "b": 140
+    },
+    "hex": "#9A8C8C"
+  },
+  {
+    "nome": "2867D - VO000 - Tundra Terra",
+    "rgb": {
+      "r": 112,
+      "g": 97,
+      "b": 100
+    },
+    "hex": "#706164"
+  },
+  {
+    "nome": "2868C - VM000 - Mustang",
+    "rgb": {
+      "r": 73,
+      "g": 63,
+      "b": 61
+    },
+    "hex": "#493F3D"
+  },
+  {
+    "nome": "2869P - BR000 - Bege Miragem",
+    "rgb": {
+      "r": 222,
+      "g": 213,
+      "b": 208
+    },
+    "hex": "#DED5D0"
+  },
+  {
+    "nome": "2870P - CC000 - Silverberry",
+    "rgb": {
+      "r": 206,
+      "g": 202,
+      "b": 199
+    },
+    "hex": "#CECAC7"
+  },
+  {
+    "nome": "2871P - CC000 - Fumaça Sinal",
+    "rgb": {
+      "r": 186,
+      "g": 181,
+      "b": 178
+    },
+    "hex": "#BAB5B2"
+  },
+  {
+    "nome": "2872T - CZ000 - Dustin",
+    "rgb": {
+      "r": 146,
+      "g": 144,
+      "b": 149
+    },
+    "hex": "#929095"
+  },
+  {
+    "nome": "2873D - CZ000 - Jato Cinza",
+    "rgb": {
+      "r": 125,
+      "g": 123,
+      "b": 126
+    },
+    "hex": "#7D7B7E"
+  },
+  {
+    "nome": "2874D - CZ000 - Boa Noite",
+    "rgb": {
+      "r": 106,
+      "g": 99,
+      "b": 106
+    },
+    "hex": "#6A636A"
+  },
+  {
+    "nome": "2875C - VE000 - Amora",
+    "rgb": {
+      "r": 67,
+      "g": 56,
+      "b": 60
+    },
+    "hex": "#43383C"
+  },
+  {
+    "nome": "2876P - BR000 - Mistério",
+    "rgb": {
+      "r": 241,
+      "g": 233,
+      "b": 222
+    },
+    "hex": "#F1E9DE"
+  },
+  {
+    "nome": "2877P - CC000 - Silverado",
+    "rgb": {
+      "r": 199,
+      "g": 189,
+      "b": 187
+    },
+    "hex": "#C7BDBB"
+  },
+  {
+    "nome": "2878P - CC000 - Lenda",
+    "rgb": {
+      "r": 183,
+      "g": 178,
+      "b": 174
+    },
+    "hex": "#B7B2AE"
+  },
+  {
+    "nome": "2879T - CC000 - Nuvem Escuro",
+    "rgb": {
+      "r": 154,
+      "g": 144,
+      "b": 143
+    },
+    "hex": "#9A908F"
+  },
+  {
+    "nome": "2880D - VM000 - Tempestade",
+    "rgb": {
+      "r": 129,
+      "g": 119,
+      "b": 117
+    },
+    "hex": "#817775"
+  },
+  {
+    "nome": "2881D - VO000 - Peregrinos Chapéu",
+    "rgb": {
+      "r": 111,
+      "g": 101,
+      "b": 102
+    },
+    "hex": "#6F6566"
+  },
+  {
+    "nome": "2882C - VM000 - Medieval",
+    "rgb": {
+      "r": 68,
+      "g": 58,
+      "b": 56
+    },
+    "hex": "#443A38"
+  },
+  {
+    "nome": "2883P - BR000 - Taupe Névoa",
+    "rgb": {
+      "r": 219,
+      "g": 208,
+      "b": 204
+    },
+    "hex": "#DBD0CC"
+  },
+  {
+    "nome": "2884P - VL000 - Branco Chocolate",
+    "rgb": {
+      "r": 223,
+      "g": 209,
+      "b": 198
+    },
+    "hex": "#DFD1C6"
+  },
+  {
+    "nome": "2885P - VM000 - Suavidade",
+    "rgb": {
+      "r": 199,
+      "g": 185,
+      "b": 182
+    },
+    "hex": "#C7B9B6"
+  },
+  {
+    "nome": "2886T - VL000 - Chaleira Tambor",
+    "rgb": {
+      "r": 163,
+      "g": 144,
+      "b": 137
+    },
+    "hex": "#A39089"
+  },
+  {
+    "nome": "2887D - VL000 - Pinha",
+    "rgb": {
+      "r": 140,
+      "g": 123,
+      "b": 116
+    },
+    "hex": "#8C7B74"
+  },
+  {
+    "nome": "2888D - VM000 - Kayak",
+    "rgb": {
+      "r": 127,
+      "g": 109,
+      "b": 107
+    },
+    "hex": "#7F6D6B"
+  },
+  {
+    "nome": "2889C - VM000 - Castlegate",
+    "rgb": {
+      "r": 86,
+      "g": 72,
+      "b": 69
+    },
+    "hex": "#564845"
+  },
+  {
+    "nome": "2890P - VL000 - Marrom Tonalidade",
+    "rgb": {
+      "r": 233,
+      "g": 216,
+      "b": 206
+    },
+    "hex": "#E9D8CE"
+  },
+  {
+    "nome": "2891P - VL000 - Berber Bege",
+    "rgb": {
+      "r": 231,
+      "g": 217,
+      "b": 206
+    },
+    "hex": "#E7D9CE"
+  },
+  {
+    "nome": "2892P - VL000 - Ardósia Bege",
+    "rgb": {
+      "r": 199,
+      "g": 179,
+      "b": 168
+    },
+    "hex": "#C7B3A8"
+  },
+  {
+    "nome": "2893T - VL000 - Concreto",
+    "rgb": {
+      "r": 169,
+      "g": 150,
+      "b": 136
+    },
+    "hex": "#A99688"
+  },
+  {
+    "nome": "2894D - VL000 - Bisão Bege",
+    "rgb": {
+      "r": 149,
+      "g": 130,
+      "b": 116
+    },
+    "hex": "#958274"
+  },
+  {
+    "nome": "2895D - VL000 - Raiz",
+    "rgb": {
+      "r": 139,
+      "g": 121,
+      "b": 109
+    },
+    "hex": "#8B796D"
+  },
+  {
+    "nome": "2896C - VL000 - Cerâmica",
+    "rgb": {
+      "r": 100,
+      "g": 83,
+      "b": 75
+    },
+    "hex": "#64534B"
+  },
+  {
+    "nome": "2897P - LJ000 - Cogumelo Pálido",
+    "rgb": {
+      "r": 240,
+      "g": 230,
+      "b": 220
+    },
+    "hex": "#F0E6DC"
+  },
+  {
+    "nome": "2898P - VL000 - Porcelana Boneca",
+    "rgb": {
+      "r": 211,
+      "g": 198,
+      "b": 190
+    },
+    "hex": "#D3C6BE"
+  },
+  {
+    "nome": "2899P - VL000 - Areia Tempestade",
+    "rgb": {
+      "r": 187,
+      "g": 171,
+      "b": 156
+    },
+    "hex": "#BBAB9C"
+  },
+  {
+    "nome": "2900T - VL000 - Yorkshire Marrom",
+    "rgb": {
+      "r": 170,
+      "g": 156,
+      "b": 143
+    },
+    "hex": "#AA9C8F"
+  },
+  {
+    "nome": "2901T - LJ000 - Colheita Tempo",
+    "rgb": {
+      "r": 157,
+      "g": 144,
+      "b": 128
+    },
+    "hex": "#9D9080"
+  },
+  {
+    "nome": "2902D - VL000 - Trilha Empoeirado",
+    "rgb": {
+      "r": 131,
+      "g": 117,
+      "b": 104
+    },
+    "hex": "#837568"
+  },
+  {
+    "nome": "2903C - VL000 - Seco Erva",
+    "rgb": {
+      "r": 93,
+      "g": 78,
+      "b": 71
+    },
+    "hex": "#5D4E47"
+  },
+  {
+    "nome": "2904P - LJ000 - Quase Branco",
+    "rgb": {
+      "r": 242,
+      "g": 233,
+      "b": 218
+    },
+    "hex": "#F2E9DA"
+  },
+  {
+    "nome": "2905P - LJ000 - Carvalho Amarelo Claro",
+    "rgb": {
+      "r": 209,
+      "g": 201,
+      "b": 188
+    },
+    "hex": "#D1C9BC"
+  },
+  {
+    "nome": "2906T - LJ000 - Mojave",
+    "rgb": {
+      "r": 192,
+      "g": 182,
+      "b": 170
+    },
+    "hex": "#C0B6AA"
+  },
+  {
+    "nome": "2907T - LJ000 - Bufftone",
+    "rgb": {
+      "r": 175,
+      "g": 165,
+      "b": 153
+    },
+    "hex": "#AFA599"
+  },
+  {
+    "nome": "2908D - LJ000 - Couro Cru",
+    "rgb": {
+      "r": 140,
+      "g": 127,
+      "b": 111
+    },
+    "hex": "#8C7F6F"
+  },
+  {
+    "nome": "2909D - LJ000 - Farelo Noz",
+    "rgb": {
+      "r": 121,
+      "g": 112,
+      "b": 97
+    },
+    "hex": "#797061"
+  },
+  {
+    "nome": "2910C - LJ000 - Rembrandt",
+    "rgb": {
+      "r": 89,
+      "g": 81,
+      "b": 70
+    },
+    "hex": "#595146"
+  },
+  {
+    "nome": "2911P - LJ000 - Mármore Névoa",
+    "rgb": {
+      "r": 247,
+      "g": 238,
+      "b": 223
+    },
+    "hex": "#F7EEDF"
+  },
+  {
+    "nome": "2912P - BR000 - Polar Urso",
+    "rgb": {
+      "r": 246,
+      "g": 238,
+      "b": 227
+    },
+    "hex": "#F6EEE3"
+  },
+  {
+    "nome": "2913P - VL000 - Taupe Cinza",
+    "rgb": {
+      "r": 211,
+      "g": 201,
+      "b": 192
+    },
+    "hex": "#D3C9C0"
+  },
+  {
+    "nome": "2914T - LJ000 - Assado Argila",
+    "rgb": {
+      "r": 183,
+      "g": 175,
+      "b": 164
+    },
+    "hex": "#B7AFA4"
+  },
+  {
+    "nome": "2915D - LJ000 - Umbertone",
+    "rgb": {
+      "r": 137,
+      "g": 127,
+      "b": 115
+    },
+    "hex": "#897F73"
+  },
+  {
+    "nome": "2916D - VL000 - Perdido Cavern",
+    "rgb": {
+      "r": 126,
+      "g": 117,
+      "b": 112
+    },
+    "hex": "#7E7570"
+  },
+  {
+    "nome": "2917C - LJ000 - Keystone",
+    "rgb": {
+      "r": 99,
+      "g": 90,
+      "b": 81
+    },
+    "hex": "#635A51"
+  },
+  {
+    "nome": "2918P - VL000 - Caiação",
+    "rgb": {
+      "r": 233,
+      "g": 220,
+      "b": 212
+    },
+    "hex": "#E9DCD4"
+  },
+  {
+    "nome": "2919P - VL000 - Prateado Tela",
+    "rgb": {
+      "r": 216,
+      "g": 206,
+      "b": 197
+    },
+    "hex": "#D8CEC5"
+  },
+  {
+    "nome": "2920P - CC000 - Ravin Sombra",
+    "rgb": {
+      "r": 190,
+      "g": 186,
+      "b": 175
+    },
+    "hex": "#BEBAAF"
+  },
+  {
+    "nome": "2921T - CC000 - Eureca",
+    "rgb": {
+      "r": 157,
+      "g": 154,
+      "b": 147
+    },
+    "hex": "#9D9A93"
+  },
+  {
+    "nome": "2922D - LA000 - Tiber",
+    "rgb": {
+      "r": 138,
+      "g": 135,
+      "b": 120
+    },
+    "hex": "#8A8778"
+  },
+  {
+    "nome": "2923D - LJ000 - Reclusão",
+    "rgb": {
+      "r": 128,
+      "g": 120,
+      "b": 109
+    },
+    "hex": "#80786D"
+  },
+  {
+    "nome": "2924C - LJ000 - Lava Pedra",
+    "rgb": {
+      "r": 93,
+      "g": 88,
+      "b": 82
+    },
+    "hex": "#5D5852"
+  },
+  {
+    "nome": "2925P - LJ000 - Oliva Quente",
+    "rgb": {
+      "r": 224,
+      "g": 216,
+      "b": 203
+    },
+    "hex": "#E0D8CB"
+  },
+  {
+    "nome": "2926P - LJ000 - Branco Fumaça",
+    "rgb": {
+      "r": 209,
+      "g": 201,
+      "b": 190
+    },
+    "hex": "#D1C9BE"
+  },
+  {
+    "nome": "2927P - LA000 - Intermitente",
+    "rgb": {
+      "r": 186,
+      "g": 183,
+      "b": 168
+    },
+    "hex": "#BAB7A8"
+  },
+  {
+    "nome": "2928T - LJ000 - Água Cinza",
+    "rgb": {
+      "r": 169,
+      "g": 161,
+      "b": 148
+    },
+    "hex": "#A9A194"
+  },
+  {
+    "nome": "2929D - LA000 - Sombreado Colina",
+    "rgb": {
+      "r": 141,
+      "g": 139,
+      "b": 124
+    },
+    "hex": "#8D8B7C"
+  },
+  {
+    "nome": "2930D - LA000 - Baía Baga",
+    "rgb": {
+      "r": 129,
+      "g": 127,
+      "b": 114
+    },
+    "hex": "#817F72"
+  },
+  {
+    "nome": "2931C - AM000 - Musgo Escuro",
+    "rgb": {
+      "r": 91,
+      "g": 92,
+      "b": 84
+    },
+    "hex": "#5B5C54"
+  },
+  {
+    "nome": "2932P - BR000 - Espuma Verde",
+    "rgb": {
+      "r": 220,
+      "g": 220,
+      "b": 212
+    },
+    "hex": "#DCDCD4"
+  },
+  {
+    "nome": "2933P - CC000 - Jade Creme",
+    "rgb": {
+      "r": 201,
+      "g": 204,
+      "b": 197
+    },
+    "hex": "#C9CCC5"
+  },
+  {
+    "nome": "2934P - CC000 - Espuma Floresta",
+    "rgb": {
+      "r": 178,
+      "g": 185,
+      "b": 177
+    },
+    "hex": "#B2B9B1"
+  },
+  {
+    "nome": "2935T - CZ000 - Iuca",
+    "rgb": {
+      "r": 139,
+      "g": 149,
+      "b": 140
+    },
+    "hex": "#8B958C"
+  },
+  {
+    "nome": "2936D - VZ000 - Verde Chá",
+    "rgb": {
+      "r": 121,
+      "g": 134,
+      "b": 125
+    },
+    "hex": "#79867D"
+  },
+  {
+    "nome": "2937D - VD000 - Lagarto",
+    "rgb": {
+      "r": 106,
+      "g": 116,
+      "b": 105
+    },
+    "hex": "#6A7469"
+  },
+  {
+    "nome": "2938C - VS000 - Imponente Pinho",
+    "rgb": {
+      "r": 76,
+      "g": 86,
+      "b": 77
+    },
+    "hex": "#4C564D"
+  },
+  {
+    "nome": "2939P - BR000 - Menta Creme",
+    "rgb": {
+      "r": 232,
+      "g": 228,
+      "b": 217
+    },
+    "hex": "#E8E4D9"
+  },
+  {
+    "nome": "2940P - CC000 - Miller Empoeirado",
+    "rgb": {
+      "r": 190,
+      "g": 192,
+      "b": 187
+    },
+    "hex": "#BEC0BB"
+  },
+  {
+    "nome": "2941T - CC000 - Cavalier",
+    "rgb": {
+      "r": 170,
+      "g": 179,
+      "b": 176
+    },
+    "hex": "#AAB3B0"
+  },
+  {
+    "nome": "2942T - CC000 - Sálvia Doce",
+    "rgb": {
+      "r": 143,
+      "g": 155,
+      "b": 155
+    },
+    "hex": "#8F9B9B"
+  },
+  {
+    "nome": "2943D - CZ000 - Golfo",
+    "rgb": {
+      "r": 124,
+      "g": 133,
+      "b": 132
+    },
+    "hex": "#7C8584"
+  },
+  {
+    "nome": "2944D - CZ000 - Selva Profundo",
+    "rgb": {
+      "r": 107,
+      "g": 116,
+      "b": 115
+    },
+    "hex": "#6B7473"
+  },
+  {
+    "nome": "2945C - AE000 - Abeto Bosque",
+    "rgb": {
+      "r": 69,
+      "g": 78,
+      "b": 77
+    },
+    "hex": "#454E4D"
+  },
+  {
+    "nome": "2946P - BR000 - Cinza Sombra",
+    "rgb": {
+      "r": 227,
+      "g": 222,
+      "b": 216
+    },
+    "hex": "#E3DED8"
+  },
+  {
+    "nome": "2947P - CC000 - Encoberto",
+    "rgb": {
+      "r": 200,
+      "g": 200,
+      "b": 198
+    },
+    "hex": "#C8C8C6"
+  },
+  {
+    "nome": "2948P - CC000 - Chinchila Pelo",
+    "rgb": {
+      "r": 181,
+      "g": 181,
+      "b": 179
+    },
+    "hex": "#B5B5B3"
+  },
+  {
+    "nome": "2949T - CC000 - Segunda-Feira",
+    "rgb": {
+      "r": 153,
+      "g": 155,
+      "b": 154
+    },
+    "hex": "#999B9A"
+  },
+  {
+    "nome": "2950D - CZ000 - Veneziano",
+    "rgb": {
+      "r": 128,
+      "g": 130,
+      "b": 129
+    },
+    "hex": "#808281"
+  },
+  {
+    "nome": "2951D - CZ000 - Abismo",
+    "rgb": {
+      "r": 105,
+      "g": 109,
+      "b": 112
+    },
+    "hex": "#696D70"
+  },
+  {
+    "nome": "2952C - CE000 - Preto Colinas",
+    "rgb": {
+      "r": 65,
+      "g": 65,
+      "b": 67
+    },
+    "hex": "#414143"
+  },
+  {
+    "nome": "2953P - LJ000 - Desgastado Branco",
+    "rgb": {
+      "r": 240,
+      "g": 231,
+      "b": 214
+    },
+    "hex": "#F0E7D6"
+  },
+  {
+    "nome": "2954P - CC000 - Lua e Estrelas",
+    "rgb": {
+      "r": 204,
+      "g": 201,
+      "b": 196
+    },
+    "hex": "#CCC9C4"
+  },
+  {
+    "nome": "2955P - CC000 - Silhueta Enfumaçado",
+    "rgb": {
+      "r": 187,
+      "g": 186,
+      "b": 182
+    },
+    "hex": "#BBBAB6"
+  },
+  {
+    "nome": "2956T - CC000 - Fantasma",
+    "rgb": {
+      "r": 158,
+      "g": 157,
+      "b": 153
+    },
+    "hex": "#9E9D99"
+  },
+  {
+    "nome": "2957D - CZ000 - Deslizamento de Rochas",
+    "rgb": {
+      "r": 125,
+      "g": 127,
+      "b": 126
+    },
+    "hex": "#7D7F7E"
+  },
+  {
+    "nome": "2958D - CZ000 - Noite Movimentos",
+    "rgb": {
+      "r": 106,
+      "g": 108,
+      "b": 107
+    },
+    "hex": "#6A6C6B"
+  },
+  {
+    "nome": "2959C - CE000 - Preto Breu",
+    "rgb": {
+      "r": 77,
+      "g": 77,
+      "b": 77
+    },
+    "hex": "#4D4D4D"
+  },
+  {
+    "nome": "2960P - BR000 - Solidão",
+    "rgb": {
+      "r": 222,
+      "g": 219,
+      "b": 214
+    },
+    "hex": "#DEDBD6"
+  },
+  {
+    "nome": "2961P - CC000 - Cidade Luzes",
+    "rgb": {
+      "r": 205,
+      "g": 205,
+      "b": 203
+    },
+    "hex": "#CDCDCB"
+  },
+  {
+    "nome": "2962P - CC000 - Prateado Noite",
+    "rgb": {
+      "r": 171,
+      "g": 179,
+      "b": 181
+    },
+    "hex": "#ABB3B5"
+  },
+  {
+    "nome": "2963T - AX000 - Atlântida Céu",
+    "rgb": {
+      "r": 142,
+      "g": 149,
+      "b": 157
+    },
+    "hex": "#8E959D"
+  },
+  {
+    "nome": "2964D - AX000 - Cinza Flanela",
+    "rgb": {
+      "r": 122,
+      "g": 129,
+      "b": 137
+    },
+    "hex": "#7A8189"
+  },
+  {
+    "nome": "2965D - AX000 - Sinbad",
+    "rgb": {
+      "r": 110,
+      "g": 117,
+      "b": 125
+    },
+    "hex": "#6E757D"
+  },
+  {
+    "nome": "2966C - AZ000 - Interior Profundidade",
+    "rgb": {
+      "r": 62,
+      "g": 66,
+      "b": 69
+    },
+    "hex": "#3E4245"
+  },
+  {
+    "nome": "2967P - BR000 - Frio",
+    "rgb": {
+      "r": 223,
+      "g": 223,
+      "b": 215
+    },
+    "hex": "#DFDFD7"
+  },
+  {
+    "nome": "2968P - CC000 - Nebuloso Sombra",
+    "rgb": {
+      "r": 204,
+      "g": 209,
+      "b": 212
+    },
+    "hex": "#CCD1D4"
+  },
+  {
+    "nome": "2969P - AC000 - Sonho Pó",
+    "rgb": {
+      "r": 173,
+      "g": 191,
+      "b": 195
+    },
+    "hex": "#ADBFC3"
+  },
+  {
+    "nome": "2970T - AZ000 - Juneau",
+    "rgb": {
+      "r": 143,
+      "g": 159,
+      "b": 172
+    },
+    "hex": "#8F9FAC"
+  },
+  {
+    "nome": "2971D - AZ000 - Flórida Pântano",
+    "rgb": {
+      "r": 190,
+      "g": 209,
+      "b": 216
+    },
+    "hex": "#BED1D8"
+  },
+  {
+    "nome": "2972D - AZ000 - Amazônia",
+    "rgb": {
+      "r": 96,
+      "g": 115,
+      "b": 122
+    },
+    "hex": "#60737A"
+  },
+  {
+    "nome": "2973C - AX000 - Distante Colinas",
+    "rgb": {
+      "r": 69,
+      "g": 76,
+      "b": 84
+    },
+    "hex": "#454C54"
+  },
+  {
+    "nome": "2977I - BR000 - Smokeytone",
+    "rgb": {
+      "r": 235,
+      "g": 232,
+      "b": 225
+    },
+    "hex": "#EBE8E1"
+  },
+  {
+    "nome": "2974P - CC000 - Canção de Ninar Pequeno",
+    "rgb": {
+      "r": 208,
+      "g": 212,
+      "b": 211
+    },
+    "hex": "#D0D4D3"
+  },
+  {
+    "nome": "2975P - AZ000 - Miranda",
+    "rgb": {
+      "r": 165,
+      "g": 179,
+      "b": 188
+    },
+    "hex": "#A5B3BC"
+  },
+  {
+    "nome": "2976P - AZ000 - Capela Cinza",
+    "rgb": {
+      "r": 136,
+      "g": 150,
+      "b": 159
+    },
+    "hex": "#88969F"
+  },
+  {
+    "nome": "2978D - AX000 - Darlington",
+    "rgb": {
+      "r": 108,
+      "g": 120,
+      "b": 132
+    },
+    "hex": "#6C7884"
+  },
+  {
+    "nome": "2979D - AZ000 - Sombrio Céu",
+    "rgb": {
+      "r": 95,
+      "g": 112,
+      "b": 122
+    },
+    "hex": "#5F707A"
+  },
+  {
+    "nome": "2980C - AX000 - Tempestuoso Azul",
+    "rgb": {
+      "r": 64,
+      "g": 71,
+      "b": 81
+    },
+    "hex": "#404751"
+  },
+  {
+    "nome": "2981P - CC000 - Appolo Azul",
+    "rgb": {
+      "r": 197,
+      "g": 208,
+      "b": 210
+    },
+    "hex": "#C5D0D2"
+  },
+  {
+    "nome": "2982P - AZ000 - Ventoso Pico",
+    "rgb": {
+      "r": 180,
+      "g": 197,
+      "b": 204
+    },
+    "hex": "#B4C5CC"
+  },
+  {
+    "nome": "2983T - AZ000 - Oceano Onda",
+    "rgb": {
+      "r": 148,
+      "g": 176,
+      "b": 190
+    },
+    "hex": "#94B0BE"
+  },
+  {
+    "nome": "2984T - AZ000 - Sorcerer",
+    "rgb": {
+      "r": 124,
+      "g": 153,
+      "b": 171
+    },
+    "hex": "#7C99AB"
+  },
+  {
+    "nome": "2985D - AZ000 - Tempestade Tempestade",
+    "rgb": {
+      "r": 103,
+      "g": 130,
+      "b": 151
+    },
+    "hex": "#678297"
+  },
+  {
+    "nome": "2986D - AZ000 - Meia-Noite Céu",
+    "rgb": {
+      "r": 84,
+      "g": 111,
+      "b": 132
+    },
+    "hex": "#546F84"
+  },
+  {
+    "nome": "2987C - AX000 - Copen Azul",
+    "rgb": {
+      "r": 65,
+      "g": 77,
+      "b": 91
+    },
+    "hex": "#414D5B"
+  },
+  {
+    "nome": "2988P - BR000 - Angelical Azul",
+    "rgb": {
+      "r": 219,
+      "g": 220,
+      "b": 214
+    },
+    "hex": "#DBDCD6"
+  },
+  {
+    "nome": "2989P - AX000 - Lama de Neve",
+    "rgb": {
+      "r": 195,
+      "g": 202,
+      "b": 212
+    },
+    "hex": "#C3CAD4"
+  },
+  {
+    "nome": "2990P - AX000 - Trempealeau",
+    "rgb": {
+      "r": 166,
+      "g": 177,
+      "b": 195
+    },
+    "hex": "#A6B1C3"
+  },
+  {
+    "nome": "2991T - AX000 - Chinês Azul",
+    "rgb": {
+      "r": 138,
+      "g": 146,
+      "b": 165
+    },
+    "hex": "#8A92A5"
+  },
+  {
+    "nome": "2992D - AX000 - Azul Áster",
+    "rgb": {
+      "r": 116,
+      "g": 127,
+      "b": 145
+    },
+    "hex": "#747F91"
+  },
+  {
+    "nome": "2993D - AX000 - Azul Rapsódia",
+    "rgb": {
+      "r": 90,
+      "g": 108,
+      "b": 132
+    },
+    "hex": "#5A6C84"
+  },
+  {
+    "nome": "2994C - VT000 - Marinho Azul",
+    "rgb": {
+      "r": 70,
+      "g": 75,
+      "b": 94
+    },
+    "hex": "#464B5E"
+  },
+  {
+    "nome": "2995P - BR000 - Windstream",
+    "rgb": {
+      "r": 219,
+      "g": 219,
+      "b": 217
+    },
+    "hex": "#DBDBD9"
+  },
+  {
+    "nome": "2996P - CC000 - Meio Lua",
+    "rgb": {
+      "r": 199,
+      "g": 203,
+      "b": 214
+    },
+    "hex": "#C7CBD6"
+  },
+  {
+    "nome": "2997P - VT000 - Enevoado Noite",
+    "rgb": {
+      "r": 173,
+      "g": 178,
+      "b": 197
+    },
+    "hex": "#ADB2C5"
+  },
+  {
+    "nome": "2998T - AX000 - Fonte Riacho",
+    "rgb": {
+      "r": 147,
+      "g": 158,
+      "b": 176
+    },
+    "hex": "#939EB0"
+  },
+  {
+    "nome": "2999D - AX000 - Distante Céu",
+    "rgb": {
+      "r": 118,
+      "g": 126,
+      "b": 145
+    },
+    "hex": "#767E91"
+  },
+  {
+    "nome": "3000D - AZ000 - Azul Barba",
+    "rgb": {
+      "r": 93,
+      "g": 112,
+      "b": 129
+    },
+    "hex": "#5D7081"
+  },
+  {
+    "nome": "3001C - AX000 - Luzes Fora",
+    "rgb": {
+      "r": 69,
+      "g": 73,
+      "b": 82
+    },
+    "hex": "#454952"
+  },
+  {
+    "nome": "3002P - BR000 - Branco on Branco",
+    "rgb": {
+      "r": 234,
+      "g": 232,
+      "b": 219
+    },
+    "hex": "#EAE8DB"
+  },
+  {
+    "nome": "3003P - CC000 - Sino de Neve",
+    "rgb": {
+      "r": 188,
+      "g": 188,
+      "b": 190
+    },
+    "hex": "#BCBCBE"
+  },
+  {
+    "nome": "3004P - CC000 - Sussex",
+    "rgb": {
+      "r": 166,
+      "g": 171,
+      "b": 174
+    },
+    "hex": "#A6ABAE"
+  },
+  {
+    "nome": "3005T - AX000 - Nantucket",
+    "rgb": {
+      "r": 143,
+      "g": 147,
+      "b": 156
+    },
+    "hex": "#8F939C"
+  },
+  {
+    "nome": "3006D - AX000 - Sonora Mar",
+    "rgb": {
+      "r": 115,
+      "g": 122,
+      "b": 130
+    },
+    "hex": "#737A82"
+  },
+  {
+    "nome": "3007D - AX000 - Eclipse",
+    "rgb": {
+      "r": 97,
+      "g": 104,
+      "b": 114
+    },
+    "hex": "#616872"
+  },
+  {
+    "nome": "3008C - CE000 - Carvão Mina",
+    "rgb": {
+      "r": 76,
+      "g": 75,
+      "b": 80
+    },
+    "hex": "#4C4B50"
+  }
+]
